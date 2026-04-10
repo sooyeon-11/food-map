@@ -146,22 +146,12 @@
 
   function updateSubTabsVisibility() { buildSubTabs(); }
 
-  function getCardImage(store) {
-    // Prefer menu photos (food) over thumbnails (could be banner/exterior)
-    if (store.menus && store.menus.length > 0) {
-      const menuImg = store.menus.find(m => m.image)?.image;
-      if (menuImg) return menuImg;
-    }
-    return store.thumbnail;
-  }
-
   function createCard(store) {
     const card = document.createElement('div');
     card.className = 'store-card';
     card.onclick = () => openModal(store);
-    const cardImg = getCardImage(store);
-    const imageHtml = cardImg
-      ? `<img class="card-image" src="${cardImg}" alt="${store.name}" loading="lazy" onerror="this.outerHTML='<div class=\\'card-image-placeholder\\'>🍚</div>'">`
+    const imageHtml = store.thumbnail
+      ? `<img class="card-image" src="${store.thumbnail}" alt="${store.name}" loading="lazy" onerror="this.outerHTML='<div class=\\'card-image-placeholder\\'>🍚</div>'">`
       : `<div class="card-image-placeholder">🍚</div>`;
     const locationParts = store.address.split(' ');
     const locationText = store.subRegion
