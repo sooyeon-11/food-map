@@ -272,8 +272,21 @@ async function main() {
     await sleep(800);
   }
 
+  // Update hours for existing stores
+  const kept = existing.filter(s => currentIds.has(s.id));
+  console.log(`기존 매장 영업시간 갱신 중... (${kept.length}개)`);
+  for (let i = 0; i < kept.length; i++) {
+    if (i % 50 === 0 && i > 0) console.log(`  ${i}/${kept.length}...`);
+    try {
+      const d = await fetchJson(`https://map.naver.com/p/api/place/summary/${kept[i].id}`);
+      const pd = d?.data?.placeDetail;
+      if (pd?.businessHours?.description) kept[i].hours = pd.businessHours.description;
+    } catch {}
+    await sleep(300);
+  }
+
   const finalStores = [
-    ...existing.filter(s => currentIds.has(s.id)),
+    ...kept,
     ...newStores,
   ];
 
