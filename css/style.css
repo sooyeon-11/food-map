@@ -58,7 +58,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
-  border-bottom: 1px solid var(--border);
+  border-bottom: none;
 }
 
 .header-inner {
@@ -302,6 +302,12 @@ body {
   text-align: center; padding: 24px 16px 20px; color: var(--text-light);
   font-size: 12px; border-top: 1px solid var(--border); margin-top: 32px; background: #fff;
 }
+.footer-links { display: flex; justify-content: center; gap: 18px; margin-bottom: 10px; }
+.footer-link {
+  display: inline-flex; align-items: center; gap: 4px;
+  color: var(--text-light); text-decoration: none; font-size: 13px; transition: color 0.2s;
+}
+.footer-link:hover { color: var(--primary); }
 
 /* ========== Modal ========== */
 .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 200; display: flex; align-items: center; justify-content: center; padding: 20px; backdrop-filter: blur(4px); }
