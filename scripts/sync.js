@@ -221,7 +221,7 @@ async function collectStoreData(sid, bookmark) {
     reviews: pd?.visitorReviews?.displayText || '',
     naverPlaceUrl: `https://m.place.naver.com/place/${sid}`,
     instagramUrl, blogUrl, homepageUrl,
-    menus: menus.slice(0, 10), microReview, conveniences, roadGuide,
+    menus: menus.slice(0, 15), microReview, conveniences, roadGuide,
     nearestSubway, seatInfo, blogReviews: blogReviews.slice(0, 3),
     reviewTotal, imageReviewCount, reviewThemes,
     visitorReviews: visitorReviews.slice(0, 5),
