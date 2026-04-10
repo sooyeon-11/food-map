@@ -198,7 +198,8 @@ async function collectStoreData(sid, bookmark) {
       }
 
       const stateStr = JSON.stringify(state);
-      const imgMatches = stateStr.match(/https:\/\/ldb-phinf\.pstatic\.net\/[^"\\]+/g);
+      // Match both pstatic.net (HTTPS) and blogfiles.naver.net (HTTP) images
+      const imgMatches = stateStr.match(/https?:\/\/(?:ldb-phinf\.pstatic\.net|blogfiles\.naver\.net)\/[^"\\#]+/g);
       if (imgMatches) {
         const menuImgs = new Set(menus.map(m => m.image).filter(Boolean));
         apolloImages = [...new Set(imgMatches)].filter(u => !menuImgs.has(u));
@@ -256,7 +257,13 @@ async function collectStoreData(sid, bookmark) {
   } catch {}
 
   const allImages = [...summaryImages, ...apolloImages];
-  const uniqueImages = [...new Set(allImages)].slice(0, 15);
+  // Clean: strip fragment, sort HTTPS first, proxy HTTP via wsrv.nl
+  const cleaned = [...new Set(allImages)]
+    .map(u => u ? u.split('#')[0] : null)
+    .filter(Boolean)
+    .sort((a, b) => (a.startsWith('https://') ? 0 : 1) - (b.startsWith('https://') ? 0 : 1))
+    .map(u => u.startsWith('http://') ? 'https://wsrv.nl/?url=' + encodeURIComponent(u) : u);
+  const uniqueImages = cleaned.slice(0, 15);
 
   return {
     id: sid, name: b.name, address: b.address,
