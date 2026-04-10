@@ -54,12 +54,11 @@ body {
 
 /* ========== Header ========== */
 .header {
-  background: #fff;
+  background: linear-gradient(180deg, #fff 0%, #fdf2ee 100%);
   position: sticky;
   top: 0;
   z-index: 100;
-  border-bottom: none;
-  margin-bottom: -1px;
+  border-bottom: 1px solid var(--border);
 }
 
 .header-inner {
@@ -299,27 +298,51 @@ body {
 .map-popup-badge { display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 8px; background: #fde8e4; color: var(--badge-korean); margin-top: 4px; }
 
 /* ========== Cross Link ========== */
-.cross-link-wrap {
-  text-align: center;
-  margin-top: 28px;
+.cross-link-section {
+  margin-top: 40px;
 }
 
-.cross-link-chip {
-  display: inline-block;
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--text-light);
-  text-decoration: none;
-  padding: 10px 22px;
-  border: 1.5px solid var(--border);
-  border-radius: 24px;
+.cross-link-card {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 20px 28px;
+  max-width: 520px;
+  margin: 0 auto;
   background: #fff;
+  border: 2px dashed var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--text);
   transition: all 0.2s;
 }
 
-.cross-link-chip:hover {
+.cross-link-card:hover {
   border-color: var(--primary);
-  color: var(--primary-dark);
+  background: #fdf2ee;
+  transform: translateY(-2px);
+}
+
+.cross-link-emoji {
+  font-size: 36px;
+  flex-shrink: 0;
+}
+
+.cross-link-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cross-link-title {
+  font-family: 'Cafe24Surround', sans-serif;
+  font-size: 17px;
+  color: var(--text);
+}
+
+.cross-link-sub {
+  font-size: 13px;
+  color: var(--text-light);
 }
 
 /* ========== Footer ========== */

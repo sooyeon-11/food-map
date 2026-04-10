@@ -473,7 +473,7 @@
   // Sync header height for sticky tabs
   function syncHeaderHeight() {
     const header = document.querySelector('.header');
-    if (header) document.documentElement.style.setProperty('--header-height', header.offsetHeight + 'px');
+    if (header) document.documentElement.style.setProperty('--header-height', (header.offsetHeight - 1) + 'px');
   }
   window.addEventListener('resize', syncHeaderHeight);
 
