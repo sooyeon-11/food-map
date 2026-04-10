@@ -64,8 +64,13 @@
         (s.menus && s.menus.some(m => m.name && m.name.toLowerCase().includes(q)))
       );
     }
-    // Sort: stores with images first
-    stores.sort((a, b) => (b.images?.length || 0) - (a.images?.length || 0));
+    // Sort: 한식 first, then stores with images
+    stores.sort((a, b) => {
+      const aKorean = a.category === '한식' ? 1 : 0;
+      const bKorean = b.category === '한식' ? 1 : 0;
+      if (aKorean !== bKorean) return bKorean - aKorean;
+      return (b.images?.length || 0) - (a.images?.length || 0);
+    });
     return stores;
   }
 
