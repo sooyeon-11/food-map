@@ -1,6 +1,6 @@
 // Main App
 (function () {
-  function getPageSize() { return window.innerWidth <= 540 ? 6 : 12; }
+  function getPageSize() { return window.innerWidth <= 540 ? 6 : 15; }
   let currentRegion = '부산';
   let currentSubRegion = 'all';
   let currentCategory = 'all';
