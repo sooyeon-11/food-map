@@ -64,13 +64,17 @@
         (s.menus && s.menus.some(m => m.name && m.name.toLowerCase().includes(q)))
       );
     }
-    // Sort: has images first, then by popularity (review count)
-    stores.sort((a, b) => {
-      const aHasImg = (a.images?.length || 0) > 0 ? 1 : 0;
-      const bHasImg = (b.images?.length || 0) > 0 ? 1 : 0;
-      if (aHasImg !== bHasImg) return bHasImg - aHasImg;
-      return (b.reviewTotal || 0) - (a.reviewTotal || 0);
-    });
+    // Sort: food-focused thumbnails first
+    // Score: has menu photos + high image review count (both indicate food-heavy listings)
+    const scoreStore = (s) => {
+      const hasImg = (s.images?.length || 0) > 0 ? 1 : 0;
+      if (!hasImg) return -1;
+      const menuImgCount = (s.menus || []).filter(m => m.image).length;
+      const imgReviews = s.imageReviewCount || 0;
+      // Primary: menu photos (owner-curated food), secondary: visitor food photos
+      return menuImgCount * 1000 + Math.min(imgReviews, 5000);
+    };
+    stores.sort((a, b) => scoreStore(b) - scoreStore(a));
     return stores;
   }
 
@@ -142,12 +146,22 @@
 
   function updateSubTabsVisibility() { buildSubTabs(); }
 
+  function getCardImage(store) {
+    // Prefer menu photos (food) over thumbnails (could be banner/exterior)
+    if (store.menus && store.menus.length > 0) {
+      const menuImg = store.menus.find(m => m.image)?.image;
+      if (menuImg) return menuImg;
+    }
+    return store.thumbnail;
+  }
+
   function createCard(store) {
     const card = document.createElement('div');
     card.className = 'store-card';
     card.onclick = () => openModal(store);
-    const imageHtml = store.thumbnail
-      ? `<img class="card-image" src="${store.thumbnail}" alt="${store.name}" loading="lazy" onerror="this.outerHTML='<div class=\\'card-image-placeholder\\'>🍚</div>'">`
+    const cardImg = getCardImage(store);
+    const imageHtml = cardImg
+      ? `<img class="card-image" src="${cardImg}" alt="${store.name}" loading="lazy" onerror="this.outerHTML='<div class=\\'card-image-placeholder\\'>🍚</div>'">`
       : `<div class="card-image-placeholder">🍚</div>`;
     const locationParts = store.address.split(' ');
     const locationText = store.subRegion
