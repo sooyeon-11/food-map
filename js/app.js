@@ -62,6 +62,8 @@
         s.district.toLowerCase().includes(q) || (s.subRegion && s.subRegion.toLowerCase().includes(q))
       );
     }
+    // Sort: stores with images first
+    stores.sort((a, b) => (b.images?.length || 0) - (a.images?.length || 0));
     return stores;
   }
 
