@@ -64,12 +64,12 @@
         (s.menus && s.menus.some(m => m.name && m.name.toLowerCase().includes(q)))
       );
     }
-    // Sort: 한식 first, then stores with images
+    // Sort: has images first, then by popularity (review count)
     stores.sort((a, b) => {
-      const aKorean = a.category === '한식' ? 1 : 0;
-      const bKorean = b.category === '한식' ? 1 : 0;
-      if (aKorean !== bKorean) return bKorean - aKorean;
-      return (b.images?.length || 0) - (a.images?.length || 0);
+      const aHasImg = (a.images?.length || 0) > 0 ? 1 : 0;
+      const bHasImg = (b.images?.length || 0) > 0 ? 1 : 0;
+      if (aHasImg !== bHasImg) return bHasImg - aHasImg;
+      return (b.reviewTotal || 0) - (a.reviewTotal || 0);
     });
     return stores;
   }
