@@ -64,15 +64,14 @@
         (s.menus && s.menus.some(m => m.name && m.name.toLowerCase().includes(q)))
       );
     }
-    // Sort: food-focused thumbnails first
-    // Score: has menu photos + high image review count (both indicate food-heavy listings)
+    // Sort: food-focused thumbnails first (manually curated notFoodPhoto flag)
     const scoreStore = (s) => {
       const hasImg = (s.images?.length || 0) > 0 ? 1 : 0;
       if (!hasImg) return -1;
+      if (s.notFoodPhoto) return 0; // banners, exteriors, certificates go last
       const menuImgCount = (s.menus || []).filter(m => m.image).length;
       const imgReviews = s.imageReviewCount || 0;
-      // Primary: menu photos (owner-curated food), secondary: visitor food photos
-      return menuImgCount * 1000 + Math.min(imgReviews, 5000);
+      return 10000 + menuImgCount * 1000 + Math.min(imgReviews, 5000);
     };
     stores.sort((a, b) => scoreStore(b) - scoreStore(a));
     return stores;

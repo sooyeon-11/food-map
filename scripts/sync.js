@@ -79,20 +79,69 @@ function getRegion(address) {
 function getDistrict(address) { return address.split(' ')[1] || ''; }
 
 function classifyCategory(naverCategory, mcid) {
-  if (!naverCategory && !mcid) return '음식점';
   const cat = (naverCategory || '').toLowerCase();
-  if (cat.includes('한식')) return '한식';
-  if (cat.includes('일식') || cat.includes('초밥') || cat.includes('스시') || cat.includes('라멘')) return '일식';
-  if (cat.includes('중식') || cat.includes('중국')) return '중식';
-  if (cat.includes('양식') || cat.includes('파스타') || cat.includes('스테이크')) return '양식';
-  if (cat.includes('고기') || cat.includes('삼겹') || cat.includes('갈비') || cat.includes('소고기') || cat.includes('한우')) return '고기';
-  if (cat.includes('해산물') || cat.includes('횟집') || cat.includes('조개') || cat.includes('수산')) return '해산물';
-  if (cat.includes('분식') || cat.includes('떡볶이')) return '분식';
-  if (cat.includes('국밥') || cat.includes('국수') || cat.includes('설렁탕') || cat.includes('수육')) return '국물';
-  if (cat.includes('치킨') || cat.includes('피자')) return '치킨/피자';
-  if (cat.includes('카페') || cat.includes('디저트') || cat.includes('베이커리')) return '카페';
-  if (cat.includes('술집') || cat.includes('바') || cat.includes('포차') || cat.includes('이자카야')) return '술집';
-  if (cat.includes('브런치') || cat.includes('샌드위치') || cat.includes('샐러드')) return '브런치';
+
+  // 카페/베이커리/브런치 (먼저 체크)
+  if (cat.includes('베이커리') || cat.includes('제과') || cat.includes('빵')) return '베이커리';
+  if (cat.includes('브런치') || cat.includes('샌드위치')) return '브런치';
+
+  // 술집
+  if (cat.includes('술집') || cat.includes('포차') || cat.includes('이자카야') ||
+      cat.includes('요리주점') || cat.includes('와인') || cat.includes('호프') ||
+      cat.includes('맥주') || cat.includes('칵테일') || cat.includes('펍')) return '술집';
+
+  // 일식
+  if (cat.includes('일식') || cat.includes('초밥') || cat.includes('스시') ||
+      cat.includes('라멘') || cat.includes('라면') || cat.includes('돈까스') ||
+      cat.includes('돈가스') || cat.includes('우동') || cat.includes('일본')) return '일식';
+
+  // 중식
+  if (cat.includes('중식') || cat.includes('중국') || cat.includes('딤섬') ||
+      cat.includes('마라')) return '중식';
+
+  // 양식
+  if (cat.includes('양식') || cat.includes('파스타') || cat.includes('피자') ||
+      cat.includes('스테이크') || cat.includes('이탈리아') || cat.includes('프렌치') ||
+      cat.includes('유럽')) return '양식';
+
+  // 고기
+  if (cat.includes('삼겹') || cat.includes('갈비') || cat.includes('소고기') ||
+      cat.includes('한우') || cat.includes('돼지') || cat.includes('육류') ||
+      cat.includes('곱창') || cat.includes('막창') || cat.includes('구이전문')) return '고기';
+
+  // 해산물
+  if (cat.includes('해산물') || cat.includes('횟집') || cat.includes('생선회') ||
+      cat.includes('조개') || cat.includes('수산') || cat.includes('회전문') ||
+      cat.includes('장어')) return '해산물';
+
+  // 국물
+  if (cat.includes('국밥') || cat.includes('국수') || cat.includes('설렁탕') ||
+      cat.includes('수육') || cat.includes('곰탕') || cat.includes('칼국수') ||
+      cat.includes('해장국') || cat.includes('감자탕') || cat.includes('순두부') ||
+      cat.includes('샤브샤브') || cat.includes('찌개') || cat.includes('두부요리')) return '국물';
+
+  // 분식
+  if (cat.includes('분식') || cat.includes('떡볶이') || cat.includes('김밥')) return '분식';
+
+  // 치킨
+  if (cat.includes('치킨')) return '치킨';
+
+  // 카페/디저트
+  if (cat.includes('디저트')) return '디저트';
+  if (cat.includes('카페')) return '카페';
+
+  // 아시아 음식
+  if (cat.includes('베트남') || cat.includes('태국') || cat.includes('동남아') ||
+      cat.includes('아시아') || cat.includes('인도') || cat.includes('쌀국수')) return '아시아';
+
+  // 한식 (기타 한국 음식)
+  if (cat.includes('한식') || cat.includes('한정식') || cat.includes('비빔밥') ||
+      cat.includes('덮밥') || cat.includes('보쌈') || cat.includes('족발') ||
+      cat.includes('백반') || cat.includes('생선구이') || cat.includes('떡갈비') ||
+      cat.includes('전문점') || cat.includes('만두') || cat.includes('국수전문') ||
+      cat.includes('곱창전골') || cat.includes('닭갈비') || cat.includes('찜닭') ||
+      cat.includes('전골')) return '한식';
+
   if (mcid === 'CAFE') return '카페';
   if (mcid === 'BAR') return '술집';
   return '음식점';

@@ -257,7 +257,9 @@ body {
 .badge-국물 { background: #fdf0e4; color: var(--badge-soup); }
 .badge-술집 { background: #f0e8f4; color: var(--badge-bar); }
 .badge-분식 { background: #fde8d8; color: #c06030; }
-.badge-치킨\/피자 { background: #fff4e0; color: #b08020; }
+.badge-치킨 { background: #fff4e0; color: #b08020; }
+.badge-아시아 { background: #e8f4e0; color: #508030; }
+.badge-디저트 { background: #fce4ec; color: #c0506a; }
 .badge-브런치 { background: #fff8e1; color: #b08030; }
 .badge-카페 { background: #fdf0e4; color: #c9956b; }
 .badge-음식점 { background: #fde8d8; color: #b07050; }
