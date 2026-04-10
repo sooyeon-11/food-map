@@ -59,7 +59,9 @@
       const q = searchQuery.toLowerCase();
       stores = stores.filter(s =>
         s.name.toLowerCase().includes(q) || s.address.toLowerCase().includes(q) ||
-        s.district.toLowerCase().includes(q) || (s.subRegion && s.subRegion.toLowerCase().includes(q))
+        s.district.toLowerCase().includes(q) || (s.subRegion && s.subRegion.toLowerCase().includes(q)) ||
+        (s.category && s.category.toLowerCase().includes(q)) ||
+        (s.menus && s.menus.some(m => m.name && m.name.toLowerCase().includes(q)))
       );
     }
     // Sort: stores with images first
