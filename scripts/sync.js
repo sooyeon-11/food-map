@@ -295,12 +295,22 @@ async function main() {
   console.log(`기존 매장: ${existing.length}개`);
 
   let allBookmarks = [];
+  let fetchFailed = false;
   for (const folder of FOLDERS) {
     const data = await fetchJson(`https://pages.map.naver.com/save-pages/api/maps-bookmark/v3/shares/${folder.id}/bookmarks?start=0&limit=5000&placeInfo=false`);
     if (data?.bookmarkList) {
       console.log(`${folder.name || '맛집'}: ${data.bookmarkList.length}개`);
       allBookmarks.push(...data.bookmarkList.map(b => ({ ...b, folderName: folder.name })));
+    } else {
+      console.error(`⚠ 폴더 ${folder.name || folder.id} 로드 실패!`);
+      fetchFailed = true;
     }
+  }
+
+  // Safety check: abort if data would be lost
+  if (fetchFailed || (existing.length > 0 && allBookmarks.length < existing.length * 0.8)) {
+    console.error(`❌ 북마크 로드 실패 또는 데이터 급감 (기존 ${existing.length} → 신규 ${allBookmarks.length}). 중단합니다.`);
+    process.exit(1);
   }
 
   const seen = new Set();
