@@ -259,10 +259,8 @@
     else phoneEl.hidden = true;
 
     const hoursEl = document.getElementById('modalHours');
-    if (store.hours) {
-      hoursEl.innerHTML = `<span class="info-icon">🕐</span><span>${store.hours}</span><a class="hours-detail-link" href="https://m.place.naver.com/place/${store.id}/information" target="_blank" rel="noopener">영업시간 전체보기</a>`;
-      hoursEl.hidden = false;
-    } else hoursEl.hidden = true;
+    hoursEl.innerHTML = `<span class="info-icon">🕐</span><a class="hours-detail-link" href="https://m.place.naver.com/place/${store.id}/information" target="_blank" rel="noopener">영업시간 보러가기</a>`;
+    hoursEl.hidden = false;
 
     const subwayEl = document.getElementById('modalSubway');
     if (store.nearestSubway) {
