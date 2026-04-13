@@ -259,7 +259,7 @@
     else phoneEl.hidden = true;
 
     const hoursEl = document.getElementById('modalHours');
-    hoursEl.innerHTML = `<span class="info-icon">🕐</span><a class="hours-detail-link" href="https://m.place.naver.com/place/${store.id}/information" target="_blank" rel="noopener">영업시간 보러가기</a>`;
+    hoursEl.innerHTML = `<span class="info-icon">🕐</span><a class="hours-detail-link" href="https://map.naver.com/p/entry/place/${store.id}" target="_blank" rel="noopener">영업시간 보러가기</a>`;
     hoursEl.hidden = false;
 
     const subwayEl = document.getElementById('modalSubway');
