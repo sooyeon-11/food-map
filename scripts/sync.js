@@ -11,6 +11,7 @@ const https = require('https');
 const FOLDERS = [
   { id: '0dabefd7a68c411a870e4c7464c2223e', name: '맛집' },
   { id: '1285dedb282d4997a9b48363de7191e7', name: '술집' },
+  { id: 'c64dd48190f84f2196b0e30cca619751', name: '와인바&칵테일' },
 ];
 const EXCLUDE_NAMES = [];
 const STORES_PATH = path.join(__dirname, '..', 'data', 'stores.json');
