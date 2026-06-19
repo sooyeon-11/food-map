@@ -57234,6 +57234,1887 @@
     "folderName": "와인바&칵테일"
   },
   {
+    "id": "1551238850",
+    "name": "꼬미다",
+    "address": "부산 연제구 거제대로 275",
+    "roadAddress": "부산 연제구 거제대로 275 상가동 103호",
+    "region": "부산",
+    "district": "연제구",
+    "subRegion": "연제구",
+    "lat": 35.19146,
+    "lng": 129.07747,
+    "category": "양식",
+    "mcid": "DINING",
+    "naverCategory": "양식",
+    "phone": "",
+    "virtualPhone": "0507-1305-2107",
+    "hours": "14:30에 브레이크타임",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20221215_64/1671072584424XP9xn_JPEG/EE5E7BC3-C073-4C81-B6C0-D5D4B82140EF.jpeg",
+      "https://ldb-phinf.pstatic.net/20260528_268/1779940078787xczpB_JPEG/20250208_204821.jpg",
+      "https://ldb-phinf.pstatic.net/20221215_186/1671072584551o1Bvm_JPEG/IMG_20221211_180411_156.jpg",
+      "https://ldb-phinf.pstatic.net/20260528_251/1779939958667bvLJu_JPEG/20260420_181425.jpg",
+      "https://ldb-phinf.pstatic.net/20230322_7/1679419203427gavUV_JPEG/20230309_133045.jpg",
+      "https://ldb-phinf.pstatic.net/20230308_216/1678206353761yUsqX_JPEG/20230115_173027.jpg",
+      "https://ldb-phinf.pstatic.net/20250227_103/1740643454553t8oMz_JPEG/20250214_182750.jpg",
+      "https://ldb-phinf.pstatic.net/20240908_108/1725781490075aS2Q9_JPEG/1725526113679.jpg",
+      "https://ldb-phinf.pstatic.net/20240908_8/1725781478021GtXLN_JPEG/1720890578477.jpg",
+      "https://ldb-phinf.pstatic.net/20230308_299/1678206768688G0uYI_JPEG/1656214049003-9.jpg",
+      "https://ldb-phinf.pstatic.net/20260511_45/1778466826154U4JEe_JPEG/1777955055828.jpg",
+      "https://ldb-phinf.pstatic.net/20260511_120/1778466817035fhoKq_JPEG/1777955055871.jpg",
+      "https://ldb-phinf.pstatic.net/20260320_119/1773935499055R6OHq_JPEG/1773059659688.jpg",
+      "https://ldb-phinf.pstatic.net/20260320_31/1773935474414Jypt7_JPEG/1773059665225.jpg",
+      "https://ldb-phinf.pstatic.net/20260320_255/1773935463060E41JO_JPEG/1773059669160.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20221215_64/1671072584424XP9xn_JPEG/EE5E7BC3-C073-4C81-B6C0-D5D4B82140EF.jpeg",
+    "reviews": "방문자 리뷰 737",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1551238850",
+    "instagramUrl": "https://www.instagram.com/comidabab",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "찹스테이크",
+        "price": "39000",
+        "image": "https://ldb-phinf.pstatic.net/20230330_247/16801032819086TRLX_JPEG/1656213876884-8.jpg"
+      },
+      {
+        "name": "피자",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20230322_24/1679419203420Po9V6_JPEG/20230106_205009.jpg"
+      },
+      {
+        "name": "뇨끼",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20230308_16/16782063987019Ugtz_JPEG/IMG_20230121_185531_653.jpg"
+      },
+      {
+        "name": "파스타",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20250227_91/1740643454415FBLBD_JPEG/20250208_204712.jpg"
+      },
+      {
+        "name": "빠에야",
+        "price": "39000",
+        "image": "https://ldb-phinf.pstatic.net/20220801_71/1659351178462IJNl1_JPEG/20220728_153645.jpg"
+      },
+      {
+        "name": "음료,커피 등",
+        "price": "3000~7000",
+        "image": "https://ldb-phinf.pstatic.net/20220801_206/1659351321402k7PIN_JPEG/1658987967080.jpg"
+      }
+    ],
+    "microReview": "토마토 소스와 어우러진 뇨끼의 매력",
+    "conveniences": [
+      "예약",
+      "단체 이용 가능",
+      "포장",
+      "무선 인터넷",
+      "유아의자"
+    ],
+    "roadGuide": "교대역 12번출구로 나오셔서 등기소방향으로 직진하시면 미소지움 아파트 상가동에 위치해 있습니다",
+    "nearestSubway": {
+      "name": "교대역",
+      "exit": "11",
+      "walkTime": 7
+    },
+    "seatInfo": [
+      {
+        "name": "좌식",
+        "description": ""
+      },
+      {
+        "name": "단체석",
+        "description": "최소 6명 ~ 최대 30명"
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "부산 교대역 맛집 꼬미다 빠에야 뇨끼 XO파스타",
+        "url": "https://m.blog.naver.com/otshj/224198898722",
+        "name": "잘먹고 잘사는 돈돈이네"
+      },
+      {
+        "title": "사직동 '꼬미다', 피자와 찹스테이크 최고!",
+        "url": "https://m.cafe.naver.com/enjoybusan/220256?query=%EB%B6%80%EC%82%B0%EC%9D%84100%EB%B0%B0%20%EC%A6%90%EA%B8%B0%EC%9E%90%5B%EB%B6%80%EB%B0%B1%EC%A6%90%5D%EB%A7%9B%EC%A7%91%20%EC%88%A0%EC%A7%91%20%EC%97%AC%ED%96%89%20%EC%A4%91%EA%B3%A0%20%EA%B5%AC%EC%9D%B8%20%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4",
+        "name": "부산을100배 즐기자[부백즐]맛집 술집 여행 중고 구인 공동구매"
+      },
+      {
+        "title": "부산법원양식 추천 부산법원맛집 꼬미다 명란크림파스타",
+        "url": "https://m.blog.naver.com/dlsehf3693/224319087299",
+        "name": "에피큐어정의 review"
+      }
+    ],
+    "reviewTotal": 737,
+    "imageReviewCount": 464,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "음식량",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "단골집 꼬미다에 생맥주 개시한다고 해서 들러봤어요~ 역시 생맥은 ㅠㅠ 보드랍 엔젤링 크아~~\n챱스텍키랑 맥주도 굿!\n부야베스랑 맥주도 굿!\n커리스프도 최고!! \n메뉴에 변주가 있는 꼬미다는 늘 새로운거 같아요 잘 먹고 갑니다~~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTJfMTU3/MDAxNzc4NTc4OTk5MDMw.uUy28AYtZ3qEq5GGKmSzS7T5ArIj3PwlUybTvWyo5BYg.pnSuW_zgXfabGIvqJuCwfwmLTB05IIf9HAIKsQN8g7Ug.JPEG/26A581A2-DD79-46FA-9031-EA6F1CE8613D.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTJfMjky/MDAxNzc4NTc4OTk3NDE2.fX_sur0WWZYBOw1kfFzM0VLbzMOw4YqRGL77OFY7XOYg.TFqRXimKdNRFwu2VSD4Gh5L8KKig-MCErQEDhHMSWkEg.JPEG/84027C77-E2DC-40E8-8FDC-6C7DBBD4DF33.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTJfMTQ2/MDAxNzc4NTc4OTk4MjQz.nlW2IUAKSg7VZKCT-UovOWmuf4jfATahV1kE2VkBoucg.CrzCVMvfsLeL38L6zKxWnaKsSeXxHVRnZ8tuE5l7Yvog.JPEG/E80EBF92-B85B-4BF5-8DB5-86188C42387B.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "쏭쑹씽쌩"
+      },
+      {
+        "body": "이곳은 뭐라 감히 말을 해야할 지 모르겠는!! 저와 남편의 특별한 맛집입니다! 처음 연애하면서 여기 왔을때 뇨끼로 시작해서 여긴 찐이다 하고 주기적으로 찾아왔던 곳이에요. \n신혼여행으로 이탈리아를 가서도 맛있는 곳에서 꼬미다 이야기를 할 장도면 말 다한거 아닙니까.. 이탈리아 현지 맛집 보다 더더더 흥분하면서 먹었어요. \n자극적이고 향신료 가득한 맛이 아닌",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTY4/MDAxNzgwNDY4NTM3NzU4.NoGYNhJ8ebp-Rpe7CZenmHAbsPLc1WI1j66UYlzptokg.QtbHcYH5Y7qdEN6azv3CLbitXiyl9rkPJZzmt0RHEjEg.JPEG/92F49AFF-D5F2-48FB-BD1D-85A339B6254D.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMjk1/MDAxNzgwNDY4NTM1NzE3.ftyVvtsBRq2fxg46AHnDgQ3g9SBd7Y0ANVQFGfAfzjsg.6smJUP9uYsUBw1v5jRWMbip-0qq6oh6yy0mdP-I7tMQg.JPEG/1C10F707-A859-44F6-A0A4-A71CC8AEF022.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMjIx/MDAxNzgwNDY4NTM2NDc1.U4mywRySjU-CXdm-0G3aS-QAFLONJcS1oFXJL1E7heEg.-1UlA-cJRNS0NcFqhHiIWGJi7a8CKNi_Y6xWnmXxp0kg.JPEG/5B1948AA-CE65-4312-9B9A-5AEC3B04E640.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "쏘양ㅇ"
+      },
+      {
+        "body": "정말 만족도가 높았던 거제동 꼬미다!\n\n사장님께서 너무 친절하게 응대해주셔서 처음부터 끝까지 편안하게 식사할 수 있었어요. 매장도 깔끔하고 청결하게 관리되고 있었고, 음식은 신선한 재료를 사용한 게 느껴질 정도로 맛있었습니다. 양도 푸짐해서 더욱 만족스러웠어요.\n\n이달의 메뉴인 부야베스는 처음 먹어봤는데 해산물의 풍미가 가득한 스튜라 부담 없이 즐길 수 있",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfOCAg/MDAxNzgwNDUxNTk3NTY0.bZVFSUa27oHPRojBcwVFg5UWRRoWosWw97mLPr8Nfx4g.D-Rs8DWkvaJ-v26xfyXPSQEYXSZzg3byttMylfD7Ee0g.JPEG/20260602_182825.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMjI0/MDAxNzgwNDUxNTk3NTAw.9nYP1xl2lj10o0a2BG1YbMrRYav4LIEJoo9hluqjA_Yg.Zv8itiSdt9dXSPWl3xzFKzHwmNJXBZ4eoHh_XYw3qCQg.JPEG/20260602_184008.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTkx/MDAxNzgwNDUxNTk3NDg5.1IPRhzKoAr5kbAzdGii6w0GwcFGpghAxoeyTyJZPgE0g.trxHP799Uvl_xzpAF4N7Uw0ykXiPrhXo2ulys4-FLE8g.JPEG/20260602_184027.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "Oshubly72"
+      },
+      {
+        "body": "프랑스 전통요리라 기대를 안고 방문했는데 정말 탁월한 선택이였어요 부야베스란 메뉴랑 폴드포크버거를 주문했어요 부야베스란 요리를 처음 먹어봤는데 각종 해산물과 야채 그리고 생 샤르란도 아낌없이 들어 있더라구요 너무 맛있게 잘먹었습니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMTA0/MDAxNzgwODE5NjcyNTQ2.LMEsvofEwHLFUB2arfPaNQ_dr9611vMA9PdKsFJCB50g.jS0nfe559_b2yrV0aCW2c7CoZAa5YONU6h1SHopsSX4g.JPEG/20260607_123238.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMzYg/MDAxNzgwODE5NjcyNDY4.CCw7UaFmuzHZc9rfPxVWhb9BbNYkYsAAArxziQcqrIkg.dSRmh7piPDxPY5ZAT0h0-XAw1GV7lkZI1Fttrs7z1TUg.JPEG/20260607_123234.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfNjcg/MDAxNzgwODE5NjcyNTIz.eiA6u1Erhaz-NS2sAIaGnV12AmHDbZnbgncQb41CbGIg.XwN33xR-UGjHACatW9mgx7GPcRABjXMNCj5GFgQ4mWsg.JPEG/20260607_130224.heic.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "jhyz0730"
+      },
+      {
+        "body": "라구파스타와 이달의 요리인 부야베스를 시켰어요. 부야베스는 프랑스 전통요리로 해산물 스튜같은 요리예요. 부산에서 이런 색다른 프로방스 요리를 먹을 수 있어서 좋네요. 해산물이 신선하고 맛도 좋아요. 라구파스타도 강추합니다. 번창하세요~~~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMjE0/MDAxNzgwOTI2ODE1NzQz.R8ORt8IngHILCGgmWG88ReoUCOi5NWdpVN48FWrEVD8g.XULbXRAu4s1naF_p-EqSm3qwdIsyZGOdUxJzIu5iOxcg.JPEG/1000023617.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMjMy/MDAxNzgwOTI2ODE1NzI2.bx1B5TFzU_f734LAZZAE4Set2ZZmctFZZjCeviU5r7cg.Fn3xRVO9A1v5ozbxcz-NkeWd1oaH_7ncmnN9wnZb_PIg.JPEG/1000023611.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "셍빠쌤"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "12898724",
+    "name": "노란마후라",
+    "address": "부산 해운대구 청사포로128번길 60",
+    "roadAddress": "부산 해운대구 청사포로128번길 60",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대구",
+    "lat": 35.160088,
+    "lng": 129.1893819,
+    "category": "음식점",
+    "mcid": "DINING",
+    "naverCategory": "해물,생선요리",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "다음 날 06:00에 영업 종료",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260521_209/1779352923786TAqRX_JPEG/temp_picture.jpg",
+      "https://naverbooking-phinf.pstatic.net/20260521_217/1779352597936haQSO_PNG/image.png",
+      "https://ldb-phinf.pstatic.net/20230713_173/1689238272492sxzSG_JPEG/IMG_0857.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA0MDFfMjMx%2FMDAxNjgwMzE2MzMzNTI0.9kEzMJj8KI2_Gr1g6OFujRqVFUi-UbShNSRiV2RxZhUg.YPBiYnO_sPjrou7P4MgiixSrAKqxjvQR07oiUsVdEPIg.JPEG.frogdkwk%2FIMG_2289.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjExMjlfMiAg%2FMDAxNjY5NjQ3NjE3Nzk2.E-sxU5T4g9mewiHwhQizm-3Wv7QlXbCjkX76N93rnAsg.yPR0VPdvjprV5XGsQmCNrhXmmo_nKnqY-Xx3KMEYBPsg.JPEG.sul1104%2FIMG_0595.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMjIz%2FMDAxNzgwMjgwODYyNjg0.NIFqmm0moeMQkzvcPZtatn82UfHUpffzELCp3oBBYSkg.XUM9GBQgZQ5FFDKkx0KOyQyebWQ-jfdjWdc6q2AL4NMg.JPEG%2F900_20260508_175635.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMjQ4%2FMDAxNzgwMjgwODYzNzM5.CN3STrtyuqFkHAWTPIKIVpn1K0zg0Q779RZq_P2Gu50g.5OJiRJ7Myp7tefzyU1YE5dY9Y5iCXZSLwJFdvNBf9UUg.JPEG%2F900_20260508_175552.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfNTUg%2FMDAxNzgwMjgwODY0NjIx.R4MQ0zgjr61KL3nxH2nIKTUVnBrvQGSvcAOQQ3As8sMg.PVy8x65wUrFxXS9FfABQKCd-_3KeOZuAuoAlt4aOhh0g.JPEG%2F900_20260508_174500.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMTY2%2FMDAxNzgwMjgwODY1NDMy.m8K1E9fL29SqNPPwJRi1h3A-d4CKHl7N0L_PnNNQDdEg.KFQDnsXKHHKrs4dLK5cpwXQOw2a24vE_OPpbRRWgMU4g.JPEG%2F900_20260508_175029.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMTk4%2FMDAxNzgwMjgwODY2NTUx.OqRnFHvYoyKbSEoIIYZoDkn1sZDgu_g3oWhE0uIkrWwg.eT6LGpEKm6kSqz9MqogvcsrO_LRi80TvOGCrln3Dw7Ug.JPEG%2F900_20260508_175228.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMTkg%2FMDAxNzgwMjgwODY3NDEz.CCETdxWz-eSRjxlMCLHcqptVR9p28ZtHG7Julqwa0W8g._BCNDC1iLRSxPYCAPtBYMNxcdWsCt2gZWe3PadNDBT8g.JPEG%2F900_20260508_175656.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMTM4%2FMDAxNzgwMjgwODY4Mjc1.M_R_gcvTNnyhdHD7aKNXEvCVGkgk067feI1OGm6j9xAg.taVHj5X2AOVlgxMErJCNpIEMN6Gw5ueC02Fd4Uffw8wg.JPEG%2F900_20260508_180740.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfNjQg%2FMDAxNzgwMjgwODY5MDg2.TX__wom5udTr95SpglylgBvCTIpD1PzwiqDQtyCxZRgg.gIicyR9Z6uKDpCjCAp_LTCaXUggP3ErNtoRQn3XsBOAg.JPEG%2F900_20260508_182151.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfNTMg%2FMDAxNzgwMjgwODcwMjE2.OoHFzcH4kuXtE7qWlGXx1VvES_DjC7Nv3rnY5G_aVnwg.Y9Wm4ku0TX_A_VgQssDj3fxjXd6mZj8uMVCQzs3C5-cg.JPEG%2F900_20260508_175838.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDFfMjk3%2FMDAxNzgwMjgwODcxMjcy.vqYaWECnvK0rd86fPJiVaIPw1Oz0mt1HiT64A6DcTAEg.JaodoUEjfdOHWXIlxW29CdJVLb8NP6ZjNBW8Mb2g2h8g.JPEG%2F900_20260508_182455.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260521_209/1779352923786TAqRX_JPEG/temp_picture.jpg",
+    "reviews": "방문자 리뷰 676",
+    "naverPlaceUrl": "https://m.place.naver.com/place/12898724",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "모듬조개구이 (대)",
+        "price": "55000",
+        "image": ""
+      },
+      {
+        "name": "모듬조개구이 (중)",
+        "price": "45000",
+        "image": ""
+      },
+      {
+        "name": "모듬조개구이 (소)",
+        "price": "35000",
+        "image": ""
+      },
+      {
+        "name": "장어구이 (대)",
+        "price": "55000",
+        "image": ""
+      },
+      {
+        "name": "장어구이 (중)",
+        "price": "45000",
+        "image": ""
+      },
+      {
+        "name": "대하",
+        "price": "35000",
+        "image": ""
+      },
+      {
+        "name": "새우구이",
+        "price": "35000",
+        "image": ""
+      },
+      {
+        "name": "조개탕",
+        "price": "40000",
+        "image": ""
+      },
+      {
+        "name": "장어탕",
+        "price": "40000",
+        "image": ""
+      },
+      {
+        "name": "산낙지",
+        "price": "35000",
+        "image": ""
+      }
+    ],
+    "microReview": "여행의 특별함을 더하는 조개구이 명소",
+    "conveniences": [
+      "예약",
+      "주차"
+    ],
+    "roadGuide": "",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "부산 청사포 조개구이 뷰도 좋은 노란마후라 내돈내산",
+        "url": "https://m.blog.naver.com/jimini8382/224303112697",
+        "name": "Glück_추억엮은일기장"
+      },
+      {
+        "title": "☆☆☆부산☆☆☆ 2021.09.11토욜 저녁 6시 청사포 조개구이 노란마후라에시 밥 묵고 바다멍 때리기(어색하구 우짜는지 까묵...그래서 연습이 필요...) ☆접종자 2명 더가능",
+        "url": "https://m.cafe.naver.com/dohak27/1102061?query=%EA%B5%BF%EB%B0%94%EC%9D%B4%EC%8B%B1%EA%B8%80%20-%20%EA%B5%BF%EC%8B%B1%2F%EC%8B%B1%EA%B8%80%EC%B9%B4%ED%8E%98%2F%EB%AF%B8%ED%98%BC%2F%EB%8F%8C%EC%8B%B1%2F3040%2F%2F%EC%8B%B1%EA%B8%80%EB%9D%BC%EC%9D%B4%ED%94%84",
+        "name": "굿바이싱글 - 굿싱/싱글카페/미혼/돌싱/3040//싱글라이프"
+      },
+      {
+        "title": "청사포 조개구이 야장 노란마후라 내돈내산 후기",
+        "url": "https://m.blog.naver.com/dbal0336/224316927739",
+        "name": "윰로그 @ 청춘을그리다"
+      }
+    ],
+    "reviewTotal": 676,
+    "imageReviewCount": 136,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "메뉴",
+      "전망"
+    ],
+    "visitorReviews": [
+      {
+        "body": "조개구이 먹으러 오랜만에 방문한 노란마후라!\n청사포에 갈때면 자주 들렸는데 이번 연휴에는 날씨가 너무 추워서 야장느낌을 못느껴서 아쉬웠어요.\n아무쪼록 조개구이도 장어구이도 너무 맛있게 먹었습니다👏",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDRfMzEg/MDAxNzc3ODU3ODA0Njg5.q46GOfXmnNmSKR_a2DzKoORcIJZKDdscNcicvPaBEQ4g.07Reb7nvpuYb2QhBLBI-N5KEwy4_p_Kz3klc3WwUWA0g.JPEG/20260502_164631.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDRfMjc5/MDAxNzc3ODU3ODA0NzMx.MKWaYHcI8Y8FfSD6whI9XiKF7Rp1RK-r813rQoQcyCAg.fsPBJP-CF5IVC4Bvg1PKChMSgUtfBft1kIGgkIjO2T4g.JPEG/20260502_164620.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "리리얼"
+      },
+      {
+        "body": "조개구이 먹으러 바닷가 갔는데 분위기부터 정말 좋았어요. 조개도 신선하고 불에 바로 구워 먹으니 더 맛있었고, 바다 보면서 친구랑 이야기하니까 여행 온 느낌 제대로 났습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTNfMTYx/MDAxNzc4NjI0MDgyNDI2.g2jYc6WByWrSswOInHba5SL-V0WZ9TtXTc1CIFGamq0g.ijz8-2WU6oq33ILWY9c7aCxStLm_tidI3E-YMTLXaUUg.JPEG/1000037893.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "와우7053"
+      },
+      {
+        "body": "일몰과 조개구이를 함께할 수 있는 장소입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjhfMTU1/MDAxNzYxNjE1NjA3MDM0.DsnCDjHjGfcKAhdqIjmvXuP95o1IZo2AXCTUUEqFS4Mg.mZC1q-VUxomajoruEpFVz1DlaTTxqLocMmKZYy-Ok9og.JPEG/2FEB127D-DA44-4450-9BC0-2D5E0DA1091C.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "백스위치24"
+      },
+      {
+        "body": "진짜 다 만족!",
+        "images": [],
+        "author": "jim****"
+      },
+      {
+        "body": "청사포 해안에 즐비하게 있는 조개구이 집 중에서 부산출신 직원분의 말을 듣고 찾아가게된 노란마후라입니다.\n일요일 저녁이지만 다른집들에 비해 이곳은 사람이 제일 많았습니다^^.정말 간단하지만 옛 횟집가면 주는 반찬들과 연탄불에 구워지는 조개들 모두 맛이 좋았습니다.\n관광객 맛집보단 역시 현지인 맛집이 찐 대박집입니다^^",
+        "images": [
+          "https://video-phinf.pstatic.net/20250602_193/1748874091750w37ae_JPEG/cz188BYyuH_03.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMTg0/MDAxNzQ4ODc0MDkwMDAw.P_dWZ1EMSlbyTWXIzObGzTjnnrKS1FV0SqoI3s9lap8g.CeGE4eM37Bmj5jL7mtr2SrFJieKXe4PSvvLz8B0D1bUg.JPEG/1000109009.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfNTUg/MDAxNzQ4ODc0MDkwMDgx.Nu3V1KOJhk-j-y9EzKDfHdfU4XKWnvBNxaz2WYCepCog.BzQZcJNfamulVZkwnmhv5D-qOGftsdV5YeVtc0KHkiMg.JPEG/1000109004.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "예비대딩"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1190576799",
+    "name": "신라제면",
+    "address": "경북 경주시 첨성로81번길 22-11",
+    "roadAddress": "경북 경주시 첨성로81번길 22-11 신라제면",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.83516,
+    "lng": 129.21238,
+    "category": "국물",
+    "mcid": "DINING",
+    "naverCategory": "국수",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "20:20에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20250910_244/1757489070977plr7m_JPEG/%C0%E1%BD%C7_%BD%C5%B6%F3%C1%A6%B8%E9_%B8%C5%C0%E5.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_288/1757481427904KVNru_JPEG/1_%2813%29.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_260/1757481427755fSw0D_JPEG/2_%2818%29.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_204/1757482129487cyimH_JPEG/2_%2813%29.jpg",
+      "https://ldb-phinf.pstatic.net/20260201_190/1769905544386PsA2P_JPEG/1000005085.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_12/1757483093494uMK4A_JPEG/1_%2811%29.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_123/17574831114807LaNE_JPEG/3_%284%29.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_16/1757483137125s14wr_JPEG/2_%2818%29.jpg",
+      "https://ldb-phinf.pstatic.net/20250910_34/1757483158456hQImQ_JPEG/5_%2812%29.jpg",
+      "https://ldb-phinf.pstatic.net/20230118_112/1674015251667c7jXn_JPEG/1674015246056.jpg",
+      "https://ldb-phinf.pstatic.net/20231127_228/1701065298591AdxSW_JPEG/1000035756.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MDZfMTAx%2FMDAxNzc1NDI4NjcxMjE5.L2biBgpurUxMaAbvtAGt3V6-KAyUTjzRMTJqtclSrnMg.WRoD8UogBCWA92Z52GdJj1trp2yu48gVzrEsBclGuB8g.JPEG%2FIMG%25A3%25DF5688.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MTBfMjY2%2FMDAxNzc1ODAzMTQ2MzU0.z3Zan5GHjNctW6uLgRIQRCpqj4axPx9hGn5-esuNeXUg.LVr__Oi-AlY8ANCmeMA1ddPZvh92q8WO3lIGmd2ewesg.JPEG%2Foutput%25A3%25DF2307486869.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MTBfMTQ5%2FMDAxNzc1ODAzMTM4NzI2.1vQxcLDlOOGQyHzPUSkFFmPVSJW_a_qiQGlq3C2FbaAg.7RjtvQFhU-YGhvklSUBa_zkQp-2NBXt9BOjd_KXjKTkg.JPEG%2Foutput%25A3%25DF2411490109.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MDdfMjUw%2FMDAxNzc1NTU5Nzg2NDIx.0s9Vmv78YkVkaR2ZKPrcrj66jKrb4cWY-bQCLQc0TvMg.rytMP_WyfkNxVXZmJp1S-_ZqPAx-iUi_FxwZjLroxkMg.JPEG%2FIMG%25A3%25DF6078.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20250910_244/1757489070977plr7m_JPEG/%C0%E1%BD%C7_%BD%C5%B6%F3%C1%A6%B8%E9_%B8%C5%C0%E5.jpg",
+    "reviews": "방문자 리뷰 9,373",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1190576799",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "신라칼낙새(2인이상 주문가능)",
+        "price": "15000",
+        "image": "https://ldb-phinf.pstatic.net/20260201_255/17699055443132RIAK_JPEG/1000005084.jpg"
+      },
+      {
+        "name": "신라칼낙지(2인이상 주문가능)",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20250910_66/1757483093716X1LXf_JPEG/1_%281%29.jpg"
+      },
+      {
+        "name": "감자전",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20250910_160/17574831113787QYpS_JPEG/3_%283%29.jpg"
+      },
+      {
+        "name": "생바지락 칼국수",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20250910_180/1757483137085dp3ta_JPEG/2_%2813%29.jpg"
+      },
+      {
+        "name": "고기왕만두",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20250910_137/1757483158479rfOIg_JPEG/5_%287%29.jpg"
+      },
+      {
+        "name": "비빔밥",
+        "price": "3000",
+        "image": "https://ldb-phinf.pstatic.net/20250910_59/1757483169181Sw7Vr_JPEG/6_%284%29.jpg"
+      },
+      {
+        "name": "공기밥",
+        "price": "1000",
+        "image": "https://ldb-phinf.pstatic.net/20241021_6/17294956569664sf8z_JPEG/1000009413.jpg"
+      }
+    ],
+    "microReview": "쾌적하고 깔끔한 매장에서 즐기는 식사",
+    "conveniences": [],
+    "roadGuide": "",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "경주 황리단길 신라제면 금요일 웨이팅 후기 (칼낙지, 감자전)",
+        "url": "https://m.blog.naver.com/mrbaek0119/224249464301",
+        "name": "Make today awesome"
+      },
+      {
+        "title": "경주 신라제면 칼낙지 황리단길 찐맛집 내돈내산 오픈런 웨이팅 후기",
+        "url": "https://m.blog.naver.com/indiy/224092558602",
+        "name": "행복한여정"
+      },
+      {
+        "title": "[경주 신라제면] 비빔칼국수 맛집 추천",
+        "url": "https://m.cafe.naver.com/directwedding/7983848?query=%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84",
+        "name": "다이렉트 결혼준비"
+      }
+    ],
+    "reviewTotal": 9373,
+    "imageReviewCount": 6762,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "음식량",
+      "서비스",
+      "대기시간"
+    ],
+    "visitorReviews": [
+      {
+        "body": "SNS에서 맛집이라고소문났데서 와봤어요ㅎㅎ\n칼낙지랑 감자전 바지락칼국수시켯는데\n메뉴전체가다맛있구 간도딱맞아요🥰\n칼낙지는 다른데서먹을수없는 처음맛보는맛이에요!\n후추향도나고 자극적인거좋아해서 딱맛있게맵게잘먹었어요ㅎㅎ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzFfOTcg/MDAxNzgwMTk5NzQ1MDU2.B9J-ZFc3zkSZ09EKeey2DTZH5i3b8i2V8Frb0P21RGog.-VIsVQK_eugcleHEhXXda6pZm5FXVO0H3EIy-y1LQB4g.JPEG/20260531_123847.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzFfMjEy/MDAxNzgwMTk5NzQ2MDAw.gfJstrWX7HlwDBISj3UYsCIQnM0Ih96bwyI4b_3KJIwg.7uaRwLzP0Wq4ik-d4pzIMKzcU_fYJxsFQMg9fkGMGwMg.JPEG/20260531_123754.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "hevely0521"
+      },
+      {
+        "body": "경주에 여행외서 황리단길 구경하다 저녁식사시간이 되었는데 식당들이 사람이 가득가득하여 일단 대기명단 걸어놓고 구경하고 왔는데 30분안에 들어왔어요. 칼낙새랑 바지락칼국수 감자전 비빔밥 시켰는데 전부 다 맛있어요  맵기는 보통으로 하니 살짝 매콤하여서 딱 좋아요.  감자전은 처음보는 특이한스타일이라서 시켰는데 맛있었어요  칼낙새에 찍어먹어도 맛있어요 비빔밥은",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfNzIg/MDAxNzc5NTM0MjM1ODg2.72Exz9axW4Bnk0Q_3oUrfgu0SZKCzxRsw-kGw96w59cg.eqE4xavZtLsj_e-eCzZlv3b4UwMNMnaDEV0TUnFaBbgg.JPEG/20260523_194805.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfNzEg/MDAxNzc5NTM0MjM2NDg3.4AwPM4jHRevXuPraH8uBjKg08MaBY4OzGx76sACNmLQg.Pozr7Bfw_ukmpOqcXX-ucEptBv7XNj5SbUFsJR83D9cg.JPEG/20260523_194646.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfNzIg/MDAxNzc5NTM0MjM0OTc2.qcFu_aTuR7hUJYIVkCuQ2ZLBsRT1VFbcoxtMZ60rJiUg.SpObOPcIF40ZB1sjv5ZrvSImbs4wNk9QkMbmecvhuZ4g.JPEG/20260523_194807.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "Dahamom1025"
+      },
+      {
+        "body": "칼낙지 맛있다고 해서 바로 테이블링 켜서 대기 걸고 왔어요 \n경주점이랑 황리단길점 있는데 경주점이 웨이팅이 더 적어서 빨리 먹고싶으면 경주점 추천합니다!\n왜 사람들이 감자전 무조건 추가하는지 알 것 같아요!\n맛은 맵찔이는 보통맛 추천합니다~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjVfMjg1/MDAxNzc5Njc3NDM4MjM0.Or_8loXDVn6nFiYhRs2aGvqiu1XZaNTqYMtUPKKRsWkg.k_Mh9jyvTMCeblr2f4JVmLzNN8C-gfEwar9YRATD5wQg.JPEG/2912B7C5-19AB-43FC-A8F4-27F5F79C42D9.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjVfOTEg/MDAxNzc5Njc3NDQyNDM3.NudC8eZBgtJ93tjySCl9bl-OLrgwQUg3iZHZ4AYet7Eg.tABX1xzP2MEF1YFkI6MBzrUdqMw83jGNeY2qV4kg4v8g.JPEG/86B51D29-EC0B-44F4-96EC-E851466E1DF8.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "난곰이징"
+      },
+      {
+        "body": "딸과의 경주여행\n갑작스레 결정해서 떠나옴\n걷고 구경하고 군것질하고 맛집도와보공~~♡♡♡♡\n딸이와본곳중 제가픽해서 와서 먹어보네요~~~\n맛있네요~~그래서인지 웨이팅은기본인듯\n잘먹고갑니다~\n친절해서 더기분업",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjhfMTQz/MDAxNzc3MzYwNTgxMjc4.qyiEzBBJQd4k0Hay_HXnjwtxKt7MH0ZhXyQ5C0yJr4gg.cp7s8KLbdU62jCJAfQfMyY_Y-4CwV1-5SB_R9LtcWHAg.JPEG/74E69487-8F4B-421F-9692-D4F4F61C869C.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjhfMjUy/MDAxNzc3MzYwNTgxNzky.se-6EGtT5QGgr-Y-tAfkJjcQfBOe7MO80kgaGZ_pXYMg.0yNICq-HE3uK7TbkG1QYFmh2KtMXu4KOG--OvFTWomgg.JPEG/B37D3FB2-35BF-4F93-A850-11E7C3109671.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjhfMTg1/MDAxNzc3MzYwNTgzNTQ1._bbJkKfW1or3b2FewlS_byT6gkc04F0Nbw6N-KtzHAkg.pmr7Kyh9czJtoNzdCSODdSUSl_xcWjiNEO-dJIb7mO8g.JPEG/11F82B8A-C7D7-425D-AB57-09148E2AC2BD.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "kos****"
+      },
+      {
+        "body": "매장도 쾌적하고 맛잇어서 자주오고잇어요 바지락칼국수도 잇어서 아이렁 오기도 좋고 아기의자도 잇어서 같이식사하기좋아요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTU5/MDAxNzgwNDU4NDQ1MTM5.UOwbYBvTYfpzgxZGKi3gjb4cXsnss7p2Ve1Jp-F-Aiwg.j6bTf8Z18xUbqJ5JxW2P3Di4TERzkBbUCbt2i4LCiOUg.JPEG/20260603_121303.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTE1/MDAxNzgwNDU4NDQ1MzMw.avBuQPzUMnEkfko3Npwjq1jXGCdvqgKI8Ek8BkxFr8sg.G9yh6G1nWz-RGs4Gu_zPXdxcEo-eU7v4nTjeg2p1k8Ag.JPEG/20260603_121305.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMjQ3/MDAxNzgwNDU4NDYwNDI0.BukDn8EHREfblvKfoFvTOEX5OtTDgSMTryZlad_hU8Qg.kfjuI1A_XpYNIkilHJRW1uKDku1lHpY6k6Hw4MAhX_Qg.JPEG/17804584483776934232943417689288.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "eow****"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "38279045",
+    "name": "987피자",
+    "address": "경북 경주시 포석로1092번길 26",
+    "roadAddress": "경북 경주시 포석로1092번길 26 황남동",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.83687,
+    "lng": 129.21144,
+    "category": "양식",
+    "mcid": "DINING",
+    "naverCategory": "피자",
+    "phone": "",
+    "virtualPhone": "0507-1373-1990",
+    "hours": "21:00에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260131_27/1769838254872DXa2v_JPEG/KakaoTalk_20260130_182852066_24.jpg",
+      "https://ldb-phinf.pstatic.net/20260526_256/17797738602541iuU3_JPEG/KakaoTalk_20200205_211032233_13.jpg",
+      "https://ldb-phinf.pstatic.net/20260413_242/1776056401589Vxt5t_JPEG/IMG_0232.JPG",
+      "https://ldb-phinf.pstatic.net/20260526_164/17797738986039QNUd_JPEG/1.jpg",
+      "https://ldb-phinf.pstatic.net/20260413_213/1776055901567hVnx7_JPEG/%BB%F5%B7%CE%BF%EE_%B8%DE%B4%BA%C6%C7.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDRfMzEg%2FMDAxNzgwNDk4OTQ2MDMw.HEEq9Sxv2-lbgVYnhYgWJzJD6mHYApKBCoA9fs1TIlwg.2LdInyeekxsXVbQlxuWwJw_1pD_dlALuvpiWnCUIvR4g.PNG%2F900_file_000000006cec72099f2031f4698e1a87.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMSAg%2FMDAxNzgwNDk3NDA4ODc3.hQCNghU__Mh9Nk8dXHiTSC60nof9j6oHBDq0KHgafXMg.soKjOZLwyvVwtoukz1u-9R8KqtgnLd2Ya77RQpWQJT0g.JPEG%2F900_20260603_190307.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMjYz%2FMDAxNzgwNDk3NDYwOTcw.HNmraQyFpDmhEF9oR6KXYwMDbsboG9QRPo019Nw-DFAg.Cs1y7QsD2uozx1VGP_Ybeac41luwwRmbD5ytpNz72OMg.JPEG%2F900_20260603_190247.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMTA0%2FMDAxNzgwNDk3NDYyMDU1.Am8cJWzF-r71204Mz6stYba5f8r0J_R-zwFkffxoUhUg.cNx2dF9VbU3iCvuvkufqzvQ366WSPTLy_D7nbdgR7vgg.JPEG%2F900_20260603_190113.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMTA2%2FMDAxNzgwNDk3Njc0MjQ2.ABaWKppzR1rJ4RSbZ34bACO_ofmYQCnFq5TlxUGTu9wg.jLKQ3SPlZW-RovY0cuA1vHTHdfm8wGBRTM7EDMWNSusg.JPEG%2F900_20260603_185338.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMTA5%2FMDAxNzgwNDk3NTI5Mzcw.zX2daGjpwI_f7YBxUwvB-QAkm9vWplaqWThABCzVzg0g.dLR-5EDWVbqfREkQF_tjWeBqzmCk6-8Yl7CDHxpLYHwg.JPEG%2F900_20260603_190430.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMjA5%2FMDAxNzgwNDk3NTQ1NDAy.Uw7Uid7UWDVo_Lr-dfz3uXKyaDMKfdP7SfOD2UHc2m4g.dX1Dr8QP2dBVQgn1ljrMrZQ48IFtcK6ciGTYL3_XDnwg.JPEG%2F900_20260603_190609.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMTA5%2FMDAxNzgwNDk3NTQ2MTAw.ozOypfV_I8jyVFR2_8Ur3CE7GEzObVdtKImvT8H3jScg.8D_lQbFC1K1tcMZLT0LJRj9FezCSH19-OI9NQEyBJrwg.JPEG%2F900_20260603_190518.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMjU2%2FMDAxNzgwNDk3NTU5MzMz.EqPIIIG3XY4tphLj6LGTTow2PPIFD-jPOt8l6MXJLyQg.lxFECNT6qU-mLVvjMjbzOg6nFqgtjVbbMb3oTPeokYIg.JPEG%2F900_20260603_185819.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDNfMjMz%2FMDAxNzgwNDk3NTYwNTkw.Ea9IiFiDk2NzIW4J6CVgjIbnjjMRmlr0oQhsqpUK_jEg.jBKtTsCwH-_ufKJiM55E45d_Y_iuQGhJJdb2NEbr88Eg.JPEG%2F900_20260603_185809.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260131_27/1769838254872DXa2v_JPEG/KakaoTalk_20260130_182852066_24.jpg",
+    "reviews": "방문자 리뷰 2,236",
+    "naverPlaceUrl": "https://m.place.naver.com/place/38279045",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "반반피자",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20230811_94/16917395507574ywKN_JPEG/IMG_8528.jpeg"
+      },
+      {
+        "name": "치즈피자",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_70/1779772652173fV4yF_JPEG/%C4%A1%C1%EE%C7%C7%C0%DA.jpg"
+      },
+      {
+        "name": "페퍼로니",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20260413_48/1776056309262kUjgG_JPEG/IMG_0151.JPG"
+      },
+      {
+        "name": "하와이안피자",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_254/1779772730770qG6t7_JPEG/IMG_0376.jpg"
+      },
+      {
+        "name": "불고기피자",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_213/1779772780059bbNgz_JPEG/%BA%D2%B0%ED%B1%E2%C7%C7%C0%DA.jpg"
+      },
+      {
+        "name": "콘치즈피자",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_47/17797728035692XhNT_JPEG/%C4%DC%C4%A1%C1%EE_%C7%C7%C0%DA.jpg"
+      },
+      {
+        "name": "987피자(콤비네이션)",
+        "price": "25000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_159/17797728801867YTKI_JPEG/%C4%DE%BA%F1%B3%D7%C0%CC%BC%C7%C7%C7%C0%DA.jpg"
+      },
+      {
+        "name": "댕치킨골드피자(반려견용)",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_274/1779773354493zKSGO_JPEG/%B4%F3%B4%F3%C0%CC%C7%C7%C0%DA1.jpg"
+      },
+      {
+        "name": "멍콤비네이션피자(반려견용)",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20260526_36/1779773407700Wn4QA_JPEG/%B4%F3%B4%F3%C0%CC%C7%C7%C0%DA2.jpg"
+      },
+      {
+        "name": "오븐스파게티",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20230811_150/1691739649449roDUi_JPEG/IMG_8480.jpeg"
+      }
+    ],
+    "microReview": "뷰 좋은 야장에서 맛보는 행복한 한끼",
+    "conveniences": [
+      "포장",
+      "무선 인터넷",
+      "반려동물 동반",
+      "예약",
+      "남/녀 화장실 구분"
+    ],
+    "roadGuide": "대릉원 돌담길을 따라 걷다보면\n벽돌건물에 한옥지붕을 하고있는 피자집이 보이실거에요!\n돌담넘어 릉이 보인다면 잘 찾아오셨습니다!:)",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "테라스",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "한옥 인테리어 힙한감성의 피자집♡대릉원뷰 보며 야외캠핑감성 느낄수있는곳",
+        "url": "https://m.blog.naver.com/donsimteller/224305164053",
+        "name": "돈과 경제, 마음 심리 이야기"
+      },
+      {
+        "title": "경주 황리단길 맛집 987피자 릉뷰 야외석에서 즐기는 경주 최초의 피맥",
+        "url": "https://m.blog.naver.com/vlich/224232386194",
+        "name": "유희로그"
+      },
+      {
+        "title": "댕댕이 데리고 피자 먹을수 있는 경주 애견동반 맛집",
+        "url": "https://m.cafe.naver.com/jola3guckji/9608?query=%E2%98%85%EC%9A%B8%EC%82%B0%20%EC%95%A0%EA%B2%AC%20%EB%8F%99%EB%B0%98%20%EC%B9%B4%ED%8E%98%20%EC%8B%9D%EB%8B%B9%20%ED%8E%9C%EC%85%98%20%EB%AF%B8%EC%9A%A9%20%EB%B6%84%EC%96%91%20%EC%9E%85%EC%96%91%20-%20%EC%9A%B8%EC%82%B0%20%EA%B0%95%EC%95%84%EC%A7%80",
+        "name": "★울산 애견 동반 카페 식당 펜션 미용 분양 입양 - 울산 강아지"
+      }
+    ],
+    "reviewTotal": 2236,
+    "imageReviewCount": 888,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "전망"
+    ],
+    "visitorReviews": [
+      {
+        "body": "대릉원 뷰 피자 맛집💕\n반반 피자(페퍼로니+하와이안), 감자튀김 \n피자 도우가 얇아서 부담 없고\n느끼함 없고 토핑은 푸짐하고 \n치즈의 고소한 풍미까지 완벽했어요\n감자튀김도 바삭하고 맛있어요\n뷰도 좋고 피자도 맛있고 \n피맥하러 또 오고 싶어요❤️",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTQ4/MDAxNzgxNzkyMzE0OTIy.-HUcN4MAQwunLjkZOEJNT-jaPeK5jYl05asxAJVWP-Ag.hXGqI1SoFrsUpoNRB-_cu3FLwtcBWqKCgHntjenmcfgg.JPEG/20260618_134336.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMjcy/MDAxNzgxNzkyMzE0ODI1.Q0438bjMgx-eeVL3PHhRHa5LmVTKjvomBVixKw4rYzcg.GzlJJ9egRn58vSH4tw1T-lVX-aPeqs-B7KVfg29NplMg.JPEG/20260618_134423.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMjEx/MDAxNzgxNzkyMzE0ODg4.ffrfEPV0quFxKNwkbBf07YulvMlvnaAZylKoBP-r4vgg.lScfniIAf-v4ieI51GIayyEoBkp7jw-GQN_29U56rW8g.JPEG/20260618_134428.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "내사랑유니s2"
+      },
+      {
+        "body": "황리단길에서 밥집만 찾다가\n조금 색다른 분위기의 가게가 눈에 들어왔습니다.\n\n바로 ‘987피자’.\n\n황리단길은 유독 한식집이 많은 편인데,\n여기는 한옥 느낌 인테리어에 힙한 피자집 감성이 섞여 있어서 지나가다가도 자연스럽게 눈길이 가더라고요.\n\n전통적인 분위기 속에 살짝 MZ 감성을 넣은 느낌이라\n“여기 뭐지?” 하고 들어가게 됐습니다. ㅎㅎ\n\n저희는:\n\n",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTIz/MDAxNzgwNDgxMzA2NDQy.LybhaMzfz77sx4dazBv69PsFj253VhPiCTM4ZvoD9QYg.uwOJZKTF0XCIXu5Fu2CknKcEDg3pwM1hx6_na2VrNJ4g.JPEG/20260603_190430.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfNDgg/MDAxNzgwNDgxMzA2NTYy.DS5whGsw5_0H68ikkT_R1NNqeCkDCUle2tIHr2f7zqYg.yiDmD0KzQi3YoBgpU9Z5a7qfTJHG5p0OIwYIVh_as14g.JPEG/20260603_190438.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfNTAg/MDAxNzgwNDgxMzA2ODYz.dsKQQmYx2xBUjovI77b1QmGDWhZ6y--eMyM0FQIYKbgg.gIGGkyEF4NPU1gQV52lPY3_r69puChgUQ67cd1YShx8g.JPEG/20260603_190441.heic.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "화이트블링쿠키"
+      },
+      {
+        "body": "경주 여행 중 꼭 가보고 싶었던 987피자에 다녀왔어요! 🍕 야외 테이블에서 먹는 피맥 조합은 정말 최고네요. 시원한 맥주와 함께 먹으니 분위기에 취하고 맛에 또 한 번 취합니다. ⁠보이는 것처럼 반반 피자로 주문했는데, 토핑도 푸짐하고 도우도 맛있어서 배부르게 즐겼습니다. 경주에서 힙한 피자 맛집 찾으시는 분들께 강력 추천해요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTJfMjk4/MDAxNzgxMjU5MDQ2OTEy._BZepJfAJjSopY-hx3gXwb6CMESsgpSvssXotdztXgkg.ULSVyJcEe2znm_6ikjgBJFUbPieEseO89Hc4cZZfhVgg.JPEG/67BF3822-3A83-4069-B987-9A7855A539D7.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTJfMjU1/MDAxNzgxMjU5MDQ2NjE0.x3mvqZHnSpsuuSeOl2JTxbrivQVfrm4B74pjgHUX0UAg.E4ZZFqgwrkq3cwS7BBLfuTvUJo5ZlsdLJTFjo2qiYMUg.JPEG/21637DA8-0C2A-4B9D-BE1E-AB4B9ACD1D6A.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTJfMjM1/MDAxNzgxMjU5MDQ1OTk4.TBa-8wR58fFZBAjNZbU05qRAr18_9GuFr_oOjDezb78g.67oL2L427DPAAtaVSE6-oVIEaQTPU0WWs_XKZ75adpQg.JPEG/1CC49C50-E750-4EA5-B904-A5241FB34AEC.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "siw****"
+      },
+      {
+        "body": "경주에 오면 항상 자리가 차 있어서 어떨지 궁금했던 피자집을 이제야 방문해봅니다!! 야외나 실내나 분위기 미쳤고 피자도 맛있고ㅠ 그에따라 맥주도 최고임!! 황리단길로 나들이 오셨다면 이곳에서 잠시 머무르고 가는 것을 추천합니당 ㅎㅎ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDZfMjc0/MDAxNzgwNzM5MzM2NjI2.RvdlTYlDoeHTK-RHVRNeIZlNAZVfOWkUMXUO26seksEg.rsPShnIhS2iTmHE7nqHeoWpyFu8j1RutNbsXwsgBEjMg.JPEG/7DCA2A8D-0E15-48A9-8415-F6054CBC60F6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDZfMTMg/MDAxNzgwNzM5MzM2ODI1.ZTTY3Naw8MuvtUByajO4xCUf1GG1EOiA0kWewoZAPYAg.CqG8gwQ-XTGRzP3hWtLP8CjeQfxD-Z50S92YQ39Kg1gg.JPEG/7D8BC425-E711-4C1D-B0F0-4730EC79E60D.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "spi****"
+      },
+      {
+        "body": "경주 여행왔어요!! 친구가 맛집이라면서 데리고 와줬는데 여기 피맥 맛집입니다...👍👍 피자가 얇고 토핑이 알차니 맥주가 자연스레 땡기는 맛이에요! 맥주도 생맥, 병맥 다양하게 있어서 취향따라 골라먹기 좋아요~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfMTQ5/MDAxNzc5NTEzNzEyNzY5.gs_5FRCWOmX1_ZnpcLawStqe4Gqws59TgWD_XGJG6tkg.6HW-OxbCJhdvz9XzV0MgVjUlGfEqSiuySrea38jU4wAg.JPEG/7166CC95-BE09-4DAF-AB7D-C681BE1C41F7.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfMTY0/MDAxNzc5NTEzNzEyNTg4.gOY3kgypsUuZfQzOYRPvI9Anfu6r_SaYh1IINCDqEYUg.-ABey3Wj49zvYoK5hysLl3w2pX8XFSh5DXm5mQrPA3Mg.JPEG/7D4C403E-7F4D-4873-9635-5F349573B44A.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfNDcg/MDAxNzc5NTEzNzEyNjQ1.-EfCgQQNgXhZc5rAIAuG20LMKDbUwnGrNJRLFe0uRAcg.8m80FfgrkUl37i1z_WH3vRquICYW8umGH-VFSyhZgMEg.JPEG/DC2DD691-066C-4238-95EE-5AF337B5E3FF.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "rialune0"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1614701657",
+    "name": "료미",
+    "address": "경북 경주시 포석로 1058-1",
+    "roadAddress": "경북 경주시 포석로 1058-1 료미",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.83564,
+    "lng": 129.20975,
+    "category": "일식",
+    "mcid": "DINING",
+    "naverCategory": "일식당",
+    "phone": "",
+    "virtualPhone": "0507-1440-5061",
+    "hours": "15:00에 브레이크타임",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230208_142/1675848947226WYRk1_JPEG/KakaoTalk_20230208_175205879_06.jpg",
+      "https://ldb-phinf.pstatic.net/20230208_69/1675848965300y3Eip_JPEG/KakaoTalk_20230208_175205879_05.jpg",
+      "https://ldb-phinf.pstatic.net/20230208_254/1675848962230v2i2q_JPEG/KakaoTalk_20230208_175205879_03.jpg",
+      "https://ldb-phinf.pstatic.net/20251105_106/1762310085033b3e2t_PNG/%B0%ED%B1%E2_%BF%C2%BC%D2%B9%D9.PNG",
+      "https://ldb-phinf.pstatic.net/20220611_129/1654880242357AwQxP_JPEG/%C8%C4%C5%E4%B8%B6%C5%B0.jpg",
+      "https://ldb-phinf.pstatic.net/20260210_247/1770707250813p6wAR_PNG/260125_%B7%E1%B9%CC_%B8%DE%B4%BA%C6%C7-1_1.png",
+      "https://ldb-phinf.pstatic.net/20260210_198/1770707256442A36yE_PNG/260125_%B7%E1%B9%CC_%B8%DE%B4%BA%C6%C7-1_2.png",
+      "https://ldb-phinf.pstatic.net/20260210_122/1770707261679Pbo9s_PNG/260125_%B7%E1%B9%CC_%B8%DE%B4%BA%C6%C7-1_3.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDhfMjgx%2FMDAxNzgwOTAyOTMyNjU1.ifOS6NG1oXG3aeGEkXpm1iuAHAdZrYLT0wTEqH3VyoAg.tJeaFpyoWXu8fRdYF11wAC2l42sLdhTRn7OhNNw4OSYg.JPEG%2FIMG%25A3%25DF8030.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfMTE2%2FMDAxNzgwMzY2NTM5NjM4.gNEmbPIeknzsDTf5mj8Ccreq4UwvKHHZ-JP_E853w8wg.W7X_mBPvuIN4BeBbKr6y3ZNKZxLdskYPPZ28t4eVywgg.JPEG%2FIMG%25A3%25DF8058.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfMjMx%2FMDAxNzgwMzY2NTk2NTAx.ASkngIx4_gkxp8ZZPUA5swSgbg8FoVYtc-2L_Rg5nlcg.A6DJeY_s4fCyVjkDFWcUL0pn0SepKUGWA-DH88f-n3og.JPEG%2FIMG%25A3%25DF8016.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfMTg1%2FMDAxNzgwMzY2NTQwMzk0.4ON_zhVovxvIn-MGWIno0L_pZUYnIrtW7gP2joPhLtYg.ufIxOBQxRt8-HDf4x3NhISbP9fb3MSbqxeKIPNQHfW0g.JPEG%2FIMG%25A3%25DF8018.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfMTgg%2FMDAxNzgwMzY2NTQxMDE4.8_bFpkezWl-9G-MgXb-fXCmu2PI-wNH3A6sPTy7QD8Ag.HZs_SJthHZYNJ1_Sc_40szVBas7IHCqi_mrt1jdWZoog.JPEG%2FIMG%25A3%25DF8019.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfNjUg%2FMDAxNzgwMzY2NTQxODA4.8HMRb0TJ6aLjU5ljcP9_PPqYCiwWPVBRH7ajnf24l2Ug.Bohp-NX_uAMgtO8LWLeZmNxrYcRp6y8-IgPauhjlH5Ig.JPEG%2FIMG%25A3%25DF8013.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfMTYw%2FMDAxNzgwMzY2NTQyNjQ3.Mz9WnNdT1LFpP4f30VDmTEceUuq1ukKnlt8_3aa0Pn0g.U7l2l6TitFCjV1IYJ-QLK21RkJYLkv6kVBije1jSR_kg.JPEG%2FIMG%25A3%25DF8014.JPG"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20230208_142/1675848947226WYRk1_JPEG/KakaoTalk_20230208_175205879_06.jpg",
+    "reviews": "방문자 리뷰 17,564",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1614701657",
+    "instagramUrl": "https://www.instagram.com/ryomi.official",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "후토마키 5pcs",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20260210_61/1770707353071zewEX_JPEG/KakaoTalk_20260210_132430581_06.jpg"
+      },
+      {
+        "name": "삿포로식 스프카레",
+        "price": "14000",
+        "image": "https://ldb-phinf.pstatic.net/20260210_234/1770707072662PmtOD_JPEG/KakaoTalk_20260210_132430581_04.jpg"
+      },
+      {
+        "name": "고마소바",
+        "price": "12000",
+        "image": "https://ldb-phinf.pstatic.net/20240629_195/17196627670152fc2J_JPEG/KakaoTalk_20240629_210047484_09.jpg"
+      },
+      {
+        "name": "2인세트",
+        "price": "39000",
+        "image": "https://ldb-phinf.pstatic.net/20220611_204/16548800082620QfCE_JPEG/%B7%CE%B0%ED.jpg"
+      },
+      {
+        "name": "트러플 함박 덮밥",
+        "price": "14000",
+        "image": "https://ldb-phinf.pstatic.net/20241223_138/1734917096623rKl2Q_JPEG/1734917092046.jpg"
+      },
+      {
+        "name": "야끼소바",
+        "price": "12000",
+        "image": "https://ldb-phinf.pstatic.net/20240629_153/1719662805594oRbqV_JPEG/KakaoTalk_20240629_210047484.jpg"
+      },
+      {
+        "name": "고기 온소바",
+        "price": "12000",
+        "image": "https://ldb-phinf.pstatic.net/20251105_182/1762304962394nhWie_JPEG/1000044208.jpg"
+      },
+      {
+        "name": "유자토마토",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20260210_298/1770707296220mX9tS_JPEG/KakaoTalk_20260210_132430581_20.jpg"
+      },
+      {
+        "name": "닭목살튀김",
+        "price": "9000",
+        "image": "https://ldb-phinf.pstatic.net/20260210_109/1770707317536jsbxe_JPEG/KakaoTalk_20260210_132430581_17.jpg"
+      },
+      {
+        "name": "왕새우튀김",
+        "price": "9000",
+        "image": "https://ldb-phinf.pstatic.net/20260210_136/1770707335662bmiV9_JPEG/KakaoTalk_20260210_132430581_16.jpg"
+      }
+    ],
+    "microReview": "강아지와 함께하는 여유로운 식사 시간",
+    "conveniences": [
+      "단체 이용 가능",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "반려동물 동반",
+      "포장",
+      "유아의자",
+      "간편결제"
+    ],
+    "roadGuide": "******도보 이용시******\n황리단길 초입에서 5분 정도 걸어오시면\n메인 거리에 위치한\n경주 맛집, 료미가 보이실 겁니다^^\n\n******자차이용시******\n아래의 주차장을 이용하시면 편하십니다.\n[무료]\n-서라벌 문화회관\n-황남동주민자치센터\n\n[유료]\n-대릉원 공영주차장\n-봉황대 공영주차장\n-황남 공영주차장\n\n*혹 찾아오시는 길이 어렵다면,\n054-624-5060 로 연락주시면,\n친절히 안내도와드리겠습니다 :-)",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "경주 황리단길 맛집 야외 애견동반 료미",
+        "url": "https://m.blog.naver.com/yovelyyomi/224310579026",
+        "name": "프렌치불독귀요미요미요미요"
+      },
+      {
+        "title": "경주 황리단길 맛집 료미 내돈내산 메뉴 가격 후기",
+        "url": "https://m.blog.naver.com/seaminlover/224312845007",
+        "name": "♥ 러블리우쿨샘's story ♥"
+      },
+      {
+        "title": "경주여행, 경주1박2일 : 황리단길 맛집 료미, 미피스토어, 불국사 황금돼지, 보문단지카페 엘로우, 우두갈비, 동궁과 월지, 남정부일기사식당 짬뽕",
+        "url": "https://m.blog.naver.com/gkfks26/224303146258",
+        "name": "와우라니 라이프"
+      }
+    ],
+    "reviewTotal": 17564,
+    "imageReviewCount": 10491,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "료미~너무 맛있고 멋있고~경주에서 찾은 또다른 즐거움움을 만끽한 곳입니더.\n야끼소바와 고마소바는 워낙 면러버라 흡입하듯 먹었고\n삿포르 스프 카레는 담백함과 풍미 가득한 맛이었어요. 특히 구운 야채들이 정말 일품이었어요!! 경주에서 느낄 맛집으로 강추합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfNjIg/MDAxNzgxNjkyMzUxNTk4.8WJg-WxKmAML6RKFqr_y4rpz_-VKVaeHtiShwBdPwXog.pRiGEL1lKndoziDhr6vnrvbLbjdQaYc2ZeyyhRu_jbkg.JPEG/IMG_8678.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfNDQg/MDAxNzgxNjkyMzUxNDg3.FFsCsnA5A0oacyQw4TxmOGIwAUKds77TSuCLBw3V_uMg.DV9NKSX1aEzMsicY-pT3I5AYRNqoiGIc_CKJskQy-sYg.JPEG/IMG_8679.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfMzkg/MDAxNzgxNjkyMzUxNDgy.bBIHbuZW_KgEssEtpG0m-54wOIHA0p7Uv-crBSjzZHkg.SatLEmHFVeE7cPxYM3TdSg0u1y0fbEDtc0q-PH8l2Dkg.JPEG/IMG_8680.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "롤롤7159"
+      },
+      {
+        "body": "평일에 경주 놀러왔다가 평소 웨이팅 맛집이 대기가 없어서 바로 오게 되었습니다.\n트러플 함박은 트러플 향이 진하고 맛있고, 고기소바도 돼지곰탕 처럼 맛잇네요❤️\n넘 맛있는데 김치류가 있었음 더욱 좋을거 같아요..ㅎ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTM4/MDAxNzgxNzc2NjI1Mzg5.dLgiAjLhJKfdfvxfGa39dkRvkhJYakogmntZv-B3zpsg.5tY0YLjaeN0REq2li6tidgP3a-_hYmM71G9lly0RAS4g.JPEG/20260618_183848.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMjAx/MDAxNzgxNzc2NjI2NzEy.gdma1H3syRNTZ_v6MJBV51aS3s-FboJdbPZiivvUN8Qg.my4w5F_iizqfsYFb4ssCd_IIpZe8iOGAt8ZJvpYZF68g.JPEG/20260618_183921.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "반짝5785"
+      },
+      {
+        "body": "식당 외관도 이쁘고 블루리본 맛집답게 음식도 하나하나 너무 맛있어요\n야끼소바와 함박덮밥, 고기온소바 주문했는데 아이도 잘먹고 맛있는 식사했습니다^^\n다음에 또 경주 방문하면 먹으러 와야겠어요 ㅎㅎ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTdfMTkz/MDAxNzc4OTk2MDg2NDAy.yiWpxcKFSpkRPraPz34zplnRUTc6wpku9usrLtwbczkg.G5_lnQetHBaYlfE5KWfIKPc7cnhkj_SieEblBMDpJUwg.JPEG/7A1AD953-33FB-4F1D-8F95-A75560C34920.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTdfMTIy/MDAxNzc4OTk2MDgzMDU0.aeG7jYtk-FmIJK1BRvrj2exl1vHDYmsTSXFZ2Jui6mog.BblmvfIQB6KBNzKypzPNL0QAdOB0N7G3Ptl7AbCBjDIg.JPEG/4A6D039F-21D7-4742-BBF2-C25B67E7B8AA.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTdfMjkg/MDAxNzc4OTk2MDg1Mjk3.yBKEKzqViJ_c77tcq2WBiSCN8ZAdGpH15n0oFLoSB2cg.ZVD8QPr819H9OjbaJLlCfSHTzHm9GsYZgwmFlLvCxVsg.JPEG/FB5C609A-62EF-4EA5-ACDF-F918641944EF.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "으링이90"
+      },
+      {
+        "body": "경주여행 첫날! 밤에 방문했던 곳! 매장도 고풍스럽고 음식메뉴와 잘 어우러진다생각하며 들어갔는데 내부는 깔끔하고 잘 정돈되어있었다. 메뉴가 많진 않지만 특색있어서 2인세트로 주문했고 10분정도 기다리니 나왔다. 기본찬도 딱 2개로 깔끔했는데 궁채와 식감이 비슷한 식물줄기가 독특하고 맛났다. 후토마키(?)라는 이름을 처음 들어보고 맛봤는데 회가 들어간 일본식",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjdfMTAw/MDAxNzc5ODc5NTU0NjMy.0SsTOURV_Gu5PmPv45kqyPPg_Y1WF_dr3T14C9S70UYg.3rTh6H8d-IFH0rMe9yThM4_M0H1VUoxhl2DhWNyIgzog.JPEG/C9406C75-90EF-45E9-B89C-55E885430158.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjdfMjE4/MDAxNzc5ODc5NTU1Mjg2.OoZLCKezzUIVFs0r7-8A0atenFWaUi2N_vUB39KEqswg.3WHWF4JjUGQjImJ4pOAMkoy231qk-b9yaXjvK5ODa5Mg.JPEG/3FDE2370-AD5C-4038-A427-83E5DBB41304.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjdfMTU3/MDAxNzc5ODc5NTUzNTcw.XGU-3G5dID18I0AtwwO9wFSI3FVMiMb6Qx78umDL9CIg.jjIumQY1iCnE32LqAm44bqfBUPiCnxCxt2wdakakV68g.JPEG/88BB2C22-2D98-42BA-8BC3-9F62A9DA4AD0.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "느리다움"
+      },
+      {
+        "body": "​고즈넉한 경주 황리단길 분위기 속에서 정갈하고 트렌디한 일식을 즐기고 싶다면 무조건 추천하는 곳입니다. 후토마키와 따뜻한 스프카레의 조합이 생각보다 훨씬 좋아서 다음에도 이 조합으로 다시 주문하고 싶네요!\n​감성적인 분위기 황리단길에서 고즈넉한 한옥 감성과 정갈한 일식을 함께 즐길 수 있는 핫플 추천.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDZfMTg5/MDAxNzgwNzM0MzYwMTMz.1vGHkMmjv8jX_8qrgaFpMnotX547nDv25Q4_Ig11_pwg.5Ieo65FjZ09bsUjZ06q7JjldOwrkO4F8_0YrbcHdqgcg.JPEG/20260606_172251.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDZfMjE2/MDAxNzgwNzM0MzYwNTMz.irklZC479-1_uF8VlrgXF_Ion6-FOERqwmDRfAfhG38g.2XEyDqEc-fnZIfotfUgRBceNoOAU9Qx4LvykbZJG490g.JPEG/20260606_171333.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "으쓱으쓱32"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1183977881",
+    "name": "시즈닝",
+    "address": "경북 경주시 첨성로99번길 25-2",
+    "roadAddress": "경북 경주시 첨성로99번길 25-2",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.8355,
+    "lng": 129.21246,
+    "category": "양식",
+    "mcid": "DINING",
+    "naverCategory": "스파게티,파스타전문",
+    "phone": "",
+    "virtualPhone": "0507-1483-7477",
+    "hours": "15:30에 브레이크타임",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220427_32/1651046117877ER7LO_JPEG/D3612D4F-96F0-4A54-B78E-DF57961B4590.jpeg",
+      "https://ldb-phinf.pstatic.net/20220427_210/1651046134780hd4hp_JPEG/326F80F1-04D0-4534-A01C-CB020AF4D005.jpeg",
+      "https://ldb-phinf.pstatic.net/20210809_200/1628491743412sd1G7_JPEG/jJFTifp1HmCXa_Z0UlliBgEp.jpg",
+      "https://ldb-phinf.pstatic.net/20260314_46/1773452856543mz4Ga_JPEG/IMG_6886.jpeg",
+      "https://ldb-phinf.pstatic.net/20210602_251/1622614268562mXqSi_JPEG/miODa9CbMUS6ehllGFYoRTIs.jpg",
+      "https://ldb-phinf.pstatic.net/20191012_144/1570880438561M6dgQ_JPEG/nJT5ajaXNGVD27ARDLxa6a3N.jpg",
+      "https://ldb-phinf.pstatic.net/20210602_126/1622619917418HAMUW_JPEG/BPuuOOBYqMXGRNLr6PRZgpDf.jpg",
+      "https://ldb-phinf.pstatic.net/20210602_161/1622619908704O191f_JPEG/Jj3frg4lgfzYnCDu6ZfHClNL.jpg",
+      "https://ldb-phinf.pstatic.net/20210602_184/1622620694600dIWUn_JPEG/BTYzOrsfpZECygmSPhfLgIsc.jpg",
+      "https://ldb-phinf.pstatic.net/20210602_35/1622620204068vAiHj_PNG/M_aIngSsX4LVD9AqPDIHztoz.PNG.png",
+      "https://ldb-phinf.pstatic.net/20210602_209/1622619804013aK3gY_JPEG/n5bBUgXsuAtrNff8blvkdTnk.jpg",
+      "https://ldb-phinf.pstatic.net/20260326_194/1774513829351jECRr_JPEG/IMG_7197.jpeg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjBfMzYg%2FMDAxNzc5Mjg1MzA2MjU1.ozyiFElnDqrQgQD9d6gcP9Gkiah4PIC-bIzc9D6H0iwg.qlzmToM-e2xnGE2d5hTBCafGrPX3zc_v4E1VFAuvsdsg.PNG%2FDSC01089.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjBfNTYg%2FMDAxNzc5Mjg1MjIxNDcx.4uDFGerGYfGd0U0OuohE12LcX3Q2zswVceOXzR8fkV8g.R8Ai3yqJecAaUDcOjNT5WWLRpEzOjENpNCDKt1MstIcg.PNG%2FDSC00958.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjBfMjYw%2FMDAxNzc5Mjg1MjE5MzQ1.7jvLL4Lhpdw2al4uc-JAWEy5tCNvmcVljFdBlbj4W3Ig.92YS21pRA-wByAW2CbrAzI-r0gxkzVA7Um2ewvqCAHMg.PNG%2FDSC00956.png"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20220427_32/1651046117877ER7LO_JPEG/D3612D4F-96F0-4A54-B78E-DF57961B4590.jpeg",
+    "reviews": "방문자 리뷰 8,009",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1183977881",
+    "instagramUrl": "http://www.instagram.com/__seasoning",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "시즈닝 크림 뇨끼",
+        "price": "16500",
+        "image": "https://ldb-phinf.pstatic.net/20260310_80/1773107735579Olkeg_JPEG/IMG_5708.jpeg"
+      },
+      {
+        "name": "후무스 단호박 구이",
+        "price": "14500",
+        "image": "https://ldb-phinf.pstatic.net/20260314_98/1773450760554BwOVl_JPEG/IMG_6937.jpeg"
+      },
+      {
+        "name": "시즈닝 파스타",
+        "price": "13500",
+        "image": "https://ldb-phinf.pstatic.net/20220427_293/1651047679663LqxST_JPEG/4B33C6D2-9C69-4E8D-8791-AFA81E3A4BDF.jpeg"
+      },
+      {
+        "name": "오징어 먹물 리조또",
+        "price": "14000",
+        "image": "https://ldb-phinf.pstatic.net/20250204_40/1738635506666D9bgH_JPEG/IMG_2583.jpeg"
+      },
+      {
+        "name": "크림 파스타",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20210602_85/1622619904833rjBcU_JPEG/UOBCyQ2uh0zRz8vXmOfk9aah.jpg"
+      },
+      {
+        "name": "트러플 파스타",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20210602_259/1622619958035vrGP9_JPEG/7zjveYljL9g9tNwGPqmyxzrB.jpg"
+      },
+      {
+        "name": "라구 파스타",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20220427_97/1651047692229nrjTD_JPEG/C7489C12-FC6C-499F-9BFC-1675B3674D16.jpeg"
+      },
+      {
+        "name": "쿠로 라이스",
+        "price": "13500",
+        "image": "https://ldb-phinf.pstatic.net/20210602_195/1622620675055qTxal_JPEG/6bMgbV_YHdJR0BiupJrfkGBg.jpg"
+      },
+      {
+        "name": "프라운 라이스",
+        "price": "13500",
+        "image": "https://ldb-phinf.pstatic.net/20251008_287/1759888574423bc9uu_JPEG/IMG_3845.jpeg"
+      },
+      {
+        "name": "푸틴",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20210602_89/1622619800186M6y9L_JPEG/jrBoGeafxMWWdw0E--He_WuH.jpg"
+      }
+    ],
+    "microReview": "쫄깃함 속에 숨은 오징어 튀김의 매력",
+    "conveniences": [
+      "무선 인터넷",
+      "유아의자"
+    ],
+    "roadGuide": "1. 황남동주민자치센터에서 3시방향으로 약 50m 위치에 있습니다.\n2. 미추왕릉에서 6시방향 한블럭 지난 다음에 약 20m 1층에 위치하고 있습니다.",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "경주 황리단길 분위기 맛집 시즈닝 웨이팅 오히려 좋아",
+        "url": "https://m.blog.naver.com/jeggange/224293735238",
+        "name": "제제하다"
+      },
+      {
+        "title": "경주 황리단길 맛집 시즈닝 한옥 퓨전 파스타",
+        "url": "https://m.blog.naver.com/lordlysj/224287079215",
+        "name": "소소, 달달한 이야기♡"
+      },
+      {
+        "title": "경주 황남동 맛집 여기좋네",
+        "url": "https://m.cafe.naver.com/ungsangjang/836311?query=%EB%B6%80%EC%82%B0%20%EA%B2%BD%EB%82%A8%20%EB%A7%98%EC%8A%A4%ED%99%80%EB%A6%AD%20%EC%9C%A1%EC%95%84%20%EC%83%9D%ED%99%9C%EC%A0%95%EB%B3%B4%20%EC%B2%B4%ED%97%98%EB%8B%A8%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98",
+        "name": "부산 경남 맘스홀릭 육아 생활정보 체험단 이벤트 중고거래"
+      }
+    ],
+    "reviewTotal": 8009,
+    "imageReviewCount": 5413,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "오랜만에 방문한 시즈닝~!!!\n평일 아침일찍 방문해서 웨이팅은 없었지만\n음식 나오고 먹고 있으니 손님들이 계속 왔어요~\n황리단길로 지금처럼 유명해지기전부터\n맛으로 줄세웠던 시즈닝\n여전히 맛도 분위기도 그대로여서\n너무 맛있게 먹고가요~\n다른 곳에서 뇨끼먹고 실망한적 많았는데\n시즈닝 뇨끼 넘 맛나요!!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTYg/MDAxNzgxNzQ5MTQwNjc3.nuoICpCvgMK8F-3iA-Ib5xuxjF7eDp8gyBRCgaFR0-0g.noB1Y8PJ0eIwiYNKDhZUYXxU7OZf1_kKt79RuIAZntIg.JPEG/1781749019461.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfOTAg/MDAxNzgxNzQ5MjI0MDk4.KId6-MvmFWmreAlXVoEkMsQc2ImOhUHCwJutzWt46Asg.c9fVR2dWLatul_VHqF27ixcBgYq8EaeC3w0xP3vYaQ8g.JPEG/20260618_104756.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfOTYg/MDAxNzgxNzQ5MjI0OTg5.-Mookka3ehuXaH_kGnsgAaznLqCaMVLvMWt2bxXg1oMg.7vvYS17wtbn2sxWPr5IG3u7Tu0RAreoSHOM29J8yVC8g.JPEG/20260618_104812.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "여기저기 사방팔방"
+      },
+      {
+        "body": "정말 오랜만에 둘이서 데이트왔는데 여기 맛집이네요!!\n어쩐지 오픈 전부터 손님이 기다리고 계시더니👍🏻\n들어와보니 분위기도 좋고 하나하나 설명 다 해주시고 \n정말 친절하시네요😃\n음식도 빨리 나오고 정말 맛있어요!!\n음식들이 느끼할 수도 있지만 매콤함이 있어 괜찮고\n중간중간 씹히는 바삭한 식감때문에 먹는 재미도 있어요~\n시즈닝 파스타는 기본이 신라면보다 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMTc0/MDAxNzgxMTQzNjI3OTA4.AX3SrG-jhVoXHWtUewKjBh4WnWXqkic0aOTJ-2896xEg.yMOd90oINo495NbwootY4hEb3_8rtfu8PZsopueX-xYg.JPEG/8FDEB731-1F1A-49CE-9D51-023757DFA052.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjAz/MDAxNzgxMTQzNjI2NzE0.F-Mlflc98fjqcW5_Ec20PJcohaSCs1nO1vKsFSMR78og.zG2hJQ_0Cnu39C1xUUIBJnOyk9cMy8_UZcrk39FazsIg.JPEG/8C17F6E5-996A-43A7-8F2B-3206EBB27F59.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjU5/MDAxNzgxMTQzNjI0Mzgx.dhvDKsxFe5S70780jNCRBbL9rFZQn2GkKBF9hVcsnPog.SLBo3uc5kfjRFH60CLs9hsStGVZWGU6dVL6qFmq1F1sg.JPEG/D6130941-616C-41FF-9424-714B258E1976.jpeg"
+        ],
+        "author": "미로슨생"
+      },
+      {
+        "body": "독특한 메뉴 가득했고 아이들 입맛에는 뇨끼와 먹물 리조또가 최고의 메뉴였어요👍\n시즈닝파스타는 맵기조절 가능하고 신라면정도 맵기로 하니 그리 맵지 않았어요. 한옥집 개조로 테이블 수가 적으니 미리 웨이팅 할거 생각하고 방문하심 좋을것 같아요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTky/MDAxNzgxNDE1OTE0MTg5.6s8TXfsnDxtZB24sqZazxFXl7LSyt3sEu0ORv57Q3o0g.V4BiOgUmMJz4iTSG5WtXA5VzavK7EGi3lpcVbLXa5UQg.JPEG/20260614_142121.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTk0/MDAxNzgxNDE1OTA5NTIw.pxSXtdyPO4K_D7QWVv-1tUnLEJli36H5zAsPZeZczBgg.krqp7_beoRnsa1YK6bElcAUEKcLFTfb3IqPUektXapsg.JPEG/20260614_142118.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjk3/MDAxNzgxNDE1OTE0MTg2.tmgQ_uMtG-Z3oW9qIl59DZANpme57ZreuaGqrXglogkg.LvvLe0VHIb5nNfhAxTpxwIMlkqoD4Z-wAnh4oHAzOB8g.JPEG/20260614_142114.heic.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "drh****"
+      },
+      {
+        "body": "황리단길 맛집으로 유명한 시즈닝에 다녀왔어요. 가족들과 함께 여러 메뉴를 주문해서 나눠 먹었는데 하나같이 비주얼도 좋고 맛도 만족스러웠습니다.\n\n특히 치즈가 듬뿍 올라간 크림파스타는 꾸덕하면서도 부드러운 소스가 면에 잘 어우러져 정말 맛있었어요. 매콤한 새우 파스타는 느끼함 없이 깔끔했고 통통한 새우도 넉넉하게 들어있어 좋았습니다. 크림소스와 바삭한 치킨,",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfOTYg/MDAxNzgxMzIxMjg2MzUw.8axZPXnPKV2O1ieskCrlwQLCqgk3lM2EXZmKRU1DA_4g.AeFcos5N6Wg3lDxYRJBXA6yOvluIk5DJsYXVsj5iIRMg.JPEG/9AAEE74F-6534-4C92-A120-3B3C85D3A7E6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMTM4/MDAxNzgxMzIxMjg4OTE1.TRqV4C297NUMMoOtchR6FZVV9k67A6yYXduZvUB3v84g.ByTDNNMyB36Shsazp7ftn52W4gkE3bLUnLy6c5ODO0kg.JPEG/AC894024-B1A7-4350-9579-F2842B16813C.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMTk1/MDAxNzgxMzIxMjg3MjMx.iAjvN0CySL26X3o1rlP2jpiSSdfjC3TkaRzaObePLtsg.HuzdnOO7nMIcDzfo5ButVtUQZZiqSdeCvBJTRQTG8zUg.JPEG/E19DD4A6-62D9-4A4B-AE97-8F7F7B37EE54.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "친구할래요"
+      },
+      {
+        "body": "평일 저녁에 오니 대기 없이 바로 입장했습니다!\n인테리아는 깔끔하고 아늑했어요\n가장 중요한 음식 맛도 하나같이 일품이네용\n뇨끼는 꼭 먹어야 한다는 이유가 납득되는 맛이고\n시즈닝 파스타는 신라면보다 조금 더 맵다고 하셨는데 매콤한 거 좋아하는 저희는 아주 맛있게 먹었습니다!\n그리고 의외로 단호박구이가 킥이라 제 기준 1등이였습니당\n이거 저거 많이 먹어서 다 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjIy/MDAxNzgxMTc1MTU0OTY2.PORlm12HS0pwx9foGVLHj5jVe0eVNlqYwYilcpYgypkg.PzG12yJtZMewZhHQO9weNSNEZzSWvSPb6DDglTcTRVUg.JPEG/IMG_9841.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjM5/MDAxNzgxMTc1MTU1NzM2.vrhmiOij1ElquVGAeuXE7AIBbd4_wgsUAkVbmQtwBEcg.M4mzx1_spIoleL56lg4fwO6wgOKj843P7eQPYmqqy5gg.JPEG/IMG_9844.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjI3/MDAxNzgxMTc1MTU0NjQ2.sKtlChZXnV-uNl9kYiYkKYZSocaVjHO81d6pGoJY7Mog.uaekouWLM_k5OTiT77nL9aoO0qSEuXKRGQbVk2zoCjUg.JPEG/IMG_9847.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "블리422"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1594189741",
+    "name": "단향회",
+    "address": "경북 경주시 첨성로81번길 28-1",
+    "roadAddress": "경북 경주시 첨성로81번길 28-1 단향회",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.83557,
+    "lng": 129.21126,
+    "category": "한식",
+    "mcid": "DINING",
+    "naverCategory": "한식",
+    "phone": "",
+    "virtualPhone": "0507-1335-9186",
+    "hours": "15:00에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20240729_234/1722179942054a69rU_JPEG/1722178036678.jpg",
+      "https://ldb-phinf.pstatic.net/20240602_205/1717289410722HAK3p_PNG/1717247700934_%281%29.png",
+      "https://ldb-phinf.pstatic.net/20260613_179/1781310613769f3ekD_JPEG/1775915971655.jpg",
+      "https://ldb-phinf.pstatic.net/20251209_119/1765241681318ljwi9_JPEG/Screen_Recording_20251206_202147_TVING%285%29.jpg",
+      "https://ldb-phinf.pstatic.net/20240329_155/17116666690064stv7_JPEG/KakaoTalk_20240320_145354061_05.jpg",
+      "https://ldb-phinf.pstatic.net/20260411_217/1775843879284PHXSX_JPEG/KakaoTalk_20260411_025451988_02.jpg",
+      "https://ldb-phinf.pstatic.net/20260411_198/1775843881776rAsKB_JPEG/KakaoTalk_20260411_025451988_03.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMjM2%2FMDAxNzgxMzU5MDUzNjM5.pty3VLSz81coiQiX0o43dmvRwHSTNduh-ftSrPVEqAwg.BQH0VI58d4cBI93D4m5yX-hLLqK00l8ryzhY3Jc72X8g.JPEG%2FIMG%25A3%25DF4891.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTYg%2FMDAxNzgxMzU5MDQ5MzA3.N7irNL4OCb6BFpy7LFS7x8KOV5fgvexo35cSAr9moP0g.tGmrBthl9n6tuRa4OxCjJbomgnLtHGr8AFEJ_vjsisAg.JPEG%2FIMG%25A3%25DF4876.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTQw%2FMDAxNzgxMzU5MDQ5OTY3.-YU44594qlCPX3jBYGSvH_xaNpP-bz5ff0bTDoeHHbog.eNjto-je1_7_EOcFq9h8Mv0uMag6_w0bnZ1fd_XsqAYg.JPEG%2FIMG%25A3%25DF4877.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTcg%2FMDAxNzgxMzU5MDUzNjky.V3Yux2ww4SSz3A_rRfJH7LsCVb-pXMouP472dk4yKGcg.CyaFbZM7CLjPTI6OcnP9Pip5JKJmqp9u_TuUIw8hKbAg.JPEG%2FIMG%25A3%25DF4884.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfODQg%2FMDAxNzgxMzU5MDUyMDcw.7lSCyaWreJkKZuxopq8zwki82UQfX-2pB2oG2JYzP4Ag.r72BnpTOAa5nCYRBTa9_iMSNswO0652cOCC7RPhRlwMg.JPEG%2FIMG%25A3%25DF4893.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMzYg%2FMDAxNzgxMzU5MDU1ODEz.ReL05WS4qNYOfFpu0sqGkShWX99G3X7Ev19bZJezH4Ig.fozGsnxCUBUeIBWNry970NJNgxMsFJGRY2krF1f6EI0g.JPEG%2FIMG%25A3%25DF4894.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfODkg%2FMDAxNzgxMzU5MDU5NDA2.VZdzWRfSgWUu8WGat3ih-dmasJfJt8MkmyOJPlQHszYg.woDGz5SrE8YFrWKJ743lVggqYSsGGnpMeYi6pYSVTk0g.JPEG%2FIMG%25A3%25DF4896.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfNjIg%2FMDAxNzgxMzU5MDU3ODMw.GyMqHFdr7mJNgc2XaqJJvN9e8yWC-Reom2oi26bY77gg.N8RnCHX_5aRzaf6uWz4PfoMSi4TIp78SzWat3UF3Km8g.JPEG%2FIMG%25A3%25DF4900.JPG"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20240729_234/1722179942054a69rU_JPEG/1722178036678.jpg",
+    "reviews": "방문자 리뷰 4,736",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1594189741",
+    "instagramUrl": "https://www.instagram.com/danhh.gj",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "손말이고기 기본맛(미나리버섯미포함)",
+        "price": "16500",
+        "image": "https://ldb-phinf.pstatic.net/20240327_192/1711503618267ClXDY_JPEG/%B0%ED%B1%E2%B8%BB%C0%CC_%282%29.jpg"
+      },
+      {
+        "name": "손말이고기 갈비맛(미나리버섯미포함)",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20241216_292/173435625930613t8r_JPEG/%B0%ED%B1%E2%B8%BB%C0%CC_%282%29.jpg"
+      },
+      {
+        "name": "육회 비빔밥",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20260411_8/1775916114295hywqN_JPEG/20002.jpg"
+      },
+      {
+        "name": "메밀 물막국수",
+        "price": "9500",
+        "image": "https://ldb-phinf.pstatic.net/20240729_181/1722180137189FdzRx_JPEG/IMG_1686.JPG"
+      },
+      {
+        "name": "땡초 부추전",
+        "price": "11000",
+        "image": "https://ldb-phinf.pstatic.net/20240327_280/1711503780060CNNYY_JPEG/KakaoTalk_20240320_145429032_14.jpg"
+      },
+      {
+        "name": "메밀 비빔막국수",
+        "price": "9500",
+        "image": "https://ldb-phinf.pstatic.net/20240327_142/1711507327108tvMtF_JPEG/KakaoTalk_20240320_145429032_23.jpg"
+      },
+      {
+        "name": "미나리 온면",
+        "price": "9500",
+        "image": "https://ldb-phinf.pstatic.net/20241216_248/1734356029164Wp1aR_JPEG/KakaoTalk_20241216_223154264.jpg"
+      },
+      {
+        "name": "참가자미 무침회",
+        "price": "15000",
+        "image": "https://ldb-phinf.pstatic.net/20240327_275/1711503650248Tz7Mi_JPEG/KakaoTalk_20240320_145429032_25.jpg"
+      },
+      {
+        "name": "솥뚜껑 된장찌개",
+        "price": "4500",
+        "image": "https://ldb-phinf.pstatic.net/20240329_119/1711666677220B5oHh_JPEG/KakaoTalk_20240320_145429032_11.jpg"
+      },
+      {
+        "name": "구워먹는 치즈와 꿀",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20240712_120/1720792365512AL72S_JPEG/1720792067868.jpg"
+      }
+    ],
+    "microReview": "신선한 육회가 어우러진 비빔밥의 매력",
+    "conveniences": [
+      "단체 이용 가능",
+      "예약",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "유아의자"
+    ],
+    "roadGuide": "황남동 주민자치센터 바로 옆 코너집 입니다.",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "50명 이하"
+      },
+      {
+        "name": "입식",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "경주 황리단길 단향회 육회비빔밥 된장찌개",
+        "url": "https://m.blog.naver.com/kyongijoa/224315074472",
+        "name": "Ordinary Archive"
+      },
+      {
+        "title": "경주 황리단길 맛집 내돈내산 단향회 점심 핫플",
+        "url": "https://m.blog.naver.com/kizaki56/224307277668",
+        "name": "몽몽의 먹어야 사는 블로그"
+      },
+      {
+        "title": "경주 단향회 손말이고기 추천합니다",
+        "url": "https://m.cafe.naver.com/directwedding/8921842?query=%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84",
+        "name": "다이렉트 결혼준비"
+      }
+    ],
+    "reviewTotal": 4736,
+    "imageReviewCount": 3586,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "분위기",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "캐치테이블 어플에서 경주 맛집 치니까 바로 나오더라구욤 :) 그레서 예약으로 해서 오게되었어요 왔는데 사람들도 많이 기다리고 있었고 손말이 고기가 딱 한입크기로 나와서 먹기 좋았어요❤️ 왜 맛집인지 알거같은 \n너무 든든하게 잘 먹고 잘 놀다 갑니다 ^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjc5/MDAxNzgxNDAyODQ3NzI3.SHyYX8Ux6rCSa1_mIBiOMGDv9X59JWyw4jT8BWuc8fwg.2ARAuCALA4G26NGyBBdi9_P1E5e8cRylvRkONg5uIZ8g.JPEG/37092.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTI3/MDAxNzgxNDAyODQ4NjMy.bP5MrDqTevrTTKAX-jnaFaI-SjAZ_Sd8SZLY7Ms_Cpsg.zCQVFoiZdB-YqrGpmPrm-QCBnubdhGj0CBYxfqvwRlog.JPEG/37089.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTgy/MDAxNzgxNDAyODQ4NDU3.mqarnyS_iH6_GoJHIn0hLSbcKjF91GEzbuCNa2zZbnQg.3syeO_q_uhXAI5LjLx-x4sU10YpisSMcQsEBDNa1i8kg.JPEG/37085.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "또그니마"
+      },
+      {
+        "body": "서울에서 엄마와 여행왔다가 예전에 TV에서 본 기억이 있어 찾아왔습니다.\n이렇게 유명맛집이라고 찾아왔다가 실망하는 경우가 종종 있는데 단향회는 유명세만큼 맛있었습니다.\n모든 음식의 간이 쎄지 않아 너무 좋았고 직원분들도 너무 친절하셔서 찾아오길 잘했다고 느꼈습니다.\n저희는 6시 5분에 왔는데 운좋게 웨이팅 없이 들어온 마지막 테이블이었네요.\n대표메뉴인 손말",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfNTIg/MDAxNzgwOTEwMTgwNDAz.GjaGq_D-P4CcIJIMab_xQb6opEd5Z5rr0XNpt83s_fEg.xxKx5MILXkMqa41BCKDkVIzFJtE7g9xjEuEDOFPIpq4g.JPEG/20260608_181449.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfNDQg/MDAxNzgwOTEwMTkyMzAw.SOD-mgGhWxnH37VfSjHdMiOfb6kukvLBpXK5NYQ9KJgg.Kmn5fEngKQIa4r_6mL8CQkq0FnTPQT6YSFTVLPxk9D4g.JPEG/20260608_181305.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMjUg/MDAxNzgwOTEwMjAxMTcz.3oH8tDYvq_R4KUXfG9g_1GddIq9MK2to9muwl8Q0yB4g.z2EoqEIrediSGzQg2Mf4x20WNx7lk6gNrjR3KahoYtkg.JPEG/20260608_181113.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "레옹67"
+      },
+      {
+        "body": "경주 여행 온 첫날 첫 음식입니다^^\n너무 맛있고요 아이가 맛있다며 밥도 맛나다고 합니다^^\n또 오게되면 부모님과 다시 와보고 싶네요\n대기하는동안 앞집 쫀드기도 먹으며 대기하다보니 금새 입장했어요~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjQw/MDAxNzgxMTczMjU1NzM4.bWUePt6264SGiVLze9V-Bar2t_ucWv0aRYSmh0dIWoIg.vAxbuY-USv2BU-G5E1msrmLB4CtmFxBQSPAGE7qxSbAg.JPEG/E5DBFD6B-C54A-40D4-827F-F0F4731550DB.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMTY5/MDAxNzgxMTczMjU2NTgx.2pPmewgtn32M8qFSMqmo656UtnZJOlszgHKvru7xoFQg.p3ldiI56zLN-hO4WdZkqmw_sFVvctWNcvmZ9TOQtFXsg.JPEG/52987EE7-9C4A-4DC8-8265-D266B9887399.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjc3/MDAxNzgxMTczMjU2ODc5.3JPEmV7lYD3qJalI-YXRR4TSPVRFdv6EiZEnybkuJnQg.axFGaYV1D4nKmZjRYN9ffCWwx1fHU_OmyAyIBfSvBX4g.JPEG/5494E6ED-5FFA-46CF-B161-350EA4556938.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "마마쓰0908"
+      },
+      {
+        "body": "경주 여행 중 방문했는데 만족스러웠어요. 나중에 부모님 모시고도 오려구요! 매장 쾌적 깔끔 분위기 좋고 고기가 신선하고 육즙도 좋았어요! 된장찌개 솥뚜껑에 부어 된장술밥처럼 먹으니 속도 든든하고 더운 여름 얼음으로 차갑게 식힌 속을 따뜻하게 채워주는 느낌입니다!\n잘 먹고 갑니닷😆",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDRfMjMw/MDAxNzgwNTYyMzQwOTMx.A8lIhZig3lQJevak302dCBs-sSUFZ0_4hQ2K1EKKFmog.tNKWxwGpwzVtc8B2qxA8BGc6AnwQEswiDCvAxpaWM9sg.JPEG/IMG_0358.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDRfMjkw/MDAxNzgwNTYyMzQwNTcy.MlPqb7xk-HioFisuStyPYCYvcR3zWyBmkvSBgGlakVgg.ZoOXJSLfZaYyBkPI_yLFxIL-Vl8A4t1wLWP7sJbcFjkg.JPEG/IMG_0356.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDRfOTAg/MDAxNzgwNTYyMzQwODk5.9x0aBt2vKHNuKr_yQ6NQmvZ_LDW0HJ09bgzcP60mUhog.fa5RcsaJf27MS5tlgpYtGjcgFm9o_AqZoBvEOKc_AM0g.JPEG/IMG_0359.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "복만이222"
+      },
+      {
+        "body": "경주 여행 중 들어온 곳\n평일이라 다행히 웨이팅 없이 들어왔어요\n\n고기말이기본, 양념 반반주문 가능한데 둘다 너무 맛납니다\n막국수도 넘 맛나는데 비빔은 살짝 간이 쎈 느낌이 있어서 양념 조절하면서 먹으면 좋아요\n\n된찌 마무리도 좋습니다 잘먹었어요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfNDIg/MDAxNzgwOTA4OTM3NTc0.1l6S0oVNX_ymGtbPQnks_18I4jyXQYAOr9zTTO3zmpsg.GNQvpNsCHai57gKiXjHEPH-8ZvMUUuppdHNXbE_Rb6wg.JPEG/1000024350.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMjkw/MDAxNzgwOTA4OTM3ODA1.5rfQiuJ5it3Q_CMMD88jjiYVThgY_C0sR7ISjW19vYEg.5CITo2NvdRKDKQi9wg92d9MLXNVlNdpuVc_baTULw18g.JPEG/1000024349.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTk1/MDAxNzgwOTA4OTM3NjM2.04o4lbvFWWjW7UunC2jzdsHp8J-O8ofsZCb2MhFOa34g.l3g5Ht8dZyqKe1NyWvXKBVIcoF8OuxdmQFxznwG-PIYg.JPEG/1000024348.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "김로다"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1196479801",
+    "name": "포석로 소갈비찜",
+    "address": "경북 경주시 포석로1068번길 22",
+    "roadAddress": "경북 경주시 포석로1068번길 22",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.8359,
+    "lng": 129.21184,
+    "category": "한식",
+    "mcid": "DINING",
+    "naverCategory": "한식",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "20:30에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230608_299/1686206631532ub0o0_JPEG/KakaoTalk_20230608_134027061.jpg",
+      "https://ldb-phinf.pstatic.net/20230608_226/1686206644553tm4d8_JPEG/KakaoTalk_20230608_133725597.jpg",
+      "https://ldb-phinf.pstatic.net/20230608_234/1686206656845jjNzU_JPEG/KakaoTalk_20230608_133715567.jpg",
+      "https://ldb-phinf.pstatic.net/20230325_28/1679748079470E41nr_JPEG/KakaoTalk_20230321_130307779_02.jpg",
+      "https://ldb-phinf.pstatic.net/20211206_87/1638776362579dwmWp_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+      "https://ldb-phinf.pstatic.net/20211206_131/16387763889973Asfi_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+      "https://ldb-phinf.pstatic.net/20211206_185/1638776353297YrFvW_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+      "https://ldb-phinf.pstatic.net/20211206_35/1638776345107ehHI1_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+      "https://ldb-phinf.pstatic.net/20211206_36/1638776335588aYfGk_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+      "https://ldb-phinf.pstatic.net/20211206_101/1638776323309NKt3H_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+      "https://ldb-phinf.pstatic.net/20250520_143/1747732763350UPOoj_PNG/1.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjJfMTAg%2FMDAxNzc2ODYzNjg0Njcz.2ikQq60mH7qS_dg9jW9LHHA47p_gayJh79rkOnsyJZsg.d75plDVQp55PlxeDzzM1UfAVLHyFZ2PfpQai7fMVW0wg.JPEG%2F20260305%25A3%25DF182337.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjJfMjEw%2FMDAxNzc2ODYzNjcwNDA4.boE9s6LFCc16POcrJEuw24iM9QID_w6JfPInbQX9138g.fqTWznhjKvbeEfP1yC-9zMeh6G_px281zfbsBL-JUDog.JPEG%2F20260305%25A3%25DF180702.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjJfMjkz%2FMDAxNzc2ODYzNjcyOTQ2.azuWGRiJeiGYFr_u_V-uYUiILjScFsIoc8jwyWJ0O5Mg.B9j0wEGxh1Z8TY3i6nlZlYXa56R7W7AltckYzLvFBPcg.JPEG%2F20260305%25A3%25DF180718.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjJfMTg1%2FMDAxNzc2ODYzNjc1Nzcx.TymV3eFhbVnK1BPoE6QmdIeTWQzKcrnnityUKtWQ1iwg.kE30CvFFcXwe43_zh3V6ISd3QpmD80WZRfwb9kvVBIMg.JPEG%2F20260305%25A3%25DF182051.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20230608_299/1686206631532ub0o0_JPEG/KakaoTalk_20230608_134027061.jpg",
+    "reviews": "방문자 리뷰 14,267",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1196479801",
+    "instagramUrl": "https://www.instagram.com/poseok_ro",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "포석로갈비찜&구이2호점(별관)",
+        "price": "",
+        "image": "https://ldb-phinf.pstatic.net/20250623_177/1750664970386siN3I_PNG/002.png"
+      },
+      {
+        "name": "포석 소갈비찜",
+        "price": "21000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_237/1686298331456jxoXE_JPEG/KakaoTalk_20230609_171005676.jpg"
+      },
+      {
+        "name": "고추장 소갈비찜",
+        "price": "23000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_71/1686298317115AMd9r_JPEG/KakaoTalk_20230609_170919691.jpg"
+      },
+      {
+        "name": "해물파전",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_276/1686298300138TYlsO_JPEG/KakaoTalk_20230609_170836464.jpg"
+      },
+      {
+        "name": "왕갈비탕 (밥포함)",
+        "price": "15000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_268/16862983470520d4P1_JPEG/%A4%B7%A4%A4%A4%A9%A4%A4%A4%B7%A4%A9.jpg"
+      },
+      {
+        "name": "명란마요 주먹밥",
+        "price": "5000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_215/1686298285909mWXcj_JPEG/KakaoTalk_20230609_170712937.jpg"
+      },
+      {
+        "name": "냉모밀",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20250520_90/1747732718580xB1tF_JPEG/KakaoTalk_20250520_181258163.jpg"
+      },
+      {
+        "name": "공기밥",
+        "price": "1000",
+        "image": "https://ldb-phinf.pstatic.net/20211206_56/16387764485672chRI_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png"
+      },
+      {
+        "name": "경주법주",
+        "price": "5000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_68/1686298440990fFF2X_JPEG/KakaoTalk_20230609_171217974_03.jpg"
+      },
+      {
+        "name": "참이슬",
+        "price": "5000",
+        "image": "https://ldb-phinf.pstatic.net/20230609_87/1686298391192blr0k_JPEG/KakaoTalk_20230609_171217974_05.jpg"
+      }
+    ],
+    "microReview": "푸짐한 해물파전과 찰떡궁합",
+    "conveniences": [
+      "단체 이용 가능",
+      "예약",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "포장",
+      "대기공간",
+      "유아의자"
+    ],
+    "roadGuide": "황리단길 특성상 식당 주차장이 없어요.\n황리단길 메인도로 올리브영 사거리에서 골목 일방통행방면으로 2분 걸어오시면 타로거리로 직진들어오시면 포석로 소갈비찜 있습니다.\n언제든 전화주시면 친절히 설명 드리겠습니다.\n-무료주차장 : 서라벌문화회관, 황남동주민자치센터,경상북도 교육청 발명체험 교육관(평일 17시 이후 무료, 월요일 법정공휴일 상시주차가능)\n대릉원 돌담길, 가게주변 도로등\n-유료주차장 : 대릉원공영주차장, 봉황대공영주차장, 황남공영주차장, 그외 황리단길 사설주차장 등 황리단길 내 5분거리 입니다.",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "경주 황리단길 맛집 포석로 소갈비찜",
+        "url": "https://m.blog.naver.com/me-new/224261740366",
+        "name": "MeNew"
+      },
+      {
+        "title": "경주 황리단길 한식 맛집 포석로 소갈비찜 내돈내산 추천 후기",
+        "url": "https://m.blog.naver.com/sujin0708/224182601383",
+        "name": "지인's 여행이야기"
+      },
+      {
+        "title": "\"포석로 소갈비찜\"",
+        "url": "https://m.cafe.naver.com/bigm/437985?query=%5B%EC%9A%B8%EC%82%B0%5D%20%EB%A7%9B%EC%A7%91%EB%A9%8B%EC%A7%91",
+        "name": "[울산] 맛집멋집"
+      }
+    ],
+    "reviewTotal": 14267,
+    "imageReviewCount": 10170,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "음식량",
+      "서비스",
+      "분위기"
+    ],
+    "visitorReviews": [
+      {
+        "body": "아침에조식을너무많이먹어서저녁에뭘먹을까고민하다아이랑같이먹으면좋을갈비집이보여바로들어와서냉모밀하고갈비탕주문해서먹었어요\n냉모밀시원하고맛있어요갈비탕도아이도좋아하고따뜻하고맛있어서좋았어요다음에경주에또오게되면재방문하고싶네요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTVfMjgz/MDAxNzgxNTExNzM0OTk3.SSMQMmmVL5LXDJfqbh5_aufdwGKrXjprRmrLefFh96sg.foYOxUKJtfRDSwo3s-1ulzdezVMAB6Mk-i5epHTIQQgg.JPEG/47335932-8211-4066-A1ED-4CD03F5810C3.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTVfMjU5/MDAxNzgxNTExNzM1NTMx.8sRMQjjJcyrsBikrek9JWFGrElaeAkdsVBb-uyt-vr4g.xpz8EQpFoug6X0vsxX7v7fxUIbqHD0Gmz7DlKtnm4XYg.JPEG/DC7BF705-E521-4435-9357-F8A9A84F7554.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTVfMjY3/MDAxNzgxNTExNzM0Mzky.nfLG81g1jZ_sQky9CYPrQMLmrU9jae1WTOA3uNLAVyYg.OGHOBdCMqRDPh7dtALTmRcz_1SiErRqUq34-xjISrzAg.JPEG/9F249580-29AF-4F90-84CA-76A911D70BA6.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "31385"
+      },
+      {
+        "body": "⭐️⭐️⭐️⭐️⭐️\n갈비찜이 정말 맛있었어요! 고기도 부드럽고 양념이 너무 짜지도 달지도 않아서 딱 좋았어요. 당면이랑 버섯, 떡까지 푸짐하게 들어 있어서 끝까지 맛있게 먹었습니다. 오랜만에 정말 만족스러운 한 끼였어요. 다음에 또 방문하고 싶어요! 😊",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMzcg/MDAxNzgxMzE4NTA0MDE4.0ZMG5ZiAxfJ-yPncApqxwneB3E9shSlCibcyT7Fsznog.3MwWIzlWlgmmC031-e36-zzs0JW-N9TFTh1kqtNRW3cg.JPEG/6F64E5D9-EA81-4124-AD72-C0FBEC828A02.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMSAg/MDAxNzgxMzE4NTA0NTc1.v4YQ8v0-D21buswwnKncVvW9NtEH2RPhZVSTQ-6kGQAg.xN8lza_V1ze64Dl_sIKyZWeoGtQ_QXoDmmASa16SJMcg.JPEG/AA433332-D5E4-47CF-9660-6A7BF6F4C856.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfNTIg/MDAxNzgxMzE4NTAzNjAz.tdnNlTvpmAxj35GuMwTcBb2grWjhaBADN6AcUKTxKewg.WRB1j_Y9_BsSW-hexXuWAfYQ_JuSUempP3C70KthsIkg.JPEG/CE1880EB-F2D8-4F15-AE9D-69853B3F160E.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "lai****"
+      },
+      {
+        "body": "경주 첨성대 왔다가 근처 맛집 검색하여 들어왔습니다\n매장이 깔끔하고 예뻐요\n갈비찜과 냉모밀 시켰는데 9살 아이와 부부 모두 맛있게 먹었습니다 갈비는 질기거나 하지 않고 간이 진하지 않고 맛있어요 모밀은 깔끔하고 시원해요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjIw/MDAxNzgxMTQ3MjY3MDcw.fyxHXfuev8hj_cNryzNXotGRxL-DOH27RWIo0PBhcUcg.W-fGpgHjroq6TKtZ8W9ciTjX72MDvulV4KgJtYpVGr4g.JPEG/FEE229FA-FB4E-45BC-B07C-CA0F3D1C40E3.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMzAg/MDAxNzgxMTQ3MjY3MTEw.mJnKoBortQjJIY8668_5Xw_vS1VWlaqrRhiiWfJHF44g.T1p5un8ujuIT51eaKa_dRhKjleBQVV_fgTNtAqycIjYg.JPEG/9F101172-89E5-48CC-A756-46A528F29755.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "ki****"
+      },
+      {
+        "body": "갈비찜이 먹고 싶을때는 포석로로 오시면 될 것 같습니다!! 고기도 너무 부드럽고 양 많으며 전은 해산물의 비린내 없이 너무 맛있게 먹었습니다!! 고기를 구워먹는것도 좋지만 찜도 너무 맛있네요!! 강추합니다!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDFfMjQz/MDAxNzgwMzExMDE2MTA3.nE5_kfuNHF3uZ2tLx_JZbGcbvzXGQ4Kk4savoKSuHoYg.1foJBVV1kWlKpiOaqd5qhvR7BCMyFjado8m63POTIQwg.JPEG/F0878A8E-9563-43E2-AEDD-F0A464B5493B.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDFfMTgw/MDAxNzgwMzExMDE2ODg4.QXFCUEhBO_rlHsKgcW8Jjg0lyhGVqE8txei28vm5ogsg.UFX_zoMbQXX3ovocowO7XCuAbQwDmtMH5YwyQzS6XFEg.JPEG/A80AB75A-B8DC-4BE5-8AFF-64C47E268900.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDFfMjAg/MDAxNzgwMzExMDE3MzQx.RUKe6LNAmng-TwjSoGV9mvkoAx5OER6tHbsG4pnFzOYg.rEB_sNSxUdKu0_q3d1eWR3CNaOZ8gWgFvJlpvHaJS3wg.JPEG/FBE1731F-DF82-40D7-AA52-3960D95DB5B2.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "sum****"
+      },
+      {
+        "body": "두 번째 방문이에요 전보다는 오래 기다리지 않았고 기다리더라도 대기장소가 있어서 좋아요 생각보다 대기도 금방금방 빠지고 주변에 구경거리가 있어서 좋습니다! 갈비찜 안에 중당도 있고 양념도 진해서 맛있어용 그리구 김치 맛집이네용",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfMTYg/MDAxNzc5NTI4MzgyMDM1.qMXsOsXMeC30Gw7t0Peqq1FAMNaNvLtj5Qhjv-SCr-4g.lr9akMBeaUZ6zBorVngTNd-mamsoHNcLj1J9v29OOmgg.JPEG/CA9A824E-1A30-4514-9844-CB1208E756AB.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfMjk0/MDAxNzc5NTI4MzgyMjAz.FHrvnmcJJIMveK8VrS2GMNU9YESYOKmP-e3NvAoZZ7gg.Ksvtuxm0G-fqUEnh96y3cuDfOGr9_-DanIs6pXx9TRQg.JPEG/184BC202-C210-4F0F-BC5F-745D9E621D9C.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjNfMjM1/MDAxNzc5NTI4MzgyMDY4.9JZdiiGZ_EwXCTHsST3mJ4LZKzKo5VO_-ETzFyD6-b4g.fLbt7nKKIIAhcUYFntben_jJdELVOWq20XQducXdoxog.JPEG/06441F74-5214-495A-BB92-E466297447CE.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "이맛에사는거지"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1726052789",
+    "name": "수경사",
+    "address": "경북 경주시 사정로57번길 25",
+    "roadAddress": "경북 경주시 사정로57번길 25 수경사",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.8385293,
+    "lng": 129.2090355,
+    "category": "한식",
+    "mcid": "DINING",
+    "naverCategory": "한식",
+    "phone": "",
+    "virtualPhone": "0507-1489-0996",
+    "hours": "20:00에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260604_51/1780567392433OCG6L_JPEG/%BC%F6%B0%E6%BB%E7_%B9%B0%C8%B8%BB%E7%C1%F8.jpg",
+      "https://ldb-phinf.pstatic.net/20260608_102/17809009662871Geaz_JPEG/apec_%C7%F9%B7%C2%BE%F7%BC%D2.jpg",
+      "https://ldb-phinf.pstatic.net/20230701_91/1688222006026UQt2J_JPEG/Screenshot_20230701_232813.jpg",
+      "https://ldb-phinf.pstatic.net/20260604_241/1780567406689EMhvo_JPEG/%C5%BA%BB%EA%B8%B7%B0%C9%B8%AE_%28%C5%E6%C5%EB%C0%CF%29_.jpg",
+      "https://ldb-phinf.pstatic.net/20260530_150/1780117582470Ct058_JPEG/%BD%BA%C5%A9%B8%B0%BC%A6_2026-05-30_%BF%C0%C8%C4_2.06.08.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjUz%2FMDAxNzgwMjE0NTk0NTU5.BOUM5dStYe7MG9hqPZusYq45q4d3zsnmKXAkUOLpwXgg.oP9Pwxj8DLUhSWYRgn-6eJyFpVfXLOHdpPV4Q0T1YLsg.JPEG%2FKakaoTalk_20260531_160022585_09.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMTQ2%2FMDAxNzgwMjE0ODg5NTk2.7nVSpKcIgcOMMpX24eiSTevaR3Q2C3WM7pBRZ-RcTbkg.rXKSl02-GbS3sPBQ_oqVCgcPF7sS9Q1MylGQwaCBNTgg.JPEG%2FKakaoTalk_20260531_160611472.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfNTcg%2FMDAxNzgwMjE1MTE0NDM1.rWKlWXI3wkiSoEy0VAXHrNuVueUquYFImyQ-dtxt2Skg.8MExgy9_QXe9bXMQy6UQvevW5SScTNZtTSEJUwefRWEg.JPEG%2FKakaoTalk_20260531_160311156.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjkz%2FMDAxNzgwMjE1MjYxNTc4.JTSXS2P7FB0-CdziOagOoQc0dffOR8Pofum4ReQVcTQg.1DOrE7QOJcbFwbmAO6CCUofCF5Bu7be6ugd6fHtFzVEg.JPEG%2FKakaoTalk_20260531_160022585_03.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjYx%2FMDAxNzgwMjE1MjMyMTky.9WOKvvpalUMCLqixPcf6Z8ODvIy6I_RvjJolDf5-VkAg.KsKXpR6IYFjX3lMETqapaIboBUHr2PGbUrh2QRex0kEg.JPEG%2FKakaoTalk_20260531_160022585_18.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjIy%2FMDAxNzgwMjE2NTc2Nzgw.5vE9yqk9XTrKN9WICUnJEECDMBn5iZjbijoVby8lR-4g.VgvbZ4Hp6duOZUKhy8wlU_P97tl3-MKXQP0jt7g7XPwg.JPEG%2FKakaoTalk_20260531_160022585_19.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfNDIg%2FMDAxNzgwMjE1NDIyMzYy.4nnUdJze6mhHAT1rotQ00iOnO5X5AMBtOXDAKryGcvAg.CVqoEaOnzl88mgX_V_KyhjGtpH7hXHaSZhPMD2xxh-8g.JPEG%2FKakaoTalk_20260531_160022585.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfODcg%2FMDAxNzgwMjE1OTc0OTIy.FY6CVBOorMNJFWnoOdHBDYT2qeXTwlBvMKq-0N0MxlYg._4TjDZTgRFsdjK4P1ofgdvXcIfQh5HhAkdvrkVytLfcg.JPEG%2FKakaoTalk_20260531_160022585_06.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjk1%2FMDAxNzgwMjE1OTc2NzAx.oPqqEAUw_ZCokw6E3q0_oRTGz7t50w9Kl13erg4FlhAg.gA_5JpDX9C_-P3TuSwY6WkjhqTZQ3dV4FYvTZh6OxTQg.JPEG%2FKakaoTalk_20260531_160022585_05.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMTk3%2FMDAxNzgwMjE1OTkzMzk3.7sjLFXwL6Sf47CQgEQO7TuvD5KaTCiBoIK6nCY2Tiycg.Pu_kyJL_mPfajaGskyMzj0sxOrZa-qTSET_pWLDpDfcg.JPEG%2FKakaoTalk_20260531_160022585_15.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260604_51/1780567392433OCG6L_JPEG/%BC%F6%B0%E6%BB%E7_%B9%B0%C8%B8%BB%E7%C1%F8.jpg",
+    "reviews": "방문자 리뷰 1,508",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1726052789",
+    "instagramUrl": "https://www.instagram.com/sugyeonsa_official",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "시원새콤 냉칼국수",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20260307_96/1772867024222pfuGx_JPEG/20240529_140214.jpg"
+      },
+      {
+        "name": "바삭연근튀김 통들깨면",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20230421_3/1682055479259506jr_JPEG/KakaoTalk_20230421_132918275_02.jpg"
+      },
+      {
+        "name": "대릉원 치즈튀김",
+        "price": "12000",
+        "image": "https://ldb-phinf.pstatic.net/20230421_262/1682055471038jXGLk_JPEG/KakaoTalk_20230421_132918275.jpg"
+      },
+      {
+        "name": "경주 소불고기와 연잎밥",
+        "price": "19000",
+        "image": "https://ldb-phinf.pstatic.net/20230421_112/1682055488893O0W7y_JPEG/KakaoTalk_20230421_132918275_01.jpg"
+      }
+    ],
+    "microReview": "",
+    "conveniences": [
+      "무선 인터넷"
+    ],
+    "roadGuide": "수경사, 경주의 미식.\n\n[주차안내]\n주차는 근처 공영주차장 혹은 골목주차 등을 이용바랍니다.\n서라벌 문화회관이나 '조르바'카페 옆 주차장이 가장 가깝습니다.",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "룸",
+        "description": "최소 2명 ~ 최대 12명"
+      },
+      {
+        "name": "테라스",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "[경주 황리단길] 차분한 분위기의 한식 맛집 &#39;수경사&#39;",
+        "url": "https://m.blog.naver.com/tunasushi_/224301796982",
+        "name": "참초의 느긋한 일상"
+      },
+      {
+        "title": "경주 수경사 추천해요",
+        "url": "https://m.cafe.naver.com/directwedding/5928603?query=%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84",
+        "name": "다이렉트 결혼준비"
+      },
+      {
+        "title": "경주 수경사 황리단길 맛집 한정식 데이트하기 좋은 곳",
+        "url": "https://m.blog.naver.com/hong_jm4558/224314914905",
+        "name": "여먹쭈의 힐링라이프"
+      }
+    ],
+    "reviewTotal": 1508,
+    "imageReviewCount": 1147,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "황리단길 핫플 '수경사'에 다녀왔는데, 마당의 잔잔한 물과 예쁜 돌다리 포토존부터 시선을 사로잡았어요! 고즈넉한 한옥 외관과 현대적인 인테리어가 조화를 이뤄 차분하고 아늑한 분위기였습니다.\n​음식은 전체적으로 정갈하고 자극적이지 않아 재료 본연의 맛을 깔끔하게 즐길 수 있었는데요. 은은한 향의 촉촉한 연잎밥에 부드러운 불고기 조합도 좋았고, 진하고 고소함이",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTQ0/MDAxNzgxNDE2NDQ0NTky.s14yRzdWWpJ9LUergA_JhjXQSIV41DN1GfnQ5uP-EHkg.vlho9B9_7HdQ2fLU2iLeBtZKegsKdJMtTy2O2C__Yl8g.JPEG/20260614_144306.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfNDIg/MDAxNzgxNDE2NDQ0MzY0.liQ4d39YSpN0EzCdHlR5prmefd8GZUIrkdB_0YgPtMEg.rUt2Xxzt6TqdH2Rbb9Mn6M_Ksw38A9GJfjTmErZMDlIg.JPEG/20260614_144143.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfOTgg/MDAxNzgxNDE2NDQ0NDcx.wo8NoZfDrbhWIfFhn3O1X6gAzHS86dK4kXzjMat0O10g.0deHJ7Pw3NzaLu4cuQ3dVrVeCP9eIYH90tVEdNvAgn8g.JPEG/20260614_144057.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "리코타샐러드"
+      },
+      {
+        "body": "경주에 와서   다른목적지를 찾다가 우연히 건물이 이뻐서 메뉴를 봤더니 , 코리안 레스토랑이고 특별한 메뉴가 있는것 같아서 바로 들어왔더니  기다리지 않고 식사를 할 수 있었습니다.  건물 외벽에  음식 포스터 사진이 있어서 조금더  눈길을 끌었던것 같아요.  \n 음식도 빠삭하니 맛있고  한우육회와 면이 먹고싶다면 강추합니다   연잎밥도 너무 맛있고 ,  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTIw/MDAxNzgwOTA3NTIzNzcw.dsFYeekOrnEeQbMdl_qZ4ZSPg84_Bd9xc05idhZ_Zxog.EYg0gg-CNDKgA1m3B9gWVw_WwhsrSq757qlds4hH_1gg.JPEG/C90C19FA-BD25-4A5C-BF0A-F89F9854155B.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTUy/MDAxNzgwOTA3NTI0MjEw.l2ZihQZueFTeSkPZHItymma053BVQQ9BjDReHxzenMwg.1lSmZa_tS7BztIW3DJb03IR-B8laJ2-t-I1JoMewtpog.JPEG/2495AE6F-E13D-4BFE-953E-E5CBBE7FBC49.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTUx/MDAxNzgwOTA3NTI0Nzg1.QSsBAbrKR92NdOKv3jelkpnTVqxe_gG9QtsSk5hxpUAg.Mt7dgU2WRUrI0a8QxHv-FeYYqaqONCtyKyhxtDbvDTsg.JPEG/C477EE07-4531-4DCF-9DFC-4002F0DD5652.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "채채0306"
+      },
+      {
+        "body": "경주 여행 중 방문한 수향사.\n\n대표 메뉴인 육회 냉칼국수와 연잎밥을 주문했는데, 보기 좋은 음식이 맛도 좋다는 말을 실감했다. 육회 냉칼국수는 새콤달콤한 국물에 신선한 육회와 아삭한 무채, 향긋한 미나리가 어우러져 더운 날씨에 특히 잘 어울렸다. 칼국수 면도 쫄깃해 끝까지 맛있게 먹을 수 있었다.\n\n연잎밥은 은은한 연잎 향이 밥에 배어 있어 건강한 느낌이",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfNjQg/MDAxNzgxMzMxODQzNzQz.1UX_HMp6Aznmuur7lBdDJ4B-O59fY9Mnh0zg-sg2H4kg.TJQfr8yzLPYO-scTU3CFFd6OnQQIH9c8PUMx1L8zKOIg.JPEG/3262CBA1-83E1-4D28-9295-7FED94B2F19F.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMTE5/MDAxNzgxMzMxODQxOTY5.io1wdnlUNuRge_-VyK171wXHYe--CiHobJxEU9CkVYUg.0dTnheYsD7XYMt64cOkaUuBDsHFEucfovlcNgCZgs4Ag.JPEG/205B4627-86B7-493A-A40A-8DD4E846EEBB.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "소소한8648"
+      },
+      {
+        "body": "여행일정중 일요일 오전 11시경에 오니 줄안서고 들어왔는데 저희 뒤로 줄줄이 둘어와서 금방 자리가 다 찼어요~매장앞 인테리어가 멋져서 반했는데 메뉴도 부담적은 건강밥상이라 맘에 들었답니다^^\n저희는 셋이와서 2인 면면 한상세트+냉칼국수 추가했고 \n2인 면면 한상세트는 메뉴들을 대부분 맛볼수 있는 구성이라 좋았답니다.\n제 기준 제일 맛이 좋았던건 바삭연근튀김",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjM2/MDAxNzgxNDA1ODE4MTEz.sX-xYhFnvef4ulciZ2rD50ZFmxXY_InPxcQ63Pe73HIg.jFCjbY4TEAftpRiWKhnnVFxtU7pXer9UNkJt4YzAAjkg.JPEG/20260614_115141.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjYw/MDAxNzgxNDA1ODE4MjA5.giq_eu4XXC4CedA1Z-Pge0vTHIdSJ7okhtprM9hcINUg.BENrAWP60Xlb8Bf0zpOWMekBwgf_NNOzBhSm0qz6fOQg.JPEG/20260614_115101.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfNDQg/MDAxNzgxNDA1ODE3ODQy.OMPLWYsE2Kx0KFLqbZWGfsqGd3bx8MdWmriXZvubpsgg.F9Fg47RhlqbGyu6ixdkHieyfPxBwpqrV06HYU4Azjtsg.JPEG/20260614_115056.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "em3785"
+      },
+      {
+        "body": "부모님과 아이와 경주여행에 들린 맛집이예요!\n종류별로 다양하게 먹고싶어서 통들깨면 한상 세트와 냉칼국수 한상 세트를 시켜봤는데 가장 먼저 대릉원 치즈 튀김이 나왔어요. 튀김속에 치즈가 정말 한 가득 들어있고 치즈소스가 킥이었어요!! 느끼하지 않게 먹을수 있어서 부모님도 만족하셨답니다. \n들깨면과 냉칼국수는 더운 여름에 시원하게 먹기 좋았어요. 그리고 가장 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTc5/MDAxNzgxNzU1OTI4Mjcy.GQJkgkRAChvud_guWVNBfg8pItLID2qCjKL1hsiEd9Yg.y7ru6FcdiDNsFygK7Ns-pqBnnLnyaUdTZMYnra5Oygkg.JPEG/6945.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMzkg/MDAxNzgxNzU1OTI4MzUx.ioj3_mTDxBk1K9eh3DbaWbJ3k9zGDnJuqig8FgTKj2og.uv_kYmu6Jr_9yfZMdMw4j0r_mtDKxwTc7zyNTABwqT4g.JPEG/6944.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMjAy/MDAxNzgxNzU1OTI4MjYy.sugyZ1gpwtBSEsRpgrlzV3RY9-l3U7XOdNeZgCmDg_8g.GGh59uevpOsLZDAQp25WFljM1IY53oRrbfu3lUDXNHwg.JPEG/6946.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "르뿌르미"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1649177172",
+    "name": "우마왕 컵물회 본점",
+    "address": "경북 경주시 포석로 1046",
+    "roadAddress": "경북 경주시 포석로 1046 1층 우마왕 컵물회 황리단길본점",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.83427,
+    "lng": 129.20957,
+    "category": "베이커리",
+    "mcid": "CAFE",
+    "naverCategory": "베이커리",
+    "phone": "",
+    "virtualPhone": "0507-1386-7188",
+    "hours": "20:00에 영업 종료",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260321_247/1774072981752Vmt25_JPEG/1000056213.jpg",
+      "https://ldb-phinf.pstatic.net/20240605_248/1717594993527EKjP6_JPEG/1000010053.jpg",
+      "https://ldb-phinf.pstatic.net/20250525_58/17481255561368ibA9_PNG/1000021816.png",
+      "https://ldb-phinf.pstatic.net/20240103_155/1704278146484IVfuS_JPEG/1000005448.jpg",
+      "https://ldb-phinf.pstatic.net/20240604_190/17174653492487P68G_JPEG/1000010029.jpg",
+      "https://ldb-phinf.pstatic.net/20231230_104/1703903078572NHSl3_JPEG/1000007574.jpg",
+      "https://ldb-phinf.pstatic.net/20230625_100/1687692812338F3kgt_JPEG/KakaoTalk_20230625_162704982_04.jpg",
+      "https://ldb-phinf.pstatic.net/20230625_290/1687692805141UBvg1_JPEG/KakaoTalk_20230612_184414664_12.jpg",
+      "https://ldb-phinf.pstatic.net/20231230_84/17039031071812TQ4T_JPEG/1000007577.jpg",
+      "https://ldb-phinf.pstatic.net/20230719_108/1689748850364oF6DV_JPEG/20230630_135219.jpg",
+      "https://ldb-phinf.pstatic.net/20230627_240/1687866669983ciI9V_JPEG/1682201550346.jpg",
+      "https://ldb-phinf.pstatic.net/20241103_36/1730632272704xEjfD_JPEG/1000012295.jpg",
+      "https://ldb-phinf.pstatic.net/20230627_114/1687866865169iQt3z_JPEG/IMG_20230610_001033_975.jpg",
+      "https://ldb-phinf.pstatic.net/20230627_275/1687867351257bqv4t_JPEG/IMG_20230624_222444_036.jpg",
+      "https://ldb-phinf.pstatic.net/20230719_207/1689748924629X8Sy1_JPEG/20230630_121247.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260321_247/1774072981752Vmt25_JPEG/1000056213.jpg",
+    "reviews": "방문자 리뷰 1,736",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1649177172",
+    "instagramUrl": "https://www.instagram.com/wmw_story",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "한우컵물회+한우 육회케밥",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20250428_173/1745836994468U1YiC_PNG/1000021815.png"
+      },
+      {
+        "name": "한우 육회케밥",
+        "price": "9000",
+        "image": "https://ldb-phinf.pstatic.net/20250428_289/1745836624814fhQHX_JPEG/1000021502.jpg"
+      },
+      {
+        "name": "특허출원 우마왕 한우샌드 1box",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20241104_123/1730677757986TkAN8_JPEG/1000006670.jpg"
+      },
+      {
+        "name": "한우육포1box(3봉)",
+        "price": "28000",
+        "image": "https://ldb-phinf.pstatic.net/20241103_32/17306321208400FYm1_JPEG/1000012288.jpg"
+      },
+      {
+        "name": "한우샌드(1box)+육포(1박스)",
+        "price": "45000",
+        "image": "https://ldb-phinf.pstatic.net/20241103_262/1730632286493xPoYK_JPEG/1000012293.jpg"
+      },
+      {
+        "name": "한우컵물회",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20230817_178/1692246210072WKSON_JPEG/11__%A8%E1.jpg"
+      },
+      {
+        "name": "한우컵물회+한우샌드1ea",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20240622_143/1719019563421edA9C_JPEG/1000010195.jpg"
+      },
+      {
+        "name": "한우샌드 1박스(4ea)",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20231230_205/1703903408441r45V5_JPEG/1000007582.jpg"
+      },
+      {
+        "name": "한우육포1봉",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20230719_250/16897489231323HLx4_JPEG/20230630_121319.jpg"
+      },
+      {
+        "name": "물회육수 4팩",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20240604_118/1717465920268y75Fz_JPEG/1000010031.jpg"
+      }
+    ],
+    "microReview": "특허받은 한우샌드로 즐기는 색다른 맛",
+    "conveniences": [
+      "포장"
+    ],
+    "roadGuide": "[도보 이용 시]\n황리단길 생활문화센터 도보로 2분\n경상북도교육청 발명체험교육관 도보로 3분\n황남동 주민자치센터 도보로 3분\n황남 파출소 도보로 2분\n경주 공업고등학교 도보로 6분\n경주 천마총 도보로 6분\n\n[자차 이용 시]\n네비게이션에 우마왕 한우샌드 황리단길 본점 검색 또는\n황남동 324-2를 검색하시면\n황리단길맛집 우마왕 컵물회 본점을\n만나보실 수 있습니다.\n\n[대중교통 이용 시]\n고속버스.시회버스터미널 60, 61번 승차 후\n황남사거리에서 하차\n도보 204m 3분 이동하시면\n황리단길맛집 우마왕 한우샌드 황리단길 본점을\n만나보실 수 있습니다.",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "경주 황리단길 먹거리 추천 우마왕 한우 컵물회",
+        "url": "https://m.blog.naver.com/fromky127/224213815504",
+        "name": "기록은 추억이 된다"
+      },
+      {
+        "title": "경주 황리단길 간식 컵육회 물회는 우마왕집",
+        "url": "https://m.blog.naver.com/kko_mmi/224259882120",
+        "name": "kkommi diary"
+      },
+      {
+        "title": "경주 여행 기념품 추천 황리단길 우마왕 한우샌드",
+        "url": "https://m.cafe.naver.com/marverlove/272560?query=%EB%A7%88%EB%A7%88%EC%9B%A8%EB%94%A9%EB%8B%AC%EC%BD%A4%ED%95%9C%EA%B2%B0%ED%98%BC(%EC%9D%BC%EC%83%81.%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84.%EB%B6%80%EB%B6%80%EC%82%B4%EB%A6%BC.%EC%97%AC%ED%96%89.%EB%B7%B0%ED%8B%B0)",
+        "name": "마마웨딩달콤한결혼(일상.결혼준비.부부살림.여행.뷰티)"
+      }
+    ],
+    "reviewTotal": 1736,
+    "imageReviewCount": 1181,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "목적",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "경주 우마왕 컵물회 다녀왔어요.\n쯔양 방문한 곳이라 믿고 먹어봤는데, 기대 이상으로 맛있어서 만족했어요. 컵에 담겨 나와서 간편하게 먹기 좋고, 회도 신선해서 비린 맛 없이 깔끔했어요. 육수는 새콤달콤하면서 시원해서 더운 날씨에 먹기 딱이었고, 양념이 과하지 않아 끝까지 부담 없이 먹을 수 있었어요. 황리단길 돌아다니면서 한 손에 들고 먹기 좋은 메뉴라 여",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMjBfMjM1/MDAxNzY2MjE1OTM5MTI2._QxamZ0ooNWFig6iHItFu92rXEtLC-58pLL5-uTP60Qg.J1RHNIqrUdj2aIyxdtb31dI2L2eWhlrjUE5wG8rjS8Ug.JPEG/20251213_121937.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMjBfMjM0/MDAxNzY2MjE1OTI4MzY2.KEsYlCZvnymx3buwvu8WwF_NJMJyA-AmBNaAQ8hu1X0g.kwOEC-CtF9DnHj9yztmBAdo5wf25tkCrIH0VHuVhPIYg.JPEG/video_thumbnail.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMjBfNTAg/MDAxNzY2MjE1OTM3NDg1.W0kbzaxueAH0d8xxprMfQ6kSxDel_F8xLwKf92S-wewg.Rkj0pzw0JM_Y4I7v9k68L8797gWcU86oVgy8ZBpzahIg.JPEG/20251213_122251.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "hey80"
+      },
+      {
+        "body": "컵물회 생각보다 맛있었어요!\n근데 소면은 일반 생각하는 소면이 아니였어요!\n소면 없이 그냥 다 먹을껄 후회 했어요ㅜㅜ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjhfMjI4/MDAxNzcyMjA3NTEyNzU5.rPUjNAWj0--p9QnD2pr8I4LDuFIuTHq3kG0EN7VnWgYg.fZ5wblCTyQRtaKo8roZK6zHb7CaeWCd7809G-9Ul4rgg.JPEG/1000057178.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjhfMjg4/MDAxNzcyMjA3NTEyODMy.xnfMUEOBBI0B9a5ySA640JcBUYRIZXWG_QPHyI2Dj7Mg.itod_qzOdxVvLG46tSSMVWYxJHnresQMo4bvzDxnN6Yg.JPEG/1000057177.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjhfMTU1/MDAxNzcyMjA3NTEyODA4.EczXdmreCDCUfS3jRI-j00EoBbSVUxzLzCNa7aY7aEAg.Q2es10PAAHUMg8se9wmTMr-AHdLK9tTrtxaitC0eJvog.JPEG/1000057176.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "sks****"
+      },
+      {
+        "body": "경주 잠깐 나들이 하면서~황리단길 걷다가 미우새에서 본거 같아,호감이 생기고 어떤  맛일지 궁금해서 맛만 보려고 컵 물회 하나 사서 나왔어요.육회를 좋아 하는데 여행지를 걸으면서 한젓가락씩 먹는 기분  재미 있었어요.막 소나기가 쏟아 지려는지 엄청 습하고 더워서 슬슬 짜증 나려던 찰나에 시원한 얼음 슬라이스 육회 국물이 들어 가니 급 웃음이 나왔어요.시원 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjMy/MDAxNzU4OTI5Mzg1NzI3.c5aDCAt30W2ZJBgW8-lW1LjGmWk7VjAd2ku4czsKyAYg.dbos8yqVEl17JbmzHfcEdIU63tpkAmikitS7E8EBdgYg.JPEG/20250924_164239.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTMz/MDAxNzU4OTI5Mzg1NjU5.MWlYpkOl5IzK8qBROm1JGDRRMvyWXsMyOcRoOZjBICIg.n3ZJKYuJjD--PSuP2GF8iDIF_lagplrULHW8Ey_mFUgg.JPEG/video_thumbnail.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjQw/MDAxNzU4OTI5Mzg1ODE5.LgzK7fwF0w6QLgeGdQZ96AFHju8jNCmGymcZ4T-YvYEg.0oy5aMRW-adILodEArVLbPjVzmxexyenFsxWDutojqQg.JPEG/20250924_164316.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "초록이의꿈"
+      },
+      {
+        "body": "육회 좋아하는 아이의 픽이였어요 \n육수가 맛있어요 \n가성비 좋아요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjdfMTI1/MDAxNzcyMjAyNjk4ODI4.KRL0mPs9KM58JhMPPclpWxZzTcnAHRxCa8mDGcAh0JYg.3sK6LF8f92PQLrX6kjzST175jgODD7eNrIP50owufX8g.JPEG/A55AEB97-9BF9-452F-B2BA-2D7A20786648.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "뚝딱마녀85"
+      },
+      {
+        "body": "경주 몇번 오면서 이번에 처음 먹어봤는데\n간단히 맛보기 딱 좋았어요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMDlfNiAg/MDAxNzcwNjMxMDM5MTE1.FIHjPlrC0kNvSaTlvDjXgKIHBO1y3UONuPw3i8GyNuUg.azz015SQMU9F3TNODx8Cj0hFW2lPTAoRNfH4MWAdInwg.JPEG/20260120_130524.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "9ri5H"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "15212954",
+    "name": "현대밀면",
+    "address": "경북 경주시 화랑로 61",
+    "roadAddress": "경북 경주시 화랑로 61 현대밀면",
+    "region": "경북",
+    "district": "경주시",
+    "subRegion": "경주시",
+    "lat": 35.84483,
+    "lng": 129.20752,
+    "category": "음식점",
+    "mcid": "DINING",
+    "naverCategory": "냉면",
+    "phone": "",
+    "virtualPhone": "0507-1470-6792",
+    "hours": "19:00에 영업 종료",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260316_226/1773642500269GbAMg_PNG/1000018594.png",
+      "https://ldb-phinf.pstatic.net/20241204_299/1733295423845Wbi7o_JPEG/IMG_0947.jpeg",
+      "https://ldb-phinf.pstatic.net/20251109_10/1762620752773gG5Ey_JPEG/1000012098.jpg",
+      "https://ldb-phinf.pstatic.net/20220228_162/16459816239335TpCF_JPEG/1619942108957.jpg",
+      "https://ldb-phinf.pstatic.net/20220327_54/16483853332897v0Wg_JPEG/175831123_3863812663696833_4755186224912934682_n.jpg",
+      "https://ldb-phinf.pstatic.net/20220327_40/1648385370906rjWmA_JPEG/20210508_132117.jpg",
+      "https://ldb-phinf.pstatic.net/20220327_101/1648382927698lULej_JPEG/20220312_125715.jpg",
+      "https://ldb-phinf.pstatic.net/20241208_21/1733654819180gcORm_JPEG/IMG_7727.jpeg",
+      "https://ldb-phinf.pstatic.net/20220309_127/16467534331516NiPM_JPEG/1646751560984.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjhfODUg%2FMDAxNzc5OTMyNDQ2MTQz.OgDd-0DPy1q_PNlO0wYJlHfNWoVJdvag9lcmMW2pT6Yg.ZFDyBjck7Q9RcDX8XHP5MqcqegVgL8ln1JMrzKFGMbog.PNG%2F%25BB%25A1%25B0%25A3%25BB%25F6_%25B1%25CD%25BF%25A9%25BF%25EE_%25B7%25B9%25C6%25AE%25B7%25CE_%25B8%25C0%25C1%25FD_%25C3%25DF%25C3%25B5_%25C0%25CE%25BD%25BA%25C5%25B8%25B1%25D7%25B7%25A5_%25B0%25D4%25BD%25C3%25B9%25B0_%25A3%25AD_1.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjhfMjM5%2FMDAxNzc5OTMyMDIyNDk5._fvHOII3f-MgiXVhvQjQ-dIEY9a5n4k_e0cqp3sjArkg.oFHOZ3yktabwS5pEC7m91OWSrH34tiWiGknfwC4irBwg.JPEG%2FIMG%25A3%25DF8372.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjhfMTI5%2FMDAxNzc5OTM0NTQ2NTcx.-zMm3STtvKDd12VQvOw3zNIKLjHGNPvzBoRAP05mT60g.NTR-metMus75Kq3WjyTxMp_fIk6HdAygUD6O8K_e_1Qg.JPEG%2FIMG%25A3%25DF8528.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjhfMjQ0%2FMDAxNzc5OTMyMDIxNzEw.nQzTHnBJ_rns4yYJpXbz8hoKDLuuQyvOlFNleSS3B9Eg.FQBejvGFIm4RF8DnMmhu4WOobm-dIYJBjkfHxFLr73sg.JPEG%2FIMG%25A3%25DF8373.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjhfOTYg%2FMDAxNzc5OTMyMDIxODY5.dxwmo_tiN0W37FTFj3QYTDwXWqFiSuiOoyw7axlK7lEg.a97eN7zSQLNQJ-gfe8mTKfhJXzwBWsRknW3KpYV3CCQg.JPEG%2FIMG%25A3%25DF8374.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjhfMTMx%2FMDAxNzc5OTU2NTU1NTg4.1ifyqI0SRJkFXBMasudrMdZ3GtkHDubtO1a2N0CUQxkg.Z9DK6z6-D38ONMpJ84ynMmCOMCt7FpQR3IiswZxOATkg.JPEG%2FIMG%25A3%25DF8375.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260316_226/1773642500269GbAMg_PNG/1000018594.png",
+    "reviews": "방문자 리뷰 2,593",
+    "naverPlaceUrl": "https://m.place.naver.com/place/15212954",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "밀면",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20250228_275/1740671249722h0HDd_PNG/1000011496.png"
+      },
+      {
+        "name": "비빔밀면",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20250228_23/1740671263221vucWK_PNG/1000011497.png"
+      },
+      {
+        "name": "만두",
+        "price": "5000",
+        "image": "https://ldb-phinf.pstatic.net/20250228_176/1740671273904ODDFK_PNG/1000011495.png"
+      },
+      {
+        "name": "사리",
+        "price": "2000",
+        "image": ""
+      },
+      {
+        "name": "밀면곱배기",
+        "price": "9000",
+        "image": ""
+      }
+    ],
+    "microReview": "친절함으로 더 맛있는 밀면 한 그릇",
+    "conveniences": [
+      "단체 이용 가능",
+      "무선 인터넷",
+      "포장",
+      "간편결제",
+      "주차"
+    ],
+    "roadGuide": "황리단길에서 도보시 800m\n단체환영(50석)\n포장 가능",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "경주 밀면 맛집 현대밀면 내돈내산 솔직후기 주차 웨이팅",
+        "url": "https://m.blog.naver.com/eyj3919/224299197601",
+        "name": "꽃물든어부의 맛보고즐기고"
+      },
+      {
+        "title": "당일치기로 가기좋은 경주, 카페 사장은 경주 좋아한다.",
+        "url": "https://m.blog.naver.com/cafe_soram/224264075859",
+        "name": "soram"
+      },
+      {
+        "title": "악마를 찾아서.... (경주 여행 3편)",
+        "url": "https://m.cafe.naver.com/pnuomse/1083?query=%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90%20%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%20%EC%9C%A0%EA%B8%B0%EC%86%8C%EC%9E%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%ED%95%99%EA%B3%BC%20OMSE",
+        "name": "부산대학교 공과대학 유기소재시스템공학과 OMSE"
+      }
+    ],
+    "reviewTotal": 2593,
+    "imageReviewCount": 1396,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "음식량",
+      "서비스",
+      "대기시간"
+    ],
+    "visitorReviews": [
+      {
+        "body": "블루리본이 다다닥 붙어있는 밀면집을 경주에서 만났어요^^\n13개의 블루리본을 단 현대밀면.\n허름한 외관의 가게 입구에는 캐치테이블이 딱.\n점심 저녁시간에는 빈자리가 없다는데 저희는 4시와 5시 사이 한가한 시간에 방문해서 편하게 먹을수 있었어요.\n가게안에 가득 쌓여있던 밀가루들.\n직접 뽑은 면은 일반 밀면보다는 두껍고 부드러워서 먹기에 좋았어요. 쫀뜩한 전",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjY1/MDAxNzgxNDMxMDEzNTg5.dPZZ6KH6gGgL25CEdA_TGxMNx4FWpV63y2n6ZIUu7C8g.yfykFko-ktFM-6r11ZitTC7JBk1DIyc96jQrB56YV04g.JPEG/20260614_170030.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTU5/MDAxNzgxNDMxMDEzMzkx.1a2yCUsjdtkrW0g1sU7ERjPIC7_n6BMc_4-rsFWL7IMg.PTFKW47UTn9KLpnAXZF5bH1N5Ddd_Ma3OzuOXxojpAUg.JPEG/20260614_171534.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjQ5/MDAxNzgxNDMxMDEzNTY1.kc4n3p2oJYNMFF37g5FlB8PaBCactzoZJk58d2YCl10g.Etb5TlLriaLTgAnRAH5SoRl3X5rvUuHDbGwnLfb4AbAg.JPEG/20260614_171504.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "행복이오리"
+      },
+      {
+        "body": "5살아이와 경주여행을 하던도중 밀면 맛집이 있다고 해서 현대밀면에 왔습니다. 밀면이 맛있으면 얼마나 맛있을까 했던 내생각은 와장창..  정말 맛있습니다. 만두와 떡갈비도 있어서 아기가 식사하기도 좋았어요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDFfMjkg/MDAxNzgwMjg4NDI5ODc1.VWBkmaD0nt-r2tWr8jZpEpHqTyaySt5aZc552U8OOMQg.fopNKuFvvrjc4FJaSGbKGIk59ZDjEZyr3zOHbFIC78wg.JPEG/20260601_133335.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDFfMTQz/MDAxNzgwMjg4NDI5OTg4.8I6NuFzj1-GlJZF5obBG45nQBKJVLtDkC8WKEv5pPOAg.0JespMz1gQMBxBFq1no3zkbLvn--MMSNS_R-9K8dluEg.JPEG/20260601_133331.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDFfMzgg/MDAxNzgwMjg4NDI5OTU0.a3pl15UZ5CaolGyfP51D9r31rT5X2n9kLraXmnOka3Ig.-_sR50yvWqLvwXxjmvTOrZDAZ-yto2ltEYaForoY8cYg.JPEG/20260601_133244.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "ㅎ2ㅂ2"
+      },
+      {
+        "body": "경주 여행 갔다가 밀면 맛집이라고해서 방문했는데 육수랑 양념이 너무 맛있어서 흡입했네요. 만두 보다 떡갈비가 더 맛있어요. 다음에도 또먹고 싶네요. 면요리라 대기해도 회전율이 빨라서 좋았습니다👍🏻",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMjA3/MDAxNzgwNzkzMDU5MTgz.01i6EX59qS20qON0n3S59wmyG06sze2zCuSdYM8Ko9gg.lu0mNszc8V5aCTraYE9hgFzJX4FNBtYDXF2Zsu-SgPIg.JPEG/141E068B-4264-4DB9-896B-A0FF9A7ABDD9.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfODIg/MDAxNzgwNzkzMDU5ODc1.rX8qtbTmUtE6XYurqlKc99qvSAj8ESd19_1YysiKCZsg.2-tcxIPgC3Nft9QMgB_zth74pOOin0qvm6Dc_R32_xwg.JPEG/A7202E94-F13A-4ABB-842E-98E9B7E713FC.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMTcz/MDAxNzgwNzkzMDU5NTEz.p3YDLpynxM_B1Duw_9hsG2eBJq2AT_yszO7KnRF8njkg.bOI9SgxzskbUcYIjO6DPa1TgoVU87eg-sC4docjYcnMg.JPEG/BF3A4118-B488-4C2C-8F1E-5CFC21C93779.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "보글보글7568"
+      },
+      {
+        "body": "밀면이 생각보다 빨리 나와서 먹다가 리뷰용 사진을 찍었어요^^;;\n만두는 감자피만두라 쫀득하고 떡갈비가 새로 메뉴에 있길라 시켜봤어요.\n밀면맛집이라 두말할 필요없이 맛있고요 비빔밀면은 땅콩가루가 들어가서 고소함이 2배예요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfOSAg/MDAxNzgwMTExNDI4Mjk3.kLtVv58Wqls3D8B8qeIrySdbEf6NSJYt9wTPkTkbe2cg.SdqjAtLrzsdLn-RoK1uqnCxkze6QoJZPqUO9UaytIPgg.JPEG/20260530_121324.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfNDgg/MDAxNzgwMTExNDI4NTc5.2StYUduIgEAkssMxXUe95eEKkK2-fgt32NAU_ggd2Zsg.xqcorTtpaW931h72_N3QC6UTFjCygNTbw7mJ3tQzvAUg.JPEG/20260530_121659.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfMjgg/MDAxNzgwMTExNDI4NzMx.m8Yzh1StTYhPN8w8RGLXNhqEMEGAyAna9GI-auu4hD8g.4P8EqA_E4nHYvzLTQNKowo5XNN2k_A5Qxa4UqSMTp1og.JPEG/20260530_121956.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "세르시아99"
+      },
+      {
+        "body": "학생때 정말 많이 왔었던 밀면집입니다. 세수도 가능할것 같은 큰 그릇에 가득나오는 밀면 먹어도 먹어도 배고픈 학생때 여름 최고의 메뉴중 하나였습니다. \n\n오랜만에 방문해서 먹었습니다. \n이제는 노포가 된 현대밀면은 어느새 블루리본을 10년넘게 받고 현지인은 물론 관광객에도 사랑받는 매장이 되었습니다. \n\n사이드 메뉴는 만두와 떡갈비가 있어서 아이들과 같이 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfMjkw/MDAxNzgwMTE5NDIxNzQy.temyGn_mSUt0FjdnbGnaldCuHliPi9cYTId7Fk7pkYcg.vbqaMhNj62AxjMoqO60oXxnyxICQVkY21PcDccTx_Qwg.JPEG/5A8F65F8-CA1B-4398-B7A3-B4CEB95591CB.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfMTM4/MDAxNzgwMTE5NDIxNjE2.V39MReGMYayEsW8K8LAFGyg7jZr6ESEFaU3RCQaR2c4g.OfvbPChvhmTpuXXJoypURuvJXkZ7JRzCgEHsy9pZAAEg.JPEG/636CCD95-9CB7-4C5D-BAA9-726DEFFF1585.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfNjIg/MDAxNzgwMTE5NDIwNzU3.5xp_0XzBEsuahlzOTzShCXdAjXYKBHfaGKUXHRsYEe8g.35-VMiS-OqI64wvmehaAq9HO7Br1d_g_VW9O_acb_UIg.JPEG/C9E1ECA7-8136-4985-AD94-7A7873863494.jpeg"
+        ],
+        "author": "경주로컬"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
     "id": "2006363234",
     "name": "줄무늬토마토",
     "address": "부산 부산진구 전포대로 264-1",
@@ -57248,10 +59129,9 @@
     "naverCategory": "양식",
     "phone": "",
     "virtualPhone": "0507-1341-6190",
-    "hours": "06/16 휴무",
+    "hours": "19:30에 라스트오더",
     "images": [
       "https://ldb-phinf.pstatic.net/20260609_79/17809405051180x2kC_JPEG/IMG_4742.jpg",
-      "https://ldb-phinf.pstatic.net/20260609_267/1780934712411DLi4q_JPEG/B6B55FA5-A8A0-4E70-9BB9-52175430CDA2.jpg",
       "https://ldb-phinf.pstatic.net/20260609_252/1780934712539neSx3_JPEG/IMG_5625.jpg",
       "https://ldb-phinf.pstatic.net/20260609_46/1780934712279PaPSu_JPEG/IMG_5616.jpg",
       "https://ldb-phinf.pstatic.net/20260609_218/1780934680124QaTz0_JPEG/IMG_6162.jpg",
@@ -57260,11 +59140,12 @@
       "https://ldb-phinf.pstatic.net/20260609_149/1780934662972rHpHv_JPEG/P1040528.jpg",
       "https://ldb-phinf.pstatic.net/20260609_170/1780934662899hezb1_JPEG/P1040436.jpg",
       "https://ldb-phinf.pstatic.net/20260609_34/1780934662632b1gr9_JPEG/P1040517.jpg",
+      "https://ldb-phinf.pstatic.net/20260609_211/1780934712507k9w7N_JPEG/CIMG1005.jpg",
       "https://ldb-phinf.pstatic.net/20260602_9/178033005918083ffz_JPEG/01FAE069-B7F3-498B-B678-A8DD0B774FA9.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfNDgg%2FMDAxNzgxMzE3MTI1MjU5.zderS3t2ZECSmNB__IcLlwSyDfxiz7tx-j2KzOzDV9Mg.51eajN1YTom2_q8wmJ6fgaUfIMYn_fgHchcMUnNYWtMg.JPEG%2FIMG%25A3%25DF8121.JPG",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMjEy%2FMDAxNzgxMzE3MTI1ODg4.viuIWJ58F30cdklu2qx-8skqlZW4a7Fp6JAWPhrUdSEg.6ojN5LaxrKnUMWh2wGQsWdj_3O9KpeU-Odq1v2NfUAAg.JPEG%2FIMG%25A3%25DF8123.JPG",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfODMg%2FMDAxNzgxMzE3MTI1ODM1.p-9fm6JFwz7pHUYz5urMN3iY2Inmy5WdvyV3s96wAZEg.oq_R6-GOArFpHjq-4nj-OAm9qubcjQi_FhQDsubTHyEg.JPEG%2FIMG%25A3%25DF8122.JPG",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTUg%2FMDAxNzgxMzE3MTI1MzUy.IC3YiGx9tcnM9c68BPHpSuS1TAUUFyKrKFMcQnXenWog.fyyE39jg9mXZKUnvEjARFSstE52BB1nWPUFK_J_d_8Qg.JPEG%2FIMG%25A3%25DF8125.JPG"
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTZfMjgy%2FMDAxNzgxNjEzODY1MDg5.MAdOMDn0U0WoWBMS8N8OPbdjYFxSLhA8HFUIa2XmsKUg.Hz_HhVaoV83X1YDJOYHsWTCzUSiFueAVRUScZlUg40kg.JPEG%2FIMG%25A3%25DF0416.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMjE2%2FMDAxNzgxMzEwMTk3NDA1.tgocAvVN1FmQhvvfFFi5xq3NuP7mBisFDvjap8j7vlIg.bz2GHOYjIoBuWK8z7XoNCkVVMfE3w_BxyUYM8wIBPY8g.JPEG%2FIMG%25A3%25DF0602.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTk3%2FMDAxNzgxMzEwMTk3NDk4.m30RLGWRUDlYY27h_PtSicMXcG6mYkZZWU4g-8fF-b4g.T6BpxEQ1NkNxJf8LK00oCOfDns1besCyZcPzSYKkQ04g.JPEG%2FIMG%25A3%25DF0603.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfNzAg%2FMDAxNzgxMzEwMTk5NTc2.4mRQSFJzHZw3-_gSNDwSf40oY3ULv4aNuF3YwvyBKQ8g.oWNCmnmYqNSMdc7OJkShC6MjEzx-QheGoj5lFI3fcj4g.JPEG%2FIMG%25A3%25DF0604.JPG"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20260609_79/17809405051180x2kC_JPEG/IMG_4742.jpg",
     "reviews": "방문자 리뷰 15",
@@ -57338,19 +59219,19 @@
     "seatInfo": [],
     "blogReviews": [
       {
+        "title": "부산 전포 신상 카페 추천 줄무늬토마토 가오픈 후기",
+        "url": "https://m.blog.naver.com/chaeeun2009/224318057046",
+        "name": "매일 여행하는 사람이 되고픈"
+      },
+      {
         "title": "전포 신상 카페 줄무늬 토마토",
         "url": "https://m.blog.naver.com/miin8648/224316749237",
         "name": "언니야랑 놀자"
       },
       {
-        "title": "전포 줄무늬토마토 신상 느좋 카페 내돈내산 후기",
-        "url": "https://m.blog.naver.com/cwj4382/224314795292",
-        "name": "솜딱지치기"
-      },
-      {
-        "title": "전포신상카페 줄무늬토마토 가오픈 후기｜전포신상카페추천 감성 포토존 전포카페",
-        "url": "https://m.blog.naver.com/on___so/224316970145",
-        "name": "부산 맛집 & 감성 여행의 모든 것"
+        "title": "전포동-줄무늬토마토",
+        "url": "https://m.blog.naver.com/sm110748/224317852002",
+        "name": "숨 아카이브"
       }
     ],
     "reviewTotal": 15,
@@ -57423,7 +59304,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1469-0457",
-    "hours": "11:00에 영업 시작",
+    "hours": "15:30에 브레이크타임",
     "images": [
       "https://ldb-phinf.pstatic.net/20241121_192/17321804723933J470_JPEG/5_%288%29.jpg",
       "https://ldb-phinf.pstatic.net/20241121_244/1732177656760GJVSf_JPEG/DSC_0164.jpg",
@@ -57442,7 +59323,7 @@
       "https://ldb-phinf.pstatic.net/20241121_118/1732179811247Wo6xB_JPEG/1_%284%29.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20241121_192/17321804723933J470_JPEG/5_%288%29.jpg",
-    "reviews": "방문자 리뷰 9,789",
+    "reviews": "방문자 리뷰 9,823",
     "naverPlaceUrl": "https://m.place.naver.com/place/1928053899",
     "instagramUrl": "https://www.instagram.com/___sosoham",
     "blogUrl": "",
@@ -57528,18 +59409,18 @@
         "name": "베리베리의 맛집 탐방"
       },
       {
+        "title": "경주 황리단길 맛집 예약 소소함박 가족식사 좋은 점심",
+        "url": "https://m.blog.naver.com/dudtn138/224291299239",
+        "name": "초탈's 소소한 행복"
+      },
+      {
         "title": "경주 황리단길 맛집 대릉원뷰 한옥 소소함박에서 즐긴 점심 후기",
         "url": "https://m.blog.naver.com/cara1226/224307351097",
         "name": "봄날(Spring day)"
-      },
-      {
-        "title": "경주 황리단길 점심 맛집 늘 가는 밥집 소소함박 포장",
-        "url": "https://m.blog.naver.com/lovely80popo/224307018216",
-        "name": "포포픽"
       }
     ],
-    "reviewTotal": 9789,
-    "imageReviewCount": 7565,
+    "reviewTotal": 9823,
+    "imageReviewCount": 7592,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -57611,7 +59492,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1375-8026",
-    "hours": "11:00에 영업 시작",
+    "hours": "15:00에 브레이크타임",
     "images": [
       "https://ldb-phinf.pstatic.net/20260204_53/1770181104432PJomw_JPEG/1768774703305.jpg",
       "https://ldb-phinf.pstatic.net/20240601_259/1717228456089p5voN_JPEG/IMG_20240601_163250_915.jpg",
@@ -57623,14 +59504,14 @@
       "https://ldb-phinf.pstatic.net/20240523_124/1716424947587PYtgW_JPEG/1716181632855.jpg",
       "https://ldb-phinf.pstatic.net/20240523_24/1716424937774IhP4a_PNG/1713909577683.png",
       "https://ldb-phinf.pstatic.net/20240523_247/1716424929787CI31H_PNG/1713909577548.png",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDhfMTg5%2FMDAxNzgwODc5MTgxNDc1.GTrwNNvEf3II3jtZx6EHtjYiQVztz3OJBh5TyD61w2gg.buM_5hFF_Tg6P-2sg-xLRXlGLliqJjmKUWXFGZ-ZmpEg.JPEG%2FIMG%25A3%25DF8074.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDhfMTgg%2FMDAxNzgwODc5MTc5NTEz.qHJPsUpS49wDvSq0kx0WaH1eY-iaL4JbG-L4ylo_Wssg.AskhS7UXAirGcW8PsCRUEBPwx0KLYj3lgC5dUD7NcsMg.JPEG%2FIMG%25A3%25DF8040.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDhfMTgx%2FMDAxNzgwODc5MTc5NTQy.P2xoD5IqxXv5LGZGZUeaxbicoUeOS0MlPXvFe7CvbHMg.IQA4qwOhlN-dyTOm5SxB0XScPwSWROQoU70azDY13Yog.JPEG%2FIMG%25A3%25DF8038.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDlfMTMw%2FMDAxNzgxMDAyNTAxNjc2.upsP90NZTH4APOPvxhxQlMYcF7MK8vUVh3nHndOOlzMg.IJz7T4UgHk2yc-r-ExpS6DRaSKv-9PRWPg-ABTQtNvEg.JPEG%2FIMG%25A3%25DF8042.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDhfMSAg%2FMDAxNzgwODc5MTkzOTQz.p72aKKUrrOvOEMFfRlfh9iFdEsiKqLDaKmRbyYpuJJwg.lN0UG5x_kRlO2rVX3P3ZjwtnPAXbRhSpJnU29LShI54g.JPEG%2FIMG%25A3%25DF8109.jpg"
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDRfMTc2%2FMDAxNzgwNTczNDEzMTM4.W_1VlYe8pAc_fJzx61YqXf2i70v3p507D2A0w0fOulAg.-txePh42__-fEL1-dsC0nRITHIb6oWcY1ijpsE1adlsg.JPEG%2Fcopy%25A3%25DF50DFBE83%25A3%25AD2938%25A3%25AD4006%25A3%25ADB095%25A3%25ADE92612E3E563.jpeg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDRfMTM4%2FMDAxNzgwNTczNDE0MTc2.2uIKlm1U7YT9RQycNTrrBW5DS8JmRwgkcOd7DwLrHyYg.Yf6WKPcS1d2vn51_4ZqvzVzKmOx3bLc37FsJeY4omrog.JPEG%2Foutput%25A3%25DF534276560.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDRfMTcw%2FMDAxNzgwNTczNDE1NDI2.FUdlGWfc2wqi5K4kOcGtMXBvN72BjNt8W5Hn1Q20l5og.qH1o5CGXLxCzNww7tL7P1iwor0guk63mCeBDfekk_pUg.JPEG%2Foutput%25A3%25DF2735150188.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDRfODcg%2FMDAxNzgwNTczNDE2NTA1.OQmQQGH2rgiaXnP4r96E432HZ963kSXixeyS1mqqujkg.IipsIr4nkNAQ4Ttqh4cq6ynS4eZTYKQxElZ94hodKecg.JPEG%2Foutput%25A3%25DF901167074.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDRfMjQz%2FMDAxNzgwNTczNDE3NjI4.uZBFMkTmPld0akfD3bLfckDcLAlSKnSFeJSa5cEQv_Qg.pdNr_HfdngctCOGAHGz3kOqxk2b2IMvgjO3h5EqQUzkg.JPEG%2Foutput%25A3%25DF2033793212.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20260204_53/1770181104432PJomw_JPEG/1768774703305.jpg",
-    "reviews": "방문자 리뷰 13,871",
+    "reviews": "방문자 리뷰 13,885",
     "naverPlaceUrl": "https://m.place.naver.com/place/1349971331",
     "instagramUrl": "https://www.instagram.com/hwangnam_dukkeobi",
     "blogUrl": "",
@@ -57717,23 +59598,23 @@
     ],
     "blogReviews": [
       {
-        "title": "경주 여행코스 황리단길 이색메뉴 추천 황남두꺼비식당 첨성대세트 후기",
-        "url": "https://m.blog.naver.com/jeonggillove/224310957622",
-        "name": "사랑하는 딸들과 함께하는 일상"
-      },
-      {
         "title": "경주 황리단길 점심 맛집 포장 가능 애견 동반 황남두꺼비식당",
         "url": "https://m.blog.naver.com/ejr8806/224306814749",
         "name": "제니이이's 소소한 일상 :-)"
       },
       {
-        "title": "경주 황리단길 한식 맛집 야장 황남두꺼비",
-        "url": "https://m.blog.naver.com/young9178/224308902606",
-        "name": "엄마는 오늘도 나간다"
+        "title": "황리단길 맛집 황남두꺼비식당 황남본점 경주 여행코스 가볼만한곳",
+        "url": "https://m.blog.naver.com/rkdo38/224319818492",
+        "name": "Finding my own Elysium"
+      },
+      {
+        "title": "경주 여행코스 황리단길 이색메뉴 추천 황남두꺼비식당 첨성대세트 후기",
+        "url": "https://m.blog.naver.com/jeonggillove/224310957622",
+        "name": "사랑하는 딸들과 함께하는 일상"
       }
     ],
-    "reviewTotal": 13871,
-    "imageReviewCount": 10775,
+    "reviewTotal": 13885,
+    "imageReviewCount": 10786,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -57750,6 +59631,15 @@
           "https://pup-review-phinf.pstatic.net/MjAyNjA2MDJfNTIg/MDAxNzgwNDA2NjgyNTMy.GiaNnNjEKoaaObTo-qsOuOWLg5hrPb1ArBmtLnl4SpMg.IBCTMRqrZYNyQ9KbkeGglZ6IsfghAAlvaBty4c6kTJgg.JPEG/1781DE83-E0AF-4E52-B5EF-A93134E1B2A1.jpeg?type=w1500_60_sharpen"
         ],
         "author": "빵빵424"
+      },
+      {
+        "body": "광주에서 부모님 모시고 경주로 여행왔거든요. 오기 전 엄청 검색 했는데 그 중 여기를 선택 했어요. 먹어보니 참 잘한 선택 했네요. 일단 메뉴가 여기 식당에만 와야 먹을 수 있는 독특한 음식이잖아요. 부모님께서 다양하게 먹을 수 있다고 좋아하셨어요. 묵은지등갈비찜도 짱맛. 김치 새콤달콤 밥을 부르는 맛이였어요. 덕분에 즐거운 저녁 식사였어요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfODcg/MDAxNzgxNzc4MTMyOTk5.KK8ecV_a7qmR_TBc5rD7bX8YAKvNSLzkvTgca_8-RYMg.tm1l38dYissh7UQd60dLRwNiKOEo2GEbbb8zKnvqI5Eg.JPEG/20260618_184908.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfNDEg/MDAxNzgxNzc4MTMxOTc5.0AmolK9ihrVaVD4dsz4DFPbQHmxolq68a65jdDwwzagg.kem0O8lJR1U0P81sIHuSDz5HdVFUjyOkNI2Rrrj0y2Ig.JPEG/20260618_184829.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTA1/MDAxNzgxNzc4MTMyOTk3.dbAU0-z8ptxMcjrEvnKLc4A3fdsWsH6LRx8sSS56skcg.1l2Eh2tQrOTg4cL8NARFRn4MciY_o8MsRKcmIa7qyfMg.JPEG/20260618_184642.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "하얀풍차24"
       },
       {
         "body": "경주 하면 황남 두꺼비 입니다.\n아이셋과 함께 다섯식구 첨성대7종 세트와\n항아리 숙성 묵은지등갈비찜을 주문해 먹었어요.\n첨성대 모양의 볶음밥이 아이들의 식욕을 막 당겨줍니다. 첨성대 모양의 떡갈비도 달콤하고 맛있어요.\n육회, 꼬막, 닭꼬치 등등 다양한 음식을 한번에 골고루 먹을 수 있어 아이들도 편식하지 않고 잘 먹을 수 있답니다.\n특히 묵은지등갈비찜이 정",
@@ -57777,15 +59667,6 @@
           "https://pup-review-phinf.pstatic.net/MjAyNjA1MjVfMTkg/MDAxNzc5NjgwNTQ0NDQ1.O-QF1_e6CaJs9LCTHFlQj3JThRJdSl606j9ReANBdowg.BOpmOZOamVnRBqFgWxujtZY7T9BHzFJgesk3n5PtZfgg.JPEG/20260525_122734%280%29.jpg.jpg?type=w1500_60_sharpen"
         ],
         "author": "쭈먹"
-      },
-      {
-        "body": "경주 황리단길에서 분위기 좋은 한식 맛집을 찾는다면 황남두꺼비식당 추천드리고 싶어요. 빨간 간판과 한옥 감성이 어우러진 외관부터 시선을 사로잡았고, 내부 역시 레트로한 소품과 자개 테이블 덕분에 감성 가득한 분위기였습니다. 이번에 주문한 첨성대 7종세트는 이름처럼 첨성대 모양의 볶음밥이 가운데 세워져 있어 비주얼부터 감탄이 나왔어요. 육회, 불고기, 닭꼬치",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjJfNDMg/MDAxNzc5NDQzNTMwMTI4.wW4FceCxa1khn4h8OgIqlK3e97ZQiwWn9enNGaieXhQg.kWe9fYBrLGkU0EBK4ykkaIjkHhOsnq2v2EwJqkWSaEog.JPEG/20260522_120210.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjJfMTMx/MDAxNzc5NDQzNTMwMjA1.rBIYG9BEsqwBRRZXTZCAtXakob3R_OrU40rZMmgIDBEg.4gTFV4-fXLxvyDWhg4gkOaqyWPtBFqVm_6bWbQ28ZlYg.JPEG/20260522_120218.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjJfMjkz/MDAxNzc5NDQzNTMwMjYx.TXAOPvAKP4FkEnhEkZKo6sn95QLOmKh7bmiM8eRdHlYg.GBwGMq-ydkc73uAkMwuavs9bHlMI9aOoKYcrWUP6tCYg.JPEG/20260522_120221.jpg.jpg?type=w1500_60_sharpen"
-        ],
-        "author": "j3****"
       }
     ],
     "folderName": "맛집"
@@ -57805,7 +59686,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1311-1735",
-    "hours": "09:00에 영업 시작",
+    "hours": "15:00에 브레이크타임",
     "images": [
       "https://ldb-phinf.pstatic.net/20260528_207/1779969457892NxozJ_JPEG/IMG_6115.jpg",
       "https://ldb-phinf.pstatic.net/20260528_3/177996945515193mo5_JPEG/IMG_6113.jpg",
@@ -57824,7 +59705,7 @@
       "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjdfMjM3%2FMDAxNzc3MjkzMTk3NzUy.fF2KKTYxP8T2eme4fThO6Y5MD8_YdQDuWdmUjAoUlNcg.8PQ2-UwWWuLWoA5oDL9qAWjVVnD1Ico6nnpCdDhawY0g.JPEG%2Foutput%25A3%25DF2005814413.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20260528_207/1779969457892NxozJ_JPEG/IMG_6115.jpg",
-    "reviews": "방문자 리뷰 4,069",
+    "reviews": "방문자 리뷰 4,103",
     "naverPlaceUrl": "https://m.place.naver.com/place/15230740",
     "instagramUrl": "https://www.instagram.com/100y_gyeongju_",
     "blogUrl": "",
@@ -57893,8 +59774,8 @@
         "name": "[울산] 맛집멋집"
       }
     ],
-    "reviewTotal": 4069,
-    "imageReviewCount": 1394,
+    "reviewTotal": 4103,
+    "imageReviewCount": 1427,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -57922,6 +59803,15 @@
         "author": "알콩달콩0"
       },
       {
+        "body": "기존 건물에 있을 때도 사람들이 줄 많이 서서\n맛있게 먹었는데 근처에 새로 생긴 건물에 재오픈하셔서\n인테리어도 확 트여서 여유롭게 먹을 수 있고 \n음식도 주문하자마자 거의 바로 나와서 \n따뜻하게 맛있게 먹었어요!!! \n아이들도 불맛이 나니깐 너무 잘 먹었고 \n같이 나오는 된장찌개도 집된장 맛이라 \n짜지 않고 삼삼하니 맛있어서 뚝딱했습니다\n사장님도 친절하시고",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjc5/MDAxNzgxNjA0Mjg4NDUy.ewouENi89Ds9NkfwzYaEGPlfcxM2rwtRvbwsT7eIyy8g.dW0IoGXZDGpxV6G7CIhqvZezEHvTfmkfiLeMe4Xr92sg.JPEG/IMG_4734.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjI3/MDAxNzgxNjA0Mjg3Mzg2.z7qGrqm6FwRzTgrI1JhwrIvOP5cnIuQgNN3oiCOiEN0g.63glTlsWJORzLTGpkjPX33PvwVA_1W9B7VAAoxU74eYg.JPEG/IMG_4735.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjk5/MDAxNzgxNjA0Mjg3NzM4.ECW_Qp3jYk2M5jEtd3LbimSb4Zcj3vOZamSZ7w2ibhog.DdIPaH5s0oqbFtQ72l8_81_ydP-i8kdggxfxxFVTkzog.JPEG/IMG_4736.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "ENTRA"
+      },
+      {
         "body": "단골임.\n이번에 가게이전하셨는데 뷰도 좋고 인테리어 이쁨.\n맛은 항상 맛있음.\n석쇠. 연탄불고기 찾으러 다니면서 먹는데 이 집이 1등임.\n아기도 여기꺼 젤 좋아함.\n돈벌어서 이전하셔서 뿌듯함.\n절대 관두시면 안돼요.\n반찬도 맛깔남.\n쌈 귀찮아서 안먹는데 쌈싸도 맛있음.\n늘 생각나서 황리단길오면 다른 거 먹어봐도 항상 여기가 생각나서 정착.\n또올게요",
         "images": [
           "https://pup-review-phinf.pstatic.net/MjAyNjA2MTVfMTYz/MDAxNzgxNDk4Mzc0MTk4.FftwTGEKeyszT_68SPdoaXeVgBOSI_mbybZ3b5qUquMg.aIaQvhHlvvBwQIH-nxdmFJrqnJJK9Z0tB7UP0DvwiTAg.JPEG/20260615_133542.jpg.jpg?type=w1500_60_sharpen",
@@ -57931,20 +59821,12 @@
         "author": "종9674"
       },
       {
-        "body": "평일 2시에 와서 웨이팅없이 바로 들어왔어요\n매장 이전해서 방향 잘 확인하구 걸어와야 합니당 바로 옆이지만ㅎㅎ\n넘 맛있어요\n불고기 연해서 아기들두 어른들도 잘 드실거같고\n고등어 맛있네요!! 추천",
+        "body": "맛잇는 백반집 추천이라고 떠서 리뷰 보고 왔는데 역시 밥도 맛잇고 생선이랑 다 맛있네요. 웨이팅 있을까봐 걱정했는데 브레이크 타임 지나서 바로 들어갓어요. \n고기에 불향이 가득하고 된장찌개도 같이 주셔서 너무 맛잇게 먹엇습니다. 한옥 느낌의 인테리어 또한 맛의 비결인거 같습니다.",
         "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfNDAg/MDAxNzgwNDY0NDQwMzYy.yxm3awiSXYKdvmC7u0mF1F1La46ntrpXP9W3cU14znwg.LpdgSCp3oNstHcGYQuLMBdPFepcwZWSbDFNIGZzebJIg.JPEG/5CD3233C-4CD7-4BC7-9296-47DEBAC415D7.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMjI4/MDAxNzgwNDY0NDQ0MzU4.UUspBSO905wCq4U0nFoPN9pk0cVLZPhZdb9YiOuuCxYg.68FWu72qqJlfIB9qU3Ff5SkRmBoBZUqlx6gznrMjpZAg.JPEG/F6F8FE35-7D88-45B2-8EFF-83E95F277F06.jpeg?type=w1500_60_sharpen"
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjU4/MDAxNzgxNTk2NjE0NTU0.wGb1X413N3dQGqgh7qCVfgv0m930VnX5QZjsXHURc9og.JEA4UM6inKR_RyptT9eKhlawvO1P1Jg6eBFQBZyR69Mg.JPEG/20260616_165532.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMTA1/MDAxNzgxNTk2NjE1MzM4.ZY-_fq0QUuLSg8CJoEW3RoqUBp19apQaH1J6c-Neaggg.6mxDCGVOS52Ffqw_diiQBOZ7zPdK-FCURhSmkanyLCQg.JPEG/20260616_165534.jpg?type=w1500_60_sharpen"
         ],
-        "author": "wld****"
-      },
-      {
-        "body": "불향 가득한 불백에 반찬 하나하나 정갈하게 나와서 한 끼 든든하게 먹기 좋았습니다!!\n관광지 식당이라 큰 기대 안 했는데 생각보다 음식도 깔끔하고 정말 너무 맛있어요\n직원분들도 친절하셔서 만족스럽게 식사했습니다. \n경주 오면 한 번쯤 꼭 들러보세요🤙",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTVfMzIg/MDAxNzgxNDk5MDQ1Mzg0.J67J_1Px9-gLsot-8c3C4vnsq7FQH9XOokZGlQGfyJ4g.StUPUFVkNaVvZIxYf3gDkVCYL_bYHnj3r6anMMOElyog.JPEG/IMG_8913.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTVfMTU2/MDAxNzgxNDk5MDQzNTI1.PuStFU_ZnGUUjj-T01YOQcXwk1aYjbzneN4uTI69cTcg.DDU1Iu_cs5G77wscZT1Vl3lGZO4G3MbufwHoer7mpCkg.JPEG/IMG_8914.jpeg?type=w1500_60_sharpen"
-        ],
-        "author": "살롱드김"
+        "author": "레몬천사80"
       }
     ],
     "folderName": "맛집"
@@ -57964,7 +59846,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1376-6676",
-    "hours": "11:00에 영업 시작",
+    "hours": "15:00에 브레이크타임",
     "images": [
       "https://ldb-phinf.pstatic.net/20230602_215/1685683625029rawPF_JPEG/1685486768429.jpg",
       "https://ldb-phinf.pstatic.net/20231027_142/1698394315793BvAYi_PNG/5.png",
@@ -57983,7 +59865,7 @@
       "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfNjYg%2FMDAxNzgxMzUzNTkzMDgx.HTaVcPPbVaz3aTJczbpKDmGN9TL-FljgX616xm81Vtkg.vfYnzSYpoSCScLOORJwZXNjyCHUTtFA7rb_TsrYWcNog.JPEG%2F20260610_115439.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20230602_215/1685683625029rawPF_JPEG/1685486768429.jpg",
-    "reviews": "방문자 리뷰 6,393",
+    "reviews": "방문자 리뷰 6,406",
     "naverPlaceUrl": "https://m.place.naver.com/place/1712968835",
     "instagramUrl": "",
     "blogUrl": "",
@@ -58062,13 +59944,13 @@
         "name": ":-D"
       },
       {
-        "title": "경주한식맛집 솥밥 외가 황리단길 본점 후기",
-        "url": "https://m.blog.naver.com/tjcokr/224282926233",
-        "name": "돼미 블로그"
+        "title": "경주 황리단길 찐맛집!",
+        "url": "https://m.cafe.naver.com/themukja/1669791?query=%EB%8D%94%EB%A8%B9%EC%9E%90%20%EB%A7%9B%EC%A7%91",
+        "name": "더먹자 맛집"
       }
     ],
-    "reviewTotal": 6393,
-    "imageReviewCount": 5266,
+    "reviewTotal": 6406,
+    "imageReviewCount": 5277,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -58077,6 +59959,23 @@
       "음식량"
     ],
     "visitorReviews": [
+      {
+        "body": "혼밥하려고 알아본집중 하나였어요. 평일에 점싱시간좀지나 웨이팅도 읍었고 바로입장가능했네요. 메뉴는 스테이크솥밥으로 주문했는데, 양도 푸짐하고 반찬도 다양하네요. 스테이크도 부들부들하니 넘맛나요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfMTg5/MDAxNzgxNjc0MTM3ODAw.EBoujMsTK3f6jTAnmq6WRe7tzUQA3mxroOEGG2AeQQYg._m5AIxhh04CU0s0kiJnEfnf0zGUjVuGmyLcJ3eHPiy0g.JPEG/20260617_142213.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfOTMg/MDAxNzgxNjc0MTM4MDIx.YVmMsJ9AIbJ-mQc_YKe1ZQXJQAAQxhyQNh6jKm-2f3Eg.9pNAybn-L7MLGCt7GdRGCFHQlgkE-_ziKLbP95BuYXMg.JPEG/20260617_142057.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfOTIg/MDAxNzgxNjc0MTM3ODY1.D9cYTAsNuDyGatdgz_yU0Clvwnl-wYaFntgvHWJWRmcg.eUMXXve1351fCsipM6wyrP0Wzyq7VPVisrqk9H7Va6Yg.JPEG/20260617_142048.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "ssu****"
+      },
+      {
+        "body": "20개월 아기랑 방문했어요! 아기 식기랑 미역국 따로 챙겨주시고 친절하시네요. 밥이 맛있는건 두말하면 잔소리입니다~! 밑반찬으로 나오는 김도 무조미 김이라 아기 밥 싸주기도 좋아요!\n덕분에 잘 먹고 좋은 추억 쌓고 갑니다~!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfMTIw/MDAxNzgxNjg0OTA5ODY1.MtcBI93OCG8qUb6XZXkL3YZYsAw9kov6u2JIrKuElbEg.xSaEdxXfT0jZCM1MS4pedfMlkoGTVM-11CaWokAP56kg.JPEG/20260617_172206.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfMTQ5/MDAxNzgxNjg0OTI4ODEw.OPPSzgCVlEkhSuVp0CHEj2QQkKVW7conD_T5aLLObJ4g.CfTVxouNooHU0iYDFeqcUclPwwqYxg8MaTg2j2kK5Tkg.JPEG/20260617_172208.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "Cloud9429"
+      },
       {
         "body": "저녁메뉴로 솥밥 먹으러 왔는데 너무 맛있었어요~\n아이랑 와서 아기 의자도 세팅해주시고 너무 감사했어요~ 메뉴도 많고 음식이 정갈하게 나와서 보기에도 좋았고 맛있게 보였어요~\n평일 저녁이라 웨이팅 없이 바로 들어와서 먹을 수 있었어요~\n다음에는 부모님 모시고 와야겠어요😊",
         "images": [
@@ -58101,24 +60000,6 @@
           "https://pup-review-phinf.pstatic.net/MjAyNjA1MThfMjE0/MDAxNzc5MDc5NjQ4MDU2.zn_EkbzT45EHcRLRKR39rmtzyQnYL2XC3I3--Fnx-Y8g.r2sGK41r1xy0NelpMiAY9axF7RUBrpEovkGXip-AL5Ag.JPEG/20260518_132035.jpg.jpg?type=w1500_60_sharpen"
         ],
         "author": "ljm****"
-      },
-      {
-        "body": "😌 외갓집에서 한상 먹는듯한 느낌의 한옥맛집\n스테이크솥밥, 톳꼬막비빔밥 먹었는데 넘 맛있었어요! 진짜진짜 올만에 경주에서 맛나게 먹은느낌!!😍\n반찬들도 다 하나하나 맛있었고, 미역국도 깔끔쓰ㅎ\n표고멘보샤는 진심 꼭 시켜드세요 미첬음...!\n주방에서 나즈막히 나오는 웃음소리를 들으며 먹으니 기분이 더 좋았어요ㅎ 사장님도 넘 친절하시구, 무엇보다 외국인알바",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjJfMTYg/MDAxNzc2ODMxNzI3MDMx.8Trkt6pMMdJVSHR06-1PdImmf0lCIqc_8K4LaxPMxCsg.qquONGHZAv34xdjqyEplLE00ScQKXgKdJUadnIU9unog.JPEG/1000129407.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjJfMTk5/MDAxNzc2ODMxNzI2OTQ2.pfyIZGpSBlvt1z-Va_mCInPibGdq3XAoShJU-pz27pUg.ePlORV7_5WmskSBHdLoWEOsEVRcfMWa7RdqVVBOJRhgg.JPEG/1000129408.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjJfMTg2/MDAxNzc2ODMxNzI2ODQ1.Lzj7blaXpcIR_GFYcVEuEbWoznpaljVudaT29iKWJCEg.OSCkHei724ZRN-SV_JfOIypc_HXdI_1nO6J3tK06fIIg.JPEG/1000129410.jpg.jpg?type=w1500_60_sharpen"
-        ],
-        "author": "방랑쟈"
-      },
-      {
-        "body": "경주 여행 마지막 식사를 고민하다가 ‘외가’로 결정했는데 솥밥이 다 특색있고 맛있네요. 마지막 숭늉으로 입가심하고 반찬들도 정갈했어요. 주문 후 음식 나오는 시간도 짧은 편입니다. 잘 먹고 집으로 돌아갑니다.",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTBfMjkz/MDAxNzc4MzgzMDYzNDE4.VekAR8HNMlKxYBUeaP_Fe5LKgWH2P95aI7p5mIzNbmog.-9PumtGFHWsWgPDK30dRh3Lyg96q7zqneEsyuxk4WcQg.JPEG/CB161976-098F-4B38-8C21-AFAE09556F8D.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTBfMzUg/MDAxNzc4MzgzMDYyODU5.D_isuuptHlFCqzwpqfQWZyW1zENEgCIC8k57R5B7n-Mg.sv9wz39EEbmm6-BvElLklsMcu50GvANVgC1LqQSu9MEg.JPEG/A664C556-0D9D-435C-8232-2E955F710736.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTBfMTg3/MDAxNzc4MzgzMDY0MjAx.Tk4EGAGt5piNVk2dagE9jRSxjrCNyCBpiE7lcM4jkfEg.qOVLKN1zj0ERdeZn-PlpVVbOcT5jEmWtLE4Nqbls-6Yg.JPEG/9C5C3E1F-4ABD-4D8D-BF18-799E7517862B.jpeg?type=w1500_60_sharpen"
-        ],
-        "author": "lhy1453"
       }
     ],
     "folderName": "맛집"
@@ -58138,7 +60019,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1459-1532",
-    "hours": "11:00에 영업 시작",
+    "hours": "14:30에 라스트오더",
     "images": [
       "https://ldb-phinf.pstatic.net/20260609_32/1780998204227SkJk8_JPEG/IMG_8467.jpg",
       "https://ldb-phinf.pstatic.net/20250125_10/1737737937877kjOOP_JPEG/IMG_7711.jpeg",
@@ -58151,13 +60032,13 @@
       "https://ldb-phinf.pstatic.net/20260109_269/1767963980468Kznyr_JPEG/0FB7E1C4-06F1-47D8-896B-17DCE58266B7.jpeg",
       "https://ldb-phinf.pstatic.net/20250410_146/1744250482833fu4kW_PNG/IMG_9163.png",
       "https://ldb-phinf.pstatic.net/20250116_64/17369971760832P7mn_JPEG/IMG_7413.jpeg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MDJfNTIg%2FMDAxNzgwMzM2NDM0NTI4.9_mjWvC_iiKqhxSYRNj6_ktL44-f4r0StGU_JEqZSN8g.7FR5OabRlvkgBezmZ9ruls2DpI5n9CFmX1y1ss1YCzog.JPEG%2Foutput%25A3%25DF1910531354.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjlfMTM5%2FMDAxNzgwMDM3NDc4NzYz.kFppLwY8SD6SMr0JF-tw5rGtS2gr1xbe4d0wM8ZL5MIg.UoJAhEAO2vu51Z7jb6CsDblGHbMNELapZ69gnJHrCOEg.JPEG%2FIMG%25A3%25DF3284.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjlfNDAg%2FMDAxNzgwMDM3NDc5NzYx.wLQubuRXkI-jiKCrSHr7k_-pReUPQmIgvlwFfXt6OhIg.UfXDnLfqgW_y5IVoPB1TbMu4IJ1f_WtkPcV7RC-fXAkg.JPEG%2FIMG%25A3%25DF3285.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MjlfMjUg%2FMDAxNzgwMDM3NDg0MTA5.UVWp03VuVYFE6Raxunb9-ywOJa7AfJSfSTiaiNaZC54g.a9doN4TkXV7cjdGuq7C9BJDWi8ie2Vvq-sVZdZd-NFYg.JPEG%2FIMG%25A3%25DF3286.jpg"
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTZfMjU1%2FMDAxNzgxNTkwOTY3MTEx.bUSuP8c2jCVf9A49Af6g6kVTYiLZ8IEyTxyzZI9sYCYg.F1PMdUqOxaXTsSRGp5V1b-g4gxgNSpaihnuKU-U72Kkg.PNG%2F%25B0%25E6%25C1%25D6_%25BE%25D6%25B0%25DF%25B5%25BF%25B9%25DD_%25BD%25C4%25B4%25E7.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTZfMTM3%2FMDAxNzgxNTY2ODk2MTIz.tYJ36u3fo4TIkCjxIPhtvpBHfu2COGJN0KEZNIafjMIg.JttyTdMoG44g9zZLSJ8tHionDgxiPq_Tdc4E7IKrfb4g.JPEG%2FIMG%25A3%25DF9473.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTZfMjUz%2FMDAxNzgxNTY2ODk4MTYx.iFedxquuNVM6qkFNmKKebZpOu-8swFwh0T6VxhWbIEUg.AObXMVWb7u6HafdZ0EserVB8yI2KRjwrZMaaUkIvSZMg.JPEG%2FIMG%25A3%25DF9469.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTZfMTM1%2FMDAxNzgxNTgyNzg3MTM2.TKNmdGn9vBIazM1mVjYoUpHSJKrw1_tMZu_5g5BbPo4g.KXYVSzeCkVNTV-DybRYzGMcJBXAvYSuv9SwEl_wpmXEg.JPEG%2F%25C7%25E2%25C5%25C3.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20260609_32/1780998204227SkJk8_JPEG/IMG_8467.jpg",
-    "reviews": "방문자 리뷰 4,149",
+    "reviews": "방문자 리뷰 4,166",
     "naverPlaceUrl": "https://m.place.naver.com/place/1693973514",
     "instagramUrl": "https://www.instagram.com/hyangtek.gyeongju",
     "blogUrl": "",
@@ -58223,6 +60104,11 @@
     "seatInfo": [],
     "blogReviews": [
       {
+        "title": "경주 애견동반 식당 황리단길 정갈한 강아지 동반 한식당 향택",
+        "url": "https://m.blog.naver.com/lael_v_v/224317708529",
+        "name": "Lael @라엘 블로그"
+      },
+      {
         "title": "황리단길 한식 맛집 향택 경주",
         "url": "https://m.blog.naver.com/haha3587/224307044913",
         "name": "B, and be"
@@ -58231,15 +60117,10 @@
         "title": "[경주여행 맛집] 정갈한 한식 정찬 향택(웨이팅 많아요.)",
         "url": "https://m.blog.naver.com/birdy877/224251282921",
         "name": "책 읽는 호두의 잡기장"
-      },
-      {
-        "title": "건강한 집밥 [향택 경주]",
-        "url": "https://m.cafe.naver.com/poohstory/302818?query=%EC%9A%94%EC%A6%98%EC%9B%A8%EB%94%A9%2C%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84%20%EC%9D%B4%EC%A0%9C%20%EC%9A%94%EC%A6%98%EB%8B%B5%EA%B2%8C%20%3A%EC%9B%A8%EB%94%A9%ED%99%80%2C%EC%8A%A4%EB%93%9C%EB%A9%94%2C%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84%EC%96%B4%ED%94%8C",
-        "name": "요즘웨딩, 결혼준비 이제 요즘답게 :웨딩홀,스드메,결혼준비어플"
       }
     ],
-    "reviewTotal": 4149,
-    "imageReviewCount": 3385,
+    "reviewTotal": 4166,
+    "imageReviewCount": 3398,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -58283,163 +60164,13 @@
         "author": "민들레씨앗호로록"
       },
       {
-        "body": "꼬마아기사자 데리고 경주에 왔어요 >_< 고기만 찾던 아기사자가 가지들어간 덮밥도 넘 맛있게 잘 먹었어요 🦁 고기 생각 뚝 끊길 정도로 맛있었다고 맛있는 요리집 찾았다고 칭찬 받았어요 🐶 버섯전도 맛있고 삼치덮밥 가지덮밥 넘 맛있어요😆 아기사자 넘 신났어요! \n다음에 경주오면 또 올게요 🦁🐶\n직원분들도 넘 친절하세요 👍\n식혜도 넘 맛있어요! 많이",
+        "body": "경주 여행 중 애견동반 식당을 찾아서 왔어요!\n편히 식사도 하고, 음식도 너무 맛있습니다!!! \n애견동반 여행중이라면 꼭 오세요!!☺️",
         "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjRfMiAg/MDAxNzc5NjExODM0NDg0.dyPqxsjRKmS0ATbP4xkae9O_SPg5yYm8IIc5fm_vQOwg.bVdgVmXHecvMAEQhrTIm_3gm2zdZ-LQ2fvlGwGuphHsg.JPEG/97E74AF5-E623-4F0A-B443-F3718E1B9F5F.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjRfMyAg/MDAxNzc5NjExODM1MDE0.ORuDgiZjjp421Zmb4WgrCAv4E-XskA2ZzBhZcrFf_xsg.yIf0x-sz4qs2uD-6FEQjqXy4fAknlkdIDaDqDtsN55Mg.JPEG/F8C10366-958D-4EE5-9E21-55B31C959C6D.jpeg?type=w1500_60_sharpen"
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjE3/MDAxNzgxNTc5MDk2NTU1.rZamqyYLImi0dxd209TXkn4fazFbU_lrCqP93wgbzs4g.b1_pUaFvP3olx3A4IYx8DwFdz8itQpdOdf74zYa_k5Ag.JPEG/9C9FEE40-D9CB-46ED-90B0-CA0878157D50.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfOTAg/MDAxNzgxNTc5MDk1OTc4.y2OyTVcF7AOi5L59TgcnAvBGjr7qOY_xda-2J2X0-JMg.WkqN5g9bGp_OWkDii1of-zCQWYBy6thPxFcxZKQqgkMg.JPEG/C3D50D28-8856-4355-954E-5FCBB33C8AD0.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjgz/MDAxNzgxNTc5MDk2MzMy.liv01cw87jlqzO74WCEI2NlqzriVzTvtkKsZqPCRFekg.Y3zLbUblWpP1bvif4oNKkE_MZ5-e2miNN1Z9pObbd9cg.JPEG/279AE52E-FFF8-4255-9115-0845C3A82452.jpeg?type=w1500_60_sharpen"
         ],
-        "author": "꼬마아기대장님남편"
-      }
-    ],
-    "folderName": "맛집"
-  },
-  {
-    "id": "1726052789",
-    "name": "수경사",
-    "address": "경북 경주시 사정로57번길 25",
-    "roadAddress": "경북 경주시 사정로57번길 25 수경사",
-    "region": "경북",
-    "district": "경주시",
-    "subRegion": "경주시",
-    "lat": 35.8385293,
-    "lng": 129.2090355,
-    "category": "한식",
-    "mcid": "DINING",
-    "naverCategory": "한식",
-    "phone": "",
-    "virtualPhone": "0507-1489-0996",
-    "hours": "11:00에 영업 시작",
-    "images": [
-      "https://ldb-phinf.pstatic.net/20260604_51/1780567392433OCG6L_JPEG/%BC%F6%B0%E6%BB%E7_%B9%B0%C8%B8%BB%E7%C1%F8.jpg",
-      "https://ldb-phinf.pstatic.net/20260608_102/17809009662871Geaz_JPEG/apec_%C7%F9%B7%C2%BE%F7%BC%D2.jpg",
-      "https://ldb-phinf.pstatic.net/20230701_91/1688222006026UQt2J_JPEG/Screenshot_20230701_232813.jpg",
-      "https://ldb-phinf.pstatic.net/20260604_241/1780567406689EMhvo_JPEG/%C5%BA%BB%EA%B8%B7%B0%C9%B8%AE_%28%C5%E6%C5%EB%C0%CF%29_.jpg",
-      "https://ldb-phinf.pstatic.net/20260530_150/1780117582470Ct058_JPEG/%BD%BA%C5%A9%B8%B0%BC%A6_2026-05-30_%BF%C0%C8%C4_2.06.08.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjUz%2FMDAxNzgwMjE0NTk0NTU5.BOUM5dStYe7MG9hqPZusYq45q4d3zsnmKXAkUOLpwXgg.oP9Pwxj8DLUhSWYRgn-6eJyFpVfXLOHdpPV4Q0T1YLsg.JPEG%2FKakaoTalk_20260531_160022585_09.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMTQ2%2FMDAxNzgwMjE0ODg5NTk2.7nVSpKcIgcOMMpX24eiSTevaR3Q2C3WM7pBRZ-RcTbkg.rXKSl02-GbS3sPBQ_oqVCgcPF7sS9Q1MylGQwaCBNTgg.JPEG%2FKakaoTalk_20260531_160611472.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfNTcg%2FMDAxNzgwMjE1MTE0NDM1.rWKlWXI3wkiSoEy0VAXHrNuVueUquYFImyQ-dtxt2Skg.8MExgy9_QXe9bXMQy6UQvevW5SScTNZtTSEJUwefRWEg.JPEG%2FKakaoTalk_20260531_160311156.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjkz%2FMDAxNzgwMjE1MjYxNTc4.JTSXS2P7FB0-CdziOagOoQc0dffOR8Pofum4ReQVcTQg.1DOrE7QOJcbFwbmAO6CCUofCF5Bu7be6ugd6fHtFzVEg.JPEG%2FKakaoTalk_20260531_160022585_03.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjYx%2FMDAxNzgwMjE1MjMyMTky.9WOKvvpalUMCLqixPcf6Z8ODvIy6I_RvjJolDf5-VkAg.KsKXpR6IYFjX3lMETqapaIboBUHr2PGbUrh2QRex0kEg.JPEG%2FKakaoTalk_20260531_160022585_18.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjIy%2FMDAxNzgwMjE2NTc2Nzgw.5vE9yqk9XTrKN9WICUnJEECDMBn5iZjbijoVby8lR-4g.VgvbZ4Hp6duOZUKhy8wlU_P97tl3-MKXQP0jt7g7XPwg.JPEG%2FKakaoTalk_20260531_160022585_19.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfNDIg%2FMDAxNzgwMjE1NDIyMzYy.4nnUdJze6mhHAT1rotQ00iOnO5X5AMBtOXDAKryGcvAg.CVqoEaOnzl88mgX_V_KyhjGtpH7hXHaSZhPMD2xxh-8g.JPEG%2FKakaoTalk_20260531_160022585.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfODcg%2FMDAxNzgwMjE1OTc0OTIy.FY6CVBOorMNJFWnoOdHBDYT2qeXTwlBvMKq-0N0MxlYg._4TjDZTgRFsdjK4P1ofgdvXcIfQh5HhAkdvrkVytLfcg.JPEG%2FKakaoTalk_20260531_160022585_06.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMjk1%2FMDAxNzgwMjE1OTc2NzAx.oPqqEAUw_ZCokw6E3q0_oRTGz7t50w9Kl13erg4FlhAg.gA_5JpDX9C_-P3TuSwY6WkjhqTZQ3dV4FYvTZh6OxTQg.JPEG%2FKakaoTalk_20260531_160022585_05.jpg",
-      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MzFfMTk3%2FMDAxNzgwMjE1OTkzMzk3.7sjLFXwL6Sf47CQgEQO7TuvD5KaTCiBoIK6nCY2Tiycg.Pu_kyJL_mPfajaGskyMzj0sxOrZa-qTSET_pWLDpDfcg.JPEG%2FKakaoTalk_20260531_160022585_15.jpg"
-    ],
-    "thumbnail": "https://ldb-phinf.pstatic.net/20260604_51/1780567392433OCG6L_JPEG/%BC%F6%B0%E6%BB%E7_%B9%B0%C8%B8%BB%E7%C1%F8.jpg",
-    "reviews": "방문자 리뷰 1,488",
-    "naverPlaceUrl": "https://m.place.naver.com/place/1726052789",
-    "instagramUrl": "https://www.instagram.com/sugyeonsa_official",
-    "blogUrl": "",
-    "homepageUrl": "",
-    "menus": [
-      {
-        "name": "시원새콤 냉칼국수",
-        "price": "16000",
-        "image": "https://ldb-phinf.pstatic.net/20260307_96/1772867024222pfuGx_JPEG/20240529_140214.jpg"
-      },
-      {
-        "name": "바삭연근튀김 통들깨면",
-        "price": "16000",
-        "image": "https://ldb-phinf.pstatic.net/20230421_3/1682055479259506jr_JPEG/KakaoTalk_20230421_132918275_02.jpg"
-      },
-      {
-        "name": "대릉원 치즈튀김",
-        "price": "12000",
-        "image": "https://ldb-phinf.pstatic.net/20230421_262/1682055471038jXGLk_JPEG/KakaoTalk_20230421_132918275.jpg"
-      },
-      {
-        "name": "경주 소불고기와 연잎밥",
-        "price": "19000",
-        "image": "https://ldb-phinf.pstatic.net/20230421_112/1682055488893O0W7y_JPEG/KakaoTalk_20230421_132918275_01.jpg"
-      }
-    ],
-    "microReview": "",
-    "conveniences": [
-      "무선 인터넷"
-    ],
-    "roadGuide": "수경사, 경주의 미식.\n\n[주차안내]\n주차는 근처 공영주차장 혹은 골목주차 등을 이용바랍니다.\n서라벌 문화회관이나 '조르바'카페 옆 주차장이 가장 가깝습니다.",
-    "nearestSubway": null,
-    "seatInfo": [
-      {
-        "name": "룸",
-        "description": "최소 2명 ~ 최대 12명"
-      },
-      {
-        "name": "테라스",
-        "description": ""
-      }
-    ],
-    "blogReviews": [
-      {
-        "title": "[경주 황리단길] 차분한 분위기의 한식 맛집 &#39;수경사&#39;",
-        "url": "https://m.blog.naver.com/tunasushi_/224301796982",
-        "name": "참초의 느긋한 일상"
-      },
-      {
-        "title": "경주 수경사 추천해요",
-        "url": "https://m.cafe.naver.com/directwedding/5928603?query=%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84",
-        "name": "다이렉트 결혼준비"
-      },
-      {
-        "title": "경주 수경사 황리단길 맛집 한정식 데이트하기 좋은 곳",
-        "url": "https://m.blog.naver.com/hong_jm4558/224314914905",
-        "name": "여먹쭈의 힐링라이프"
-      }
-    ],
-    "reviewTotal": 1488,
-    "imageReviewCount": 1131,
-    "reviewThemes": [
-      "맛",
-      "만족도",
-      "분위기",
-      "서비스",
-      "음식량"
-    ],
-    "visitorReviews": [
-      {
-        "body": "황리단길 핫플 '수경사'에 다녀왔는데, 마당의 잔잔한 물과 예쁜 돌다리 포토존부터 시선을 사로잡았어요! 고즈넉한 한옥 외관과 현대적인 인테리어가 조화를 이뤄 차분하고 아늑한 분위기였습니다.\n​음식은 전체적으로 정갈하고 자극적이지 않아 재료 본연의 맛을 깔끔하게 즐길 수 있었는데요. 은은한 향의 촉촉한 연잎밥에 부드러운 불고기 조합도 좋았고, 진하고 고소함이",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMTQ0/MDAxNzgxNDE2NDQ0NTky.s14yRzdWWpJ9LUergA_JhjXQSIV41DN1GfnQ5uP-EHkg.vlho9B9_7HdQ2fLU2iLeBtZKegsKdJMtTy2O2C__Yl8g.JPEG/20260614_144306.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfNDIg/MDAxNzgxNDE2NDQ0MzY0.liQ4d39YSpN0EzCdHlR5prmefd8GZUIrkdB_0YgPtMEg.rUt2Xxzt6TqdH2Rbb9Mn6M_Ksw38A9GJfjTmErZMDlIg.JPEG/20260614_144143.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfOTgg/MDAxNzgxNDE2NDQ0NDcx.wo8NoZfDrbhWIfFhn3O1X6gAzHS86dK4kXzjMat0O10g.0deHJ7Pw3NzaLu4cuQ3dVrVeCP9eIYH90tVEdNvAgn8g.JPEG/20260614_144057.jpg.jpg?type=w1500_60_sharpen"
-        ],
-        "author": "리코타샐러드"
-      },
-      {
-        "body": "경주에 와서   다른목적지를 찾다가 우연히 건물이 이뻐서 메뉴를 봤더니 , 코리안 레스토랑이고 특별한 메뉴가 있는것 같아서 바로 들어왔더니  기다리지 않고 식사를 할 수 있었습니다.  건물 외벽에  음식 포스터 사진이 있어서 조금더  눈길을 끌었던것 같아요.  \n 음식도 빠삭하니 맛있고  한우육회와 면이 먹고싶다면 강추합니다   연잎밥도 너무 맛있고 ,  ",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTIw/MDAxNzgwOTA3NTIzNzcw.dsFYeekOrnEeQbMdl_qZ4ZSPg84_Bd9xc05idhZ_Zxog.EYg0gg-CNDKgA1m3B9gWVw_WwhsrSq757qlds4hH_1gg.JPEG/C90C19FA-BD25-4A5C-BF0A-F89F9854155B.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTUy/MDAxNzgwOTA3NTI0MjEw.l2ZihQZueFTeSkPZHItymma053BVQQ9BjDReHxzenMwg.1lSmZa_tS7BztIW3DJb03IR-B8laJ2-t-I1JoMewtpog.JPEG/2495AE6F-E13D-4BFE-953E-E5CBBE7FBC49.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTUx/MDAxNzgwOTA3NTI0Nzg1.QSsBAbrKR92NdOKv3jelkpnTVqxe_gG9QtsSk5hxpUAg.Mt7dgU2WRUrI0a8QxHv-FeYYqaqONCtyKyhxtDbvDTsg.JPEG/C477EE07-4531-4DCF-9DFC-4002F0DD5652.jpeg?type=w1500_60_sharpen"
-        ],
-        "author": "채채0306"
-      },
-      {
-        "body": "경주 여행 중 방문한 수향사.\n\n대표 메뉴인 육회 냉칼국수와 연잎밥을 주문했는데, 보기 좋은 음식이 맛도 좋다는 말을 실감했다. 육회 냉칼국수는 새콤달콤한 국물에 신선한 육회와 아삭한 무채, 향긋한 미나리가 어우러져 더운 날씨에 특히 잘 어울렸다. 칼국수 면도 쫄깃해 끝까지 맛있게 먹을 수 있었다.\n\n연잎밥은 은은한 연잎 향이 밥에 배어 있어 건강한 느낌이",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfNjQg/MDAxNzgxMzMxODQzNzQz.1UX_HMp6Aznmuur7lBdDJ4B-O59fY9Mnh0zg-sg2H4kg.TJQfr8yzLPYO-scTU3CFFd6OnQQIH9c8PUMx1L8zKOIg.JPEG/3262CBA1-83E1-4D28-9295-7FED94B2F19F.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMTE5/MDAxNzgxMzMxODQxOTY5.io1wdnlUNuRge_-VyK171wXHYe--CiHobJxEU9CkVYUg.0dTnheYsD7XYMt64cOkaUuBDsHFEucfovlcNgCZgs4Ag.JPEG/205B4627-86B7-493A-A40A-8DD4E846EEBB.jpeg?type=w1500_60_sharpen"
-        ],
-        "author": "소소한8648"
-      },
-      {
-        "body": "여행일정중 일요일 오전 11시경에 오니 줄안서고 들어왔는데 저희 뒤로 줄줄이 둘어와서 금방 자리가 다 찼어요~매장앞 인테리어가 멋져서 반했는데 메뉴도 부담적은 건강밥상이라 맘에 들었답니다^^\n저희는 셋이와서 2인 면면 한상세트+냉칼국수 추가했고 \n2인 면면 한상세트는 메뉴들을 대부분 맛볼수 있는 구성이라 좋았답니다.\n제 기준 제일 맛이 좋았던건 바삭연근튀김",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjM2/MDAxNzgxNDA1ODE4MTEz.sX-xYhFnvef4ulciZ2rD50ZFmxXY_InPxcQ63Pe73HIg.jFCjbY4TEAftpRiWKhnnVFxtU7pXer9UNkJt4YzAAjkg.JPEG/20260614_115141.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfMjYw/MDAxNzgxNDA1ODE4MjA5.giq_eu4XXC4CedA1Z-Pge0vTHIdSJ7okhtprM9hcINUg.BENrAWP60Xlb8Bf0zpOWMekBwgf_NNOzBhSm0qz6fOQg.JPEG/20260614_115101.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTRfNDQg/MDAxNzgxNDA1ODE3ODQy.OMPLWYsE2Kx0KFLqbZWGfsqGd3bx8MdWmriXZvubpsgg.F9Fg47RhlqbGyu6ixdkHieyfPxBwpqrV06HYU4Azjtsg.JPEG/20260614_115056.jpg.jpg?type=w1500_60_sharpen"
-        ],
-        "author": "em3785"
-      },
-      {
-        "body": "저희가 주문한 메뉴는 불고기연잎밥, 물회냉칼국수, 치즈튀김!\n먼저 불고기연잎밥은 딱 열자마자 연잎 향이 은은하게 올라오는데 기분이 좋더라고요.\n불고기도 부드럽고 양념이 자극적이지 않아서 부담 없이 먹기 좋았어요.\n연잎밥이랑 같이 먹으니까 건강식 먹는 느낌도 나고 든든했답니다.\n개인적으로는 부모님 모시고 와도 좋아하실 것 같은 메뉴였어요. 그리고 치즈튀김은 ",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMjM1/MDAxNzgxMTUxNTYzMjE3.G-nPqlyYBU_7lc8E_8ZFJWE8y44ccC9lxeU1q_38iNwg.VT599tc5mMGy_ZiHb6DZE6FaZ2Y182EywivjrTvk0L4g.JPEG/ACA4524D-E318-4B38-99EF-5A03C0007C52.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMTY1/MDAxNzgxMTUxNTYzMjM0.5XFNlfjtCiyqjxwppFIYww05nSfu0UAsXO_qMnsBI88g.JKuIEleHX6YcEEfIqSZ9DlqsMCCZcWBrEAM9cA3Kd6Qg.JPEG/81EA1E56-07AA-427F-AE4C-DB469BB9D080.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTFfMTE0/MDAxNzgxMTUxNTYyOTgw.du-bg70CK0YSrcfck2FsDJDx0UceAAS8xHpnSWmq8Bog.aEA4_Xm4aw--TKAyM2nNp4i4uxQRXZ0AUyAe-OK9WTQg.JPEG/D4C3F79A-8B07-4367-A9A1-B41AAF645CE5.jpeg?type=w1500_60_sharpen"
-        ],
-        "author": "Lulu631"
+        "author": "또링s"
       }
     ],
     "folderName": "맛집"
@@ -58459,7 +60190,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1359-8765",
-    "hours": "11:00에 영업 시작",
+    "hours": "15:00에 브레이크타임",
     "images": [
       "https://ldb-phinf.pstatic.net/20250509_57/1746719832924rNrsy_JPEG/KakaoTalk_Photo_2025-05-08-23-46-51.jpeg",
       "https://ldb-phinf.pstatic.net/20240111_33/1704932199310QYkMH_JPEG/KakaoTalk_Photo_2024-01-11-09-15-51_002jpeg.jpeg",
@@ -58478,7 +60209,7 @@
       "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTFfMTg3%2FMDAxNzgxMTU3ODI0NzA1.veWhv6vwjNz35w0tDlgS7L924Ya4rhYZPTrmtB2zZ-Mg.S69HG2rMvqK6MVGToQDr-lJEd8wQzAna0an95tHhLX0g.JPEG%2F%25BB%25E7%25C1%25F89_%25B3%25BB%25BA%25CE%25C1%25C2%25BC%25AE.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20250509_57/1746719832924rNrsy_JPEG/KakaoTalk_Photo_2025-05-08-23-46-51.jpeg",
-    "reviews": "방문자 리뷰 11,256",
+    "reviews": "방문자 리뷰 11,286",
     "naverPlaceUrl": "https://m.place.naver.com/place/1131021882",
     "instagramUrl": "https://www.instagram.com/hyanghwajung_gj",
     "blogUrl": "",
@@ -58546,23 +60277,23 @@
     "seatInfo": [],
     "blogReviews": [
       {
-        "title": "경주 현지인 찐맛집 향화정 한식 제대로",
+        "title": "경주현지인맛집 향화정 황리단길에서 한식 먹기 좋은 곳",
         "url": "https://m.blog.naver.com/secretroomlondon/224312856573",
         "name": "쏘다니는 여행"
       },
       {
-        "title": "경주 황리단길 한식 맛집 향화정 넓은 한식당",
-        "url": "https://m.blog.naver.com/dadadla11/224316672578",
-        "name": "미식가 최과장"
+        "title": "[경주 황리단길 맛집] 시원한 육회물회와 새우가 듬뿍 들어간 해물파전이 있는 경주 황리단길 한식 추천 &#39;향화정&#39;",
+        "url": "https://m.blog.naver.com/c082300/224320697759",
+        "name": "일상속에 해피데이"
       },
       {
-        "title": "경주 황리단길 한식 맛집 향화정 꼬막비빔밥 추천",
-        "url": "https://m.blog.naver.com/dextersoul/224313260558",
-        "name": "강토실의 함께 보낸 순간 :D"
+        "title": "경주 대릉원 맛집 향화정 꼬막비빔밥",
+        "url": "https://m.blog.naver.com/booja22k/224312704744",
+        "name": "동네 한 바퀴, 나들이까지"
       }
     ],
-    "reviewTotal": 11256,
-    "imageReviewCount": 5794,
+    "reviewTotal": 11286,
+    "imageReviewCount": 5823,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -58598,21 +60329,20 @@
         "author": "em3785"
       },
       {
-        "body": "“황리단길 돌아다니다가 웨이팅 있는 이유를 알겠던 곳👌\n꼬막무침비빔밥은 꼬막이 푸짐하고 간이 잘 배어 있어서 밥이랑 비벼 먹기 좋았고, 해물파전은 바삭한 식감이 만족스러웠어요. 한옥 느낌의 분위기도 경주 여행 감성이랑 잘 어울려서 식사하는 내내 기분 좋게 먹었습니다.\n주말에는 사람이 많아서 대기 있을 수 있으니 미리 웨이팅 걸어두는 걸 추천!”",
+        "body": "경주 황리단길 블루리본 맛집이고\n육회비빔밥 정말 맛있습니다. 직원분들도 친절하시고\n한옥건물이라 건물이랑 마당도 이뻐요",
         "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjlfMjQ1/MDAxNzgwMDQ5NDQwMTUw.TvLlMzgtkFRG60XuTd7Bo1B7zcOuU6bS-nrJbyj3g6Yg.lPJcm7p_vBfEKIE4IJu6I-zNMS4lnHe73JAzGu8HrMsg.JPEG/CE9372F8-37B4-491F-9732-F4633B42C4F2.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjlfNzYg/MDAxNzgwMDQ5NDQwODQ1.xzkcwtRfoqSPBjFR2XDQ1EJoYxwqgc0N01FHSW9ufOkg.TfZB7aV2jqFRcuLWjeogXE5XPsRcBFIEgbIbC9rRYAcg.JPEG/2E45B613-0EEA-4A0F-896A-371C75DACB36.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjlfMjMy/MDAxNzgwMDQ5NDM5MTYz.HIf5wtgSOkZSVXyk8xWLa9Q49BjId_vl6blYaAGoO9wg.em4BqO448SZaJmVcv2wMZicR77kTfr-Uk6xswD5ghZAg.JPEG/C3CB4809-00C4-4FCE-B88C-D8E286B22AC6.jpeg?type=w1500_60_sharpen"
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMjM0/MDAxNzgxNTgwMTgxNDQz.iHHvs3XJ8V2PH_eAZu9yefb2GNVSLKK7GsEJU5OIzTcg.2is5KF8GPIdD1KsLt61TpSqSw5DSm0F1-SnXbZZOrbsg.JPEG/20260616_122201.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfNjgg/MDAxNzgxNTgwMTgxNDE2._bNeEgVUQfOjkSZwZvZ5OMm36LbB-EpkCPiMVUbj7s4g.YqgPnI3kYr_1E-azz-LduznyPuVNNt4XudWp4JIgvy0g.JPEG/20260616_122205.jpg?type=w1500_60_sharpen"
         ],
-        "author": "hyo****"
+        "author": "금발의나리스"
       },
       {
-        "body": "경주 향화정 다녀왔는데 왜 경주에서 유명한 맛집인지 알 것 같았어요. 음식이 전체적으로 깔끔하고 정갈하게 나와서 첫인상부터 좋았고, 양도 푸짐해서 만족스럽게 먹었습니다. 간도 너무 자극적이지 않으면서 감칠맛이 좋아서 밥이랑 같이 먹기 딱 좋았어요. 경주 여행 중에 들르기 좋은 한식집이고, 분위기도 편해서 가족이나 연인과 방문하기에도 괜찮은 곳 같습니다. 경",
+        "body": "웨이팅 있긴한데 저희는 두명이라 바로 들어갈 수 있었고 뒤에 가족 단위로 오신분들도 금방 들어가시더라구요 매장도 넓고 꼬막비빔밥에 꼬막도 많아서 맛있었어요 직원분들도 친절하시고 같이 나온 국도 맛있네요 ㅎㅎ",
         "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTcy/MDAxNzgwODk2ODE4ODcy.YU7K298jyf-ml7Fm0BPs1o6KNwEsE_ht_XBeKp4s-Okg.GeuVTFdNBtnt794wWdRwPE-p9nAWFbXEfnRZuaFVmb8g.JPEG/14531.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDhfMTM3/MDAxNzgwODk2ODE4ODU4.DmLHDDaohQCj3sW4YAPda6IUHyNcG5jUabJh4iYD8hEg.KscGCyN4wq58M1-5zENrRiN6HjXSvC_S6aV2S9BXBx0g.JPEG/14528.jpg.jpg?type=w1500_60_sharpen"
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTEg/MDAxNzgxNzUyNjIyNTA4.15HL-jrgxu42eD0lH_yzP66gl7zNjj8ZleIgohSFMZcg.wlE4THPPnsDC8z5SY6EYIjlvwLnSA_dZppWHyfUjeTcg.JPEG/image.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfOTAg/MDAxNzgxNzUyNjM0NjI1.qEMqcaovJgQwMJOSsKBW9PdTS6nnbuLJwYlACa7Vo_og.KJ9Ouon_25xLi-htUUI_fZqhDBY4bRQW_oskZnKt5aIg.JPEG/image.jpg?type=w1500_60_sharpen"
         ],
-        "author": "다우니2340"
+        "author": "hwanm"
       }
     ],
     "folderName": "맛집"
@@ -58632,7 +60362,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "0507-1415-1109",
-    "hours": "11:00에 영업 시작",
+    "hours": "20:00에 영업 종료",
     "images": [
       "https://ldb-phinf.pstatic.net/20251114_269/17631078837411UcBT_JPEG/4.jpg",
       "https://ldb-phinf.pstatic.net/20251118_249/1763447549056AkWD4_JPEG/KakaoTalk_20251118_142849771_03.jpg",
@@ -58651,7 +60381,7 @@
       "https://ldb-phinf.pstatic.net/20260423_194/1776912627861awNUX_JPEG/KakaoTalk_20260423_114854101_01.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20251114_269/17631078837411UcBT_JPEG/4.jpg",
-    "reviews": "방문자 리뷰 1,564",
+    "reviews": "방문자 리뷰 1,567",
     "naverPlaceUrl": "https://m.place.naver.com/place/1049212026",
     "instagramUrl": "https://www.instagram.com/gudo.ok.korea",
     "blogUrl": "",
@@ -58728,18 +60458,18 @@
         "name": "니랑키 나라로 초대"
       },
       {
+        "title": "경주 갈비찜맛집 구도옥",
+        "url": "https://m.cafe.naver.com/poohstory/312438?query=%EC%9A%94%EC%A6%98%EC%9B%A8%EB%94%A9%2C%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84%20%EC%9D%B4%EC%A0%9C%20%EC%9A%94%EC%A6%98%EB%8B%B5%EA%B2%8C%20%3A%EC%9B%A8%EB%94%A9%ED%99%80%2C%EC%8A%A4%EB%93%9C%EB%A9%94%2C%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84%EC%96%B4%ED%94%8C",
+        "name": "요즘웨딩, 결혼준비 이제 요즘답게 :웨딩홀,스드메,결혼준비어플"
+      },
+      {
         "title": "아기랑 가기 좋은 경주 맛집 구도옥 내돈내산",
         "url": "https://m.blog.naver.com/whimsykings/224212594076",
         "name": "SPACE JOURNEY"
-      },
-      {
-        "title": "경주 황리단길 맛집 구도옥 아이랑 가기 좋은 소갈비찜 후기 (주차 꿀팁)",
-        "url": "https://m.blog.naver.com/gain_beautynote/224232755098",
-        "name": "가인쌤 감각노트"
       }
     ],
-    "reviewTotal": 1564,
-    "imageReviewCount": 1344,
+    "reviewTotal": 1567,
+    "imageReviewCount": 1347,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -58758,7 +60488,15 @@
         "author": "v짱짱v"
       },
       {
-        "body": "경주 여행와서 검색해서 왔어요!\n육회랑 소갈비찜이 같이있어서 기대하고 왔는데\n역시나 맛있네요 ㅎㅎ\n반찬들도 맛있어요!\n육회랑 간계밥 같이 먹으니 더더 맛있어요 강추합니다\n가게분위기도, 노래들도 너무 제스타일입니당\n꼭 드셔보세요🥰",
+        "body": "지나가다 궁금해서 방문했는데 기대 이상으로 너무 맛있게 먹었어요!\n지글지글 뜨거운 철판에 나오는 스테이크는 육즙도 가득하고 같이 나온 옥수수콘이랑 곁들여 먹기 딱 좋았어요.\n육회비빔밥도 재료가 신선하고 푸짐해서 한 그릇 뚝딱 비웠고, 고소한 노른자가 올라간 간장계란밥은 아는 맛이 무섭다고 감칠맛이 폭발하네요.\n밑반찬도 깔끔하게 잘 나오고 매장도 쾌적해서 조",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMTQy/MDAxNzgxNTkyNDM3MDkw.8D6xvPt4Xv3abRzhspNYaNpHLOgq6arGTqNcaHN0R3Mg.dBfXWdziyEiaF8ZYvAt0qoFWKThlFkpD27rug6Rhqwcg.JPEG/1000182997.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTZfMTc4/MDAxNzgxNTkyNDM3OTA4.-9tNZ2rT-SHWfyMB8NWLnTASR-69J54w85zy3Ud74q4g.oVxf0PxJI0GLuOuQXMjR74bxdTq2d5tOmK3nMts9wYog.JPEG/1000182996.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "류승민64"
+      },
+      {
+        "body": "경주 여행와서 검색해서 왔어요!\n육회랑 소갈비찜이 같이있어서 기대하고 왔는데\n역시나 맛있네요 ���ㅎ\n반찬들도 맛있어요!\n육회랑 간계밥 같이 먹으니 더더 맛있어요 강추합니다\n가게분위기도, 노래들도 너무 제스타일입니당\n꼭 드셔보세요🥰",
         "images": [
           "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfNTUg/MDAxNzgwMTIzMDU5NjE4.NPSDj7K1oPuzwuOu4DrXhIZrld__vu44Nct2EcDbLUwg.9ZKhj8GqfG9mYBBesM_E5gsbUyEL4Nd0BSWmdZOdgTMg.JPEG/1000087388.jpg.jpg?type=w1500_60_sharpen",
           "https://pup-review-phinf.pstatic.net/MjAyNjA1MzBfMjAw/MDAxNzgwMTIzMDU5MTYw.5M3jx9J6hj-rRHLdp6cZU5JdbaLglMtumDW45sbJpsQg.9Dl5XO7xfDeLKFL6aZhjHE1XSHju4slQITMlT0XSpg8g.JPEG/1000087386.jpg.jpg?type=w1500_60_sharpen",
@@ -58782,15 +60520,6 @@
           "https://pup-review-phinf.pstatic.net/MjAyNjA1MjRfMTU2/MDAxNzc5NjEwMTMwMDQ5.HVyuuT7NU6ac4qZJBojgCyNcFhVz7SkYaLPQANq_U9Eg.ewwHQ_iIvXTdqU2Z4JVNwQU5QHWTxh9h1nu5okSZ2PYg.JPEG/5CA16F79-8D32-4A7F-B9E8-07ABC4BB9489.jpeg?type=w1500_60_sharpen"
         ],
         "author": "반갑둥이"
-      },
-      {
-        "body": "일단 인테리어가 너무 이뻐요~\n식당보단 카페같은 느낌!!!\n그런데 맛이.. 대박입니당~~~^^\n갈비찜, 육회, 스테이크 머 하나 흠없이 최고였습니다^#\n먹느라 음식 사진이..  그래도 경주와서 첫 식당이\n몹시 만족스럽습니다^^",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDNfMTky/MDAxNzc3Nzg4Nzc1MzY4.xW83ml9J47JEW-EnnRvVgxbVi2c7oh8wQc7kUQExOh4g.erdeDZjjwSwD3NLGkVriiaCxPDY_k_hycQvnGaYpzGog.JPEG/20260503_150639.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDNfMjM1/MDAxNzc3Nzg4Nzc1NzU3.qMQZHngX6Va8PV8rpd3_PE0NrIFQDDcW8gslRux3Gewg.xTG7X-2XUM06pBGnPONhduCYe7jN2aYA_crFnh9QKL0g.JPEG/20260503_150629.jpg.jpg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDNfNzkg/MDAxNzc3Nzg4Nzc0MDg1.sNnoYfaxXijCZFihuyIVeiAWOFkJ6oUeJXzmmj6mrQcg.nLGreYjFIuXJe90v1knGtS-5-D9Iatrn9W97tICvZ4Yg.JPEG/20260503_150622.jpg.jpg?type=w1500_60_sharpen"
-        ],
-        "author": "쥬뽕양"
       }
     ],
     "folderName": "맛집"
@@ -58810,7 +60539,7 @@
     "naverCategory": "한식",
     "phone": "",
     "virtualPhone": "",
-    "hours": "11:00에 영업 시작",
+    "hours": "15:00에 브레이크타임",
     "images": [
       "https://ldb-phinf.pstatic.net/20231011_26/1697030004261QFcIX_JPEG/%BC%D2%C7%E2%B8%F9_3.jpg",
       "https://ldb-phinf.pstatic.net/20220721_120/1658402744380oVKlW_JPEG/KakaoTalk_20220720_152521826.jpg",
@@ -58829,7 +60558,7 @@
       "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTBfMjA5%2FMDAxNzgxMDQyNTM3OTgw.qgpY3wZyEi3NJePf7QCifg_73UoEUnqPJ2xx_WEcAUIg.b-KdKgUbDvQ3s7l7aMaMK5ybHMY7G8eq1nsLo55xcScg.JPEG%2F900_20260609_175112.jpg"
     ],
     "thumbnail": "https://ldb-phinf.pstatic.net/20231011_26/1697030004261QFcIX_JPEG/%BC%D2%C7%E2%B8%F9_3.jpg",
-    "reviews": "방문자 리뷰 10,347",
+    "reviews": "방문자 리뷰 10,356",
     "naverPlaceUrl": "https://m.place.naver.com/place/1805878558",
     "instagramUrl": "https://www.instagram.com/sohyang_mong",
     "blogUrl": "",
@@ -58915,8 +60644,8 @@
         "name": "맛감별 멋감별 코리아"
       }
     ],
-    "reviewTotal": 10347,
-    "imageReviewCount": 7736,
+    "reviewTotal": 10356,
+    "imageReviewCount": 7743,
     "reviewThemes": [
       "맛",
       "만족도",
@@ -58952,21 +60681,20 @@
         "author": "안녕9422"
       },
       {
+        "body": "육회물회, 육회비빔밥, 육회감태주먹밥 세가지 세트메뉴 먹어봤는데 다 너무 맛있었어요! 감태주먹밥이 동글동글 너무 귀엽고 맛있습니다.. 양도 많아서 배부르게 먹었어요! 가게도 이쁘고 분위기도 좋아요 추천합니다!🤤",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfMjAz/MDAxNzgxNjk0MzgzNzgy.q6TBlCo7QameAhcstSsPgFxbi41-4pCcwoC2xWgHQ5wg.n4tQbLpmXVoaiXumf-0wfM1nvTaxjmQ9ksp0NF9-CIYg.JPEG/F98109F9-09F5-441B-897C-7F4326CAFA3A.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTdfMjI1/MDAxNzgxNjk0MzgzODMx.BGLiJEeZEx66W3ionOGib2dwVJv-0jl0vo8OeBESXL8g.bPNr_BtzLPc_iC-4DFOlC-vZDG_bfQqoASDa2h33-2Ag.JPEG/2B400A8E-C619-4680-BF74-47FF111F7434.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "ily****"
+      },
+      {
         "body": "카카오에서 리뷰가 좋아서 방문했어요! 분위기 되게 깔끔하고, 맛있었어요~~\n어머님이 좋아하셨어요!! 3인세트가 있는데 3명이서 먹기에는 많아 보여요 ㅎㅎ 소갈비찜 2인분+곁들임 메뉴 하나로 해도 충분했습니다~ 가족들이랑 방문 추천드립니다",
         "images": [
           "https://pup-review-phinf.pstatic.net/MjAyNjA2MDVfMTgw/MDAxNzgwNjQ4NzUyNDc3.CJdOsSvEnfYoQrRiGT01qDuzX1Jbr_wJKQsuEIH-uXQg.ZR7QtaLzY3PnMtUmoRHk2aJBxXCawamIfZts35rIqLUg.JPEG/D6EBA9F8-3463-4CF9-BA8B-037380BDA11D.jpeg?type=w1500_60_sharpen",
           "https://pup-review-phinf.pstatic.net/MjAyNjA2MDVfNjgg/MDAxNzgwNjQ4NzUyMjIx.oxFtUujI17XiW9DnJl_KK1MqvXHDyjqUQxkWFFBlxk8g.jBH7WJmkSzXSbaWMZcBZAqj50-rC1GOJFRcAoyvvb_og.JPEG/E4D4C98E-D307-4121-AD86-10FEC5CCCCFF.jpeg?type=w1500_60_sharpen"
         ],
         "author": "sej****"
-      },
-      {
-        "body": "창밖으로 보이는 고즈넉한 정원 풍경이 너무 예뻐서 식사 내내 힐링 됐네요.\n한옥 특유의 따뜻하고 차분한 공간 덕분에 마음까지 편안해지는 기분이었어요.\n음식도 분위기만큼이나 정갈하고 맛있어서 정말 만족스러운 시간 보내고 왔습니다.\n경주에서 분위기 좋고 기억에 남을 만한 식당 찾으신다면 이곳 강력 추천해요!",
-        "images": [
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjlfMTM4/MDAxNzgwMDQ1OTA2ODgx.gdCDuSGS2Iv0EgPE8jtCQoav-8D6sCM-MHGBXyzoljIg.04oJq9pkUNJBQKUz1lmriAnAniNNnzcTvVIN4usjw6og.JPEG/D1959A74-421C-40CC-8D31-BB112D7D2D60.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjlfMjQ3/MDAxNzgwMDQ1OTA3MTA0.0HmDqIb0qV3sybJkpapb6DDLsET9pnMnJ9e5-itm72og.0A3nRjwkvIzbsmZ396Z7GVfhBymLn9BlGB7Ty6L4R1Qg.JPEG/2E072A7F-4961-41EC-88A4-0FE11D05D93D.jpeg?type=w1500_60_sharpen",
-          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjlfMzEg/MDAxNzgwMDQ1OTA4Njc5.dyp3H-mcq2pxAkOp2CJQPr_8ceYtbKjIhuhDkK6hF-4g.OISp3KMLHu9dXaqm3z2UMel9EIcJxFVCZgMslaAE7Zcg.JPEG/BB7CDC71-21F6-4FB6-BE59-4A772640AAE9.jpeg?type=w1500_60_sharpen"
-        ],
-        "author": "숑숑은숑"
       }
     ],
     "folderName": "맛집"
