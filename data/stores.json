@@ -66550,5 +66550,1281 @@
       }
     ],
     "folderName": "맛집"
+  },
+  {
+    "id": "2044595297",
+    "name": "동암떡갈비",
+    "address": "부산 기장군 기장해안로 160",
+    "roadAddress": "부산 기장군 기장읍 기장해안로 160 3층",
+    "region": "부산",
+    "district": "기장군",
+    "subRegion": "기장군",
+    "lat": 35.1916367,
+    "lng": 129.2166203,
+    "category": "한식",
+    "mcid": "DINING",
+    "naverCategory": "한식",
+    "phone": "",
+    "virtualPhone": "0507-1373-4387",
+    "hours": "11:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20251021_34/1761011447965PgBpn_JPEG/KakaoTalk_20251021_103835763.jpg",
+      "https://ldb-phinf.pstatic.net/20251021_78/1761011431403GAfGG_JPEG/%B7%CE%B0%ED.jpg",
+      "https://ldb-phinf.pstatic.net/20251203_206/1764749593747JVLBU_JPEG/temp_picture.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfMTcw%2FMDAxNzg2Njk1ODE3ODE3.GpP6tl971obwK6iG22QqD8_kvuhUSnsO8sqQXSrdb1Ag.or7Mbcurx4VTAjh_gONcOKWVZLknmJidwkj2Ohs0ZrQg.JPEG%2F900_1786692049136.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfMjU4%2FMDAxNzg2Njk0NzI4MTE4.cZ5PhvbNYwoUVPXuioWsf5LTsoLtWvJsFtNKP0UNswwg.QtaO-Ng_ui1fgQgzUnO2wjQuyAs5DeyySn45_yMPGyMg.JPEG%2F900_Screenshot_20260814_164218_NAVER.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfMTYz%2FMDAxNzg2Njk1ODIzMjQx.2HbDCVPwUa3KOag9mCLj7FhhfpC6Vp8ef0bbYQ34anEg.oMi1Me3CrlrRAd_B5T8KTGS5vxFWt9nhOnG5P7hEAqQg.JPEG%2F900_20260808_121040.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfMjUx%2FMDAxNzg2Njk2NTQ2OTk4.e8E6YESXAZxDf-jCJzUnut_-mweWjzFLwqUVxGfnLL4g.WnX2Z889CRBbvlrVEAX4QmKofVd1uVpb_4gzJtdKVBgg.JPEG%2F900_1786693880706.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfODEg%2FMDAxNzg2Njk0NzM5MjA4.q0akD8cAbvQr4ARsgsTaDDdAfblnudh1tmz5WNg27uwg.9wfVX-HzrvCMmab-dsjJoQjbw6EnLFmE1SwHHKDDXf0g.JPEG%2F900_20260808_120956.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfNTYg%2FMDAxNzg2Njk0NzI1ODI1.xn5xWlYoyqxDi7s8a3AXZOyNMyp6ixrQOXCHpyocnWEg.uMyhXEyiYsjS5DEDUthC2l8MPMOtMQLeJAUq79wgTjkg.GIF%2F20260808_120924%25281%2529.gif",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfNjIg%2FMDAxNzg2Njk0NzE5NDYx.egxp30tH79pzxqGKHb4TjEiq1VpjqEgoai647z1xSwwg.pk-bpNRDnvOFxqthrD114NqhK9LAhctMDEKp8dOFLX0g.JPEG%2F900_20260808_121347.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfMjM5%2FMDAxNzg2Njk0NzIwOTg0.IwbYhFRRuv92CznRVaBvh5CVmWMe9CDkmAntm0Cwp9cg.SAXo3ZDfuYgeIRg4ma4JgZtqyzP2V3r2AE8ETv1FnY0g.JPEG%2F900_20260808_121344.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTRfMzUg%2FMDAxNzg2Njk0NzEzOTM4.l4YJUfZftRUVLuW85K6pX11xtQQ_ZYeVRTKvIaH8s2gg.7HrlcDP2zERrpMIi9VQmN56HybBnk7DT1EliJhgvzRMg.JPEG%2F900_20260808_121953.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MDNfMTc4%2FMDAxNzg1NzY1MjIwOTMy.YsXAU8wmMwCK1aWkIZGPMYxe2mo4L7y1Es1-q_U6PHQg.lF3poRIiWYkA0M2or3w9sb71lD_pfBuP1uBbtAB8U_wg.PNG%2F900_file_000000001f3c8211a01549408909517c.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MzFfNTYg%2FMDAxNzg1NDUzNjQ5NTI4.srs1l8ZAG9syKx5Cnz8Jg6f9fCefxW33XYQ_ZIDImcUg.YoEJh2eOVaPh0_EfxkRr7hHmqyQpTgiHLQCaP2jBc_Eg.JPEG%2F900_1785453648870.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MDNfMTYx%2FMDAxNzg1NzY0NjkxNjY2.RSW8B3ypL_L4x0UOVXDRus7OBKIvbvmzflj4T1NZ5uEg.eA1gAkihl7QURiKbWRw1bv409nLnVfk3biLxeIXnAVIg.JPEG%2F900_20260717_170627.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20251021_34/1761011447965PgBpn_JPEG/KakaoTalk_20251021_103835763.jpg",
+    "reviews": "방문자 리뷰 2,929",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2044595297",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "한우떡갈비",
+        "price": "22000",
+        "image": "https://ldb-phinf.pstatic.net/20251226_274/1766742330454OJj2O_JPEG/14138.jpg"
+      },
+      {
+        "name": "어린이 떡갈비 정식",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20251226_50/1766742052945v0X8b_JPEG/14138.jpg"
+      },
+      {
+        "name": "동암떡갈비",
+        "price": "15000",
+        "image": "https://ldb-phinf.pstatic.net/20251226_188/176674209410014YvG_JPEG/14140.jpg"
+      },
+      {
+        "name": "치즈떡갈비정식",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20251226_9/1766742180322Ujujm_JPEG/14137.jpg"
+      },
+      {
+        "name": "크림청양떡갈비정식",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20251226_163/1766742207850nzDOW_JPEG/14074.jpg"
+      }
+    ],
+    "microReview": "부드러운 떡갈비의 풍성한 맛",
+    "conveniences": [
+      "단체 이용 가능",
+      "예약",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "대기공간",
+      "포장",
+      "유아의자",
+      "주차"
+    ],
+    "roadGuide": "아울렛 맞은편 버스정류장 동부산아울렛 맞은편 정류장이 매장 근처 정류장입니다. 부산시티투어이 정류장은 시내버스 노선 100, 181, 38, 39, 40등이 오가며, 아울렛 접근이 용이한 노선들로 알려져 있습니다. 또한 동부산관광단지 정류장도 가까워 도보 이동이 가능한 거리라는 안내가 있습니다. 부산시에서 운행하는 콜버스 타바라가 오시리아 관광단지 해동용궁사 롯데아울렛 구간을 연결합니다.\n\n지하철 환승 경로\n동해선 오시리아역하차 도보 혹은 버스 환승 (이용 가능한 버스 노선 중 하나) 비짓부산해운대 지역에서 접근할 경우, 지하철 2호선을 타고 해운대역 또는 장산역에서 버스로 환승하는 경로가 안내되고 있습니다.",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "최소 8명 ~ 최대 100명"
+      },
+      {
+        "name": "입식",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "기장 맛집 점심 동암떡갈비 롯데아울렛 근처 아이랑 한 끼",
+        "url": "https://m.blog.naver.com/ilulils0212/224378813743",
+        "name": "뚜만의 라이프 로그 (맛집,운동,여행,쇼핑)"
+      },
+      {
+        "title": "부산 기장 롯데아울렛 맛집 솥밥 점심 동암떡갈비 가족외식",
+        "url": "https://m.blog.naver.com/dudtn138/224367172214",
+        "name": "초탈's 소소한 행복"
+      },
+      {
+        "title": "기장 롯데아울렛 맛집 솥밥으로 든든한 동암떡갈비 아이랑 재방문 후기",
+        "url": "https://m.blog.naver.com/shyivy7/224373340122",
+        "name": "꿈만 같은 달콤함 ♥"
+      }
+    ],
+    "reviewTotal": 2929,
+    "imageReviewCount": 2503,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "목적",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "인근에 맛집이 많아도 늘 웨이팅이 있는 집은 이유가 있다는걸 실감하게 되었어요! 메인인 떡갈비 진짜진짜 맛있어요! 반찬도 정갈하고 종류도 많고 사장님도, 직원들도 굉장히 친절하셨습니다. 모임하기에도 좋고 재방문 각!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMyAg/MDAxNzg2OTYxNTc4MzM4.LoRy5KfDwpLGBXbYBCLRUabOiIL0YcwhuJm8g2BhTbgg.d596vAyq40Ouxa4j-rOLKJYOgdUsKRdQNfjbop9BcdMg.JPEG/32931245-FBCF-4C34-BE37-EB79CB553DFA.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjUz/MDAxNzg2OTYxNTc3MzM4.ITV4IAe2MSDEhtVNkNPYRd_brYzApGYua6jpfHHBmNMg.Cl7VQUFfceXAqUOdHWOPe2F_zFXjim6u-k8S63Lz9Fsg.JPEG/A095293E-9FCF-4EB2-B8EC-0B67AEAD42B8.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMzkg/MDAxNzg2OTYxNTgzMDcy.sS-CVJ7aGKUW7zAyARi-VHINhT6wkqr9q0gi_qSLi90g.lrHFNljGWXodBhEJlSBQVmLdkwkRusjz_bX0sE5xg3gg.JPEG/56F12BE5-31D4-4213-9F39-FF87401D3D52.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "DDIR0RI"
+      },
+      {
+        "body": "가격 실화인가요...\n반찬도 잘 나오는데 뷔페까지...\n진짜 가성비도 좋은데 맛도 좋아요!👍\n부산 기장 맛집으로 추추추천드립니다.\n후회하지 않으실 거라고 확신해요.\n✅️맛있는데 ✅️양 많고 ✅️가격 착하고 ✅️뷔페까지!\n부산과학관, 기장아울렛 가기 전에 들렀는데 만족스러웠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMTg0/MDAxNzg2MjQ4NjcyMDIz.50AzIgOCuM8HuBJwSMb_PsWtL5EdxT49_FPYJomqVasg.1DkI64DdzHg6OqhwtvG9frTxlTCuLecROnyAtl5NVc8g.JPEG/20260805_111931.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMTcw/MDAxNzg2MjQ4NjcyMDg5.oGU19CRMERSrrkoP5GCXHhiTzJFvf1NgYGjaZktHKK4g.hOchFphScWs08Y0PjB9U1SyJIfCYPLwbdfcbVj53D2gg.JPEG/20260805_110606.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMTY3/MDAxNzg2MjQ4NjcyMDcz.zxFmgb14ScQXk-_r6kDT_rWIIhljLNsdW9QfS4DQgPAg.YveeoCfBWSU5aE9IAyqWDpTEGJTvHVvbMdKxpgSGN1og.JPEG/20260805_110600.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "moo****"
+      },
+      {
+        "body": "와.. 진짜 부산와서 먹은 음식 중 단연코 최고에요! \n떡갈비 정식 주문하면 반찬도 여러가지 뷔페처럼 다양하고 집밥처럼 신선하고 건강한 맛이에요~\n부모님 모시고갔는데 너무 맛있게 먹었어요! \n특히 직원분들이 모두 친절하셔서 기분좋게 식사했어요 :) 앞으로 단골확정입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjAw/MDAxNzg2OTQzNDg5NjIz.A9IHPxbwpvtRryOmdARsD4DEHhLgjcapl45fEpss3DYg.MsF3yItYH5UpaR1xZddkLFq_gd8f-UR1p-ljeCujpGQg.JPEG/DB444F79-EBAE-4BB2-8BFD-5E0F95187E40.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjIw/MDAxNzg2OTQzNDg4NDQ4.oAuuV6-m6USuOrYrCjTm-FiCPPwpYOS31QUcZZy-s2Mg.LMAH0-FS5XaWxJW4esYQ-Zud4o3FUxBvpRbMW-5UjHkg.JPEG/EFE4F3C2-A5F4-4FE7-9F2B-BDA744EC18D0.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjQ1/MDAxNzg2OTQzNDkxMDMy.-LzU80A0Z6irosBcGMwhW6pGAtlBAP_DCGOMt3oWqLEg.9_Ssfno-Dsr3I0UYhwcpbxDH6oFiVLUseFhCXuGWqpQg.JPEG/C450E274-047E-443B-8DB7-134AF92CF881.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "YSLSOL"
+      },
+      {
+        "body": "소문듣고 왔어요!\n갓지은 솥밥에 된장찌개가 같이 나와요.\n촉촉한 떡갈비 먹기도 전에 맛있는 음식이 셀프바에 많이 준비 되어 있어서 난감할 정도 입니다.\n음식이 맛있네요! 점심시간 살짝 넘어 왔더니 웨이팅이 길지도 않구.. 만족스러운 점심입니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfOTIg/MDAxNzg2OTQwOTc2ODky._ylZLsxbmt5EX_yqkEOFB6A0LTW5QscxTVc_39PSpbkg.rlbVXxBjS__sSCqrO2qX0K6i6ze4chWDkwBzwfFFhBIg.JPEG/20260817_132243.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfNzkg/MDAxNzg2OTQwOTc4ODc2.R7kVPIwNGR624CEQpfazXSYFPeMZ_Xo3LK_52QElO98g.laJXn0HudJy062m8isnz_9Mb0lHBW0bQZ-799pZvDTIg.JPEG/20260817_132246.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjMx/MDAxNzg2OTQwOTc4NjY5.7MlVLh5mcE1VafduXH_eXArnwfYc6PgPBQOF2TVwf3Mg.4TAyFMq_K4JT2zIp9bwR12_B3q_X0JVsBtJX5iX8OIYg.JPEG/20260817_132300.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "느낌이좋은여자26"
+      },
+      {
+        "body": "기장 떡갈비 맛집으로 추천드려요!\n떡갈비 뿐만 아니라\n다양한 한식 반찬들이 가득해서\n가족단위로 식사하기 너무 좋아요\n\n아기의자도 있고 반찬하나하나\n정갈하고 맛있어요\n가격대비 가성비도 좋아서\n모두들 만족하실 동암떡갈비!\n담번에 꼭 재방문할게용",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDFfMTE1/MDAxNzg1NTQ0MzMyODg1.yggz9Z5gYtP1Xu30NA9YWPEwPcqCBGrrdb3pJHpiZg8g.SWx1hk0LEscB2OmuD-ZoDK0Ilm5-W-T7g5xE6-c0ARUg.JPEG/20260730_142911.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDFfMTQ4/MDAxNzg1NTQ0MzMyNjkz.qelHX_ZY6OcY7jTyGXWPK00aUZggPGapivOIEhy3rHIg.YBHZJrxznPo0tKV9u_4xJ_N4Y4-Ur3NEgk-CzuBhS9cg.JPEG/20260730_143104.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDFfMTky/MDAxNzg1NTQ0MzMyMjM0.xnm6ko4V9fM8IbmTlxNtAgjRpWjVEPSk-cF5iWDwWU4g.HbclJSfvawGerbXbUm9ex_LkaG6TVLshm7lJm0wGY4kg.JPEG/20260730_143504.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "one****"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1056188376",
+    "name": "진주삼대국밥 영도본점",
+    "address": "부산 영도구 남항서로 40",
+    "roadAddress": "부산 영도구 남항서로 40",
+    "region": "부산",
+    "district": "영도구",
+    "subRegion": "영도구",
+    "lat": 35.08494,
+    "lng": 129.03572,
+    "category": "국물",
+    "mcid": "DINING",
+    "naverCategory": "국밥",
+    "phone": "",
+    "virtualPhone": "0507-1371-2938",
+    "hours": "09:30에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260627_246/1782537673002NeL5q_JPEG/1000060284.jpg",
+      "https://ldb-phinf.pstatic.net/20260627_24/1782537673567DBR6c_JPEG/1000060290.jpg",
+      "https://ldb-phinf.pstatic.net/20260627_87/1782537674257Pl4h3_JPEG/1000060275.jpg",
+      "https://ldb-phinf.pstatic.net/20230408_176/1680943545026tUglf_JPEG/20230328_120002.jpg",
+      "https://ldb-phinf.pstatic.net/20260508_201/17782358226307fpUt_JPEG/1000059694.jpg",
+      "https://ldb-phinf.pstatic.net/20260508_277/1778235021067Akx8W_JPEG/1000059693.jpg",
+      "https://ldb-phinf.pstatic.net/20260508_235/1778235014732oQS5m_JPEG/1000059692.jpg",
+      "https://ldb-phinf.pstatic.net/20260508_222/1778235008397FrzSX_JPEG/1000059691.jpg",
+      "https://ldb-phinf.pstatic.net/20260508_169/1778234996549UwAs7_JPEG/1000059690.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjJfNjUg%2FMDAxNzg0NjkyMDEyMDk0.LlzTZZ80yRn8aIg8ZILBx23vKnJOMUavvnWKjPFYfRwg.rE5sxUT-jS5WhYwdMqHgE7MsfZYeT8q3uqhuw7UR7uUg.JPEG%2F9.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjJfMjU1%2FMDAxNzg0NjkxODc4OTU0.Ux9TBSpHI4y1hs2q4cc5SSgzq3umcQ-C8kM-_NQ8HWog.yF8ydFAcSB2rluke0j9vQSd53Cag2CpysEsvNxJQIfIg.JPEG%2F2.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjJfMTE2%2FMDAxNzg0NjkxODg5MjIx.wSy9G0ULdLJgb9BI7Ro8-m-tMjR7bKTYa26eR7DyJS8g.P_Fy9tx5nqce91sawsJOXU-6Xp9KjqmWSBRTDZFQBg0g.JPEG%2F1.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjJfMjY1%2FMDAxNzg0NjkxOTA3OTI4.M63OQcPqSBjj3596YEaRdf5sGm3yLmg3M7ZhhjdM9jQg.Y7fyWn0z9aghFlxqeCYDN1BRwXJhP0AU2il9gh-rcRMg.JPEG%2F3.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjJfODgg%2FMDAxNzg0NjkxOTI4MDY4.OyU9lgXm1hpw7Fbm3bI4s8K9zqoCPj_TlESoPsi_RCsg.Fz4DgdWNUf2pWCphguI-rW4GtSX9j90axxojpozBjJIg.JPEG%2F4.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjJfMTgw%2FMDAxNzg0NjkxOTM5NjYw.dhCnDjZrYvhTjFlQFK102qWn9KaiLqwHe8cBB5kpxLwg.Lvgd2sVMV-m_f6Toi3LWzc9DCDq2X5ChTHYvaYTlFAEg.JPEG%2F5.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260627_246/1782537673002NeL5q_JPEG/1000060284.jpg",
+    "reviews": "방문자 리뷰 1,121",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1056188376",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "돼지국밥",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20240516_179/1715819675568SIPrY_JPEG/20240516_093108.jpg"
+      },
+      {
+        "name": "수육백반",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20241101_162/1730422781889sDTGz_JPEG/1000015296.jpg"
+      },
+      {
+        "name": "2인세트",
+        "price": "30000",
+        "image": "https://ldb-phinf.pstatic.net/20240520_195/1716180278658lCPQH_JPEG/20240518_120002.jpg"
+      },
+      {
+        "name": "3인세트",
+        "price": "50000",
+        "image": "https://ldb-phinf.pstatic.net/20241101_89/1730422678441gnvvx_JPEG/1000015294.jpg"
+      },
+      {
+        "name": "순대국밥",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20240516_254/17158198381067T0XB_JPEG/20240516_093302.jpg"
+      },
+      {
+        "name": "섞어국밥",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20240516_25/1715819815998lyxNP_JPEG/20240516_093607.jpg"
+      },
+      {
+        "name": "내장국밥",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20240516_120/1715819949509SLUdo_JPEG/20240516_093837.jpg"
+      },
+      {
+        "name": "모듬국밥",
+        "price": "10500",
+        "image": "https://ldb-phinf.pstatic.net/20240516_59/1715819976502zLqHw_JPEG/20240516_093345.jpg"
+      }
+    ],
+    "microReview": "깔끔한 국물과 야들야들한 수육의 조화",
+    "conveniences": [
+      "포장",
+      "배달",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "예약",
+      "유아의자",
+      "주차"
+    ],
+    "roadGuide": "꼭 지도한번 보시구요^^ (엑스스포츠광장 앞)\n영도구 빨간등대에서 방파제따라 100mm 정도 오시면됩니다.\n(오구커피, 몽작 근처 입니다)",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "남항동 l 진주 삼대 국밥 영도 본점",
+        "url": "https://m.blog.naver.com/ozonebaby/224355731729",
+        "name": "Lifeisntcool"
+      },
+      {
+        "title": "영도국밥 진주삼대국밥 푸짐하고 주차까지 편한 곳",
+        "url": "https://m.blog.naver.com/wrap_p/224308546230",
+        "name": "부산사람의 일상 - 먹부림을 곁들인"
+      },
+      {
+        "title": "영도 남항동 진주삼대국밥 영도본점",
+        "url": "https://m.blog.naver.com/gv2112/224304240808",
+        "name": "아인지안아빠의 먹거리, 취미생활"
+      }
+    ],
+    "reviewTotal": 1121,
+    "imageReviewCount": 487,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "주차",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "국밥 먹으러 방문한 진주삼대국밥 영도본점.\n매장 깔끔하고 직원 응대도 무난한 편.\n국밥은 맑고 담백한 스타일이라 부담 없이 먹기 좋았고, 고기 잡내 없이 깔끔하게 정리된 맛이 인상적이었다. 수육도 함께 주문했는데 비율이 좋아서 느끼하지 않고 적당히 즐기기 좋았다.\n전반적으로 자극적이지 않은 국밥 좋아하는 분��께 추천할 만한 곳.\n재방문 의사 있음.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTFfMyAg/MDAxNzgzNzM4ODIyODk3.y_KOz7x_nG1xAHjTVCv2lXxb3-x6gnccIpi1_LtvuDUg._gH7IBJQO3aNk1S5kZdRWZ5bH7W3Xfxqs38wBD_fYeYg.JPEG/20260711_111515.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTFfNzEg/MDAxNzgzNzM4ODIzMTQ2.uMVPr4W5HH1DcOsswToE7rV_awiOZX4QYSkj8qc_Kasg.5Nu6TLoa9v7KsrxW0ep8-qEznTCZLqhDFR_IuGEhIgIg.JPEG/20260711_111950.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTFfMjA2/MDAxNzgzNzM4ODIzMzU5.5ZGDztsytHkSQPD-sX2P-iuCmBeKDoob7W_fPHMGFOgg.KSljazzJwMAPab37nI-Efl5Zdob62zeq81P2wFBJ52sg.JPEG/20260711_112207.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "7ti****"
+      },
+      {
+        "body": "일찍 문 여는 집을 찾다가 방문했는데 진짜 너무 맛있었습니다! 수육도 진짜 야들야들 촉촉하고 국밥도 건더기 푸짐하고 진짜 굿이에요👍👍❤️ 요 근래 먹었던 국밥 중에 제일 맛있었던!! 무엇보다 사장님이 엄청 친절하셔서 머무는 내내 너무 행복했습니다❤️❤️",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzFfMTIw/MDAxNzg1NDg2NDY1NTEx.QBFcxVNumE0RwBtvG2QTV-5adHMLzJ7xyeQqtSN9jLog.Y2efB9mOTdbamEWqxHUooeXVhIUP_b-V8gvG9g2EsgIg.JPEG/SNOW_20260731_172419_615.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzFfOTkg/MDAxNzg1NDg2NDY1NDk0.Y9ZMHA2oA2FL6z4Y7BlLpuM3YkxJkNESKwZvk7PB_w8g.yh9kOxYsLd6XwwTtpua1v1eLGwV3C3F4In-dn_T53pEg.JPEG/SNOW_20260731_172443_801.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "0망이0"
+      },
+      {
+        "body": "태종대 관광왔다가 점심 식사하러 왔어요. \n현지인 분들도 많이 오시는 맛집인 것 같아요. \n맛보기수육을 시켜도 국물과 밥이 나와서 좋아요. \n국밥도 종류가 다양해서 골라먹는 재미가 있어요. \n국물이 시원하고 에어컨 바람 쐬면서 여름이라도 부산여행오면 돼지국밥은 꼭 먹고 가야해요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzBfMTg5/MDAxNzg1MzgxNjMzNzUy.i7P6DWXiHBHcGJbxocJgsGMDHfzEyaUHG7sbstxPcz0g.cJJWk4rmx9Bd5YcMLfOGfdbD-Raa-o_vmLk3syal7l0g.JPEG/video_thumbnail.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzBfMzYg/MDAxNzg1MzgxNjQ1MTM0.q4o_tHz75xVZI4ZBptsksXkCtkPF9x6jpG1F3mXUZnEg._gRS9B7_gOMKk2_hdWL5uHZDcRv9ZLqXrcN9cGHO-osg.JPEG/20260730_121532.heic.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzBfMTA0/MDAxNzg1MzgxNjUyMTM5.hzkt_JBFhACHMlAjzPPqMUvKlZmouF9qIQNqKnuYdBQg.2fauh2ZIaVfSJEpSlZq4Spr5asgXF3OO-n7TiPDWwTsg.JPEG/20260730_120923.heic.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "피아노치는 아나운서"
+      },
+      {
+        "body": "부산에 또 놀러오게 되어서,\n식당에 또 들렀습니다~~~ \n구수하고 잡내 하나 없는 정말 맛있는 국밥이에요!! \n맛있게 먹고 갑니다~~ ^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzFfMyAg/MDAxNzg1NDU4NzQ2MjY3.s_je7neiXeXeta8kJnBYUbj9gQ37EbZJSNxxWXoM66Yg.ZPBzEnKtY-CGt99rw0k4OxEjdK1ZIhMHJktTSzxlnRYg.JPEG/20260731_094358.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzFfMTIy/MDAxNzg1NDU4NzQ2MTU0.vZ2upAInd_LzWJxayQKKBI69wIVWKGox_Jq6TKtG-aAg.G1DeRMKsQlt6knWu5CC2UbGneOE9JjYGQeWOgruQg00g.JPEG/20260731_094401.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzFfODMg/MDAxNzg1NDU4NzQ2MDE2.-kFiTDXAbtr3hzgPPdNJnytTk3VLDQehV_AsJJQPARsg.JESDtEJVtSnQhFuqMUnzWIAPUpzr3KdY-rOX02fq2Awg.JPEG/20260731_094406.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "lov****"
+      },
+      {
+        "body": "국물이 진짜 진하고 구수해요!\n잡내 없이 깔끔하면서도 국물이 뽀얗고 깊어서 한 그릇 든든하게 먹었어요ㅎㅎ\n부추랑 김치, 깍두기까지 같이 먹으니까 더 맛있었고 특히 깍두기가 국밥이랑 너무 잘 어울렸어요👍\n양도 넉넉하고 뜨끈하게 먹으니 속까지 든든해지는 느낌!\n국밥 생각날 때 또 방문하고 싶은 곳이에요 😊",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTZfMTg3/MDAxNzg2ODU1MDE2ODg0.k9RHQzIk4WrLSxqEf-uZNheEz6joBDWkdKpOPd6GalYg.QDW7tYiVuDrh3CObh86Bz-Rorq6YVrZgc5FmUCorW5Mg.JPEG/765072CB-12B0-4C98-8B71-B61EDA4034B5.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTZfOSAg/MDAxNzg2ODU1MDE4OTk1.oK8b9b9AgZS3OL9qHKPkEu16txUeMm_zszgoFXGLjesg.IgBgEau0878WRSOTwKg5H64t7Dr2QCQFxarsDeSEQlkg.JPEG/8B3AA7E6-35B5-4908-A446-52AB98A44506.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTZfNTUg/MDAxNzg2ODU1MDEzOTAy.8TAu5kWZb2yUA6kwVhHnc-d4UgzPUraoaaRDdz9gUnwg.72bcjYGD5dcjTJZp6YnQNYF-vWc_8NKRvKVhteEG_3Qg.JPEG/E32F7BD3-57A5-4629-9C9F-08A4A14510C0.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "ghgffx"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "1315168969",
+    "name": "행루즈수제버거",
+    "address": "울산 남구 월평로187번길 14",
+    "roadAddress": "울산 남구 월평로187번길 14 1층",
+    "region": "울산",
+    "district": "남구",
+    "subRegion": "남구",
+    "lat": 35.54679,
+    "lng": 129.32501,
+    "category": "음식점",
+    "mcid": "DINING",
+    "naverCategory": "햄버거",
+    "phone": "",
+    "virtualPhone": "0507-1327-5797",
+    "hours": "12:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20240613_206/1718266969814fh7oa_JPEG/2135B137-EF51-4425-9321-71C911780C3E.jpeg",
+      "https://ldb-phinf.pstatic.net/20260314_49/1773487442411rFX2V_PNG/%C1%A6%B8%F1_%BE%F8%C0%BD.png",
+      "https://ldb-phinf.pstatic.net/20231215_157/1702639572633eBRQK_JPEG/IMG_1761.jpeg",
+      "https://ldb-phinf.pstatic.net/20260314_296/1773487549219JAWsF_JPEG/IMG_1571.jpeg",
+      "https://ldb-phinf.pstatic.net/20200412_33/1586682735684aKIC7_JPEG/6MMvqcRhXdJ5Ez4S-nrs1bz_.jpeg.jpg",
+      "https://ldb-phinf.pstatic.net/20221013_24/1665643826410v0ozI_JPEG/Screenshot_20221013_154850_Instagram.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMTI4%2FMDAxNzg2Nzc4NTM2MjQy.NTmWduLT_gr7G0y7aeor_zb7p4c1ACi4_mliO4k-haog.aOlfOoctD6wBbZpNdLWuPihC-LOMzeOdNvj0lKfbK4Yg.JPEG%2Foutput%25A3%25DF3993056561.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMTQw%2FMDAxNzg2Nzc4NDAwOTU4.n7Lul_XVycUNTR9Uwe_if5KzvOfVmz3eFfsHOh1ULfsg.bmRPF2T8HGdYL6GHF4cPGRYNUh_Huu6ZeTf5Ej6pttog.JPEG%2FIMG%25A3%25DF3827.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMjA2%2FMDAxNzg2Nzc4Mzk5ODMy.1uvNL1KjOuVtuRUhCaukSDAWPWayjHSt_bt8MQHgxFQg.SWyslimFRAXUzv6KGLnP2wtGinVSEbdxWLkAZVfut8sg.JPEG%2FIMG%25A3%25DF3826.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMTgz%2FMDAxNzg2Nzc4NDAwODgw.Gtrx4EtoXmNqDNUXCQg55w2iZo82V_2ELBPT6LeaxKgg.J3OfUsNBputfbwh4NQkDqnQTRmAKIao4cdSM4-Winx4g.JPEG%2FIMG%25A3%25DF3795.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMjkg%2FMDAxNzg2Nzc4OTg5NDU5.cwVDCjpQER6gldKmRaWMJU1vAn7UVeQkHMkD2QDQrVEg.uIYZyp5-nQaspE5tHqTCgeA5D_BPcOo071JOdSN5wy4g.JPEG%2FIMG%25A3%25DF3821.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMTcz%2FMDAxNzg2Nzc4Mzk5ODc4.ly8r4CsMgbTSgJmOnScX67x5Vkfkxxg1vEii5DAeb_gg.LZTs9ZFW0ZYcwQydRjlqldhb3V6MTfzi9v7ii_oV9rYg.JPEG%2FIMG%25A3%25DF3822.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfNzIg%2FMDAxNzg2Nzc4NDAxMDg1.IRpSbuHvZs08zAQLnyjZCKMcIrfGLnAFTdcM5kgdrQ8g.Xitf2IxxY1qoklbY2ri6kqtISUfrWCa5bzIB7CxpKmIg.JPEG%2FIMG%25A3%25DF3825.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMjQ3%2FMDAxNzg2Nzc4Mzk5Nzk0.ytpjK7k_RHZAmBoNyw2UP2r8qo0XdxkWR11MpGnCKpEg.e9_K9coCVcCNdFmzYv4Hr7JMqVXs0L9SPKvTHj_ZuZYg.JPEG%2FIMG%25A3%25DF3802.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA4MTVfMTI0%2FMDAxNzg2Nzc4Mzk5Nzcz.A9lwTB8iQUmwgVxHEhBMU1kStJX3-v2_xJ9ZDg9gsx8g.uPX_ZV0FiOE6s3VZx33IqS-JjXZF-MwnkGT9H6ddPFkg.JPEG%2FIMG%25A3%25DF3824.JPG"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20240613_206/1718266969814fh7oa_JPEG/2135B137-EF51-4425-9321-71C911780C3E.jpeg",
+    "reviews": "방문자 리뷰 1,343",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1315168969",
+    "instagramUrl": "http://instagram.com/hanglooseburgers",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "HANG-BURGER🇺🇸",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20200713_234/15945703646391oyJX_JPEG/RSN8VVV_oAakId76fb2DcSsS.jpeg.jpg"
+      },
+      {
+        "name": "CHEESE🧀",
+        "price": "7000",
+        "image": "https://ldb-phinf.pstatic.net/20200713_8/1594570394600OCTe2_JPEG/aWELooAys2fD0kRbjHvIXMls.jpeg.jpg"
+      },
+      {
+        "name": "AVOCADO🥑",
+        "price": "12000",
+        "image": "https://ldb-phinf.pstatic.net/20220106_240/1641473971963PYJAS_JPEG/465BB9CF-9C9E-4182-9167-D9422DC7BEBE.jpeg"
+      },
+      {
+        "name": "BACON",
+        "price": "9000",
+        "image": "https://ldb-phinf.pstatic.net/20220106_189/1641474015547hmA6M_JPEG/7139CC72-A02F-470C-89A2-305BBF8E78FC.jpeg"
+      },
+      {
+        "name": "더블치즈",
+        "price": "11000",
+        "image": "https://ldb-phinf.pstatic.net/20220106_215/1641474047989Xbc0O_JPEG/29DB3563-EE49-452D-9D27-4400F7697A8B.jpeg"
+      },
+      {
+        "name": "네쉬빌비프치킨",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20240613_270/1718267221357fn7s4_JPEG/61AF3C4C-EEFB-4C2C-B34B-C8B3EB09CF18.jpeg"
+      },
+      {
+        "name": "밀크쉐이크",
+        "price": "5500",
+        "image": ""
+      },
+      {
+        "name": "칠리",
+        "price": "9000",
+        "image": "https://ldb-phinf.pstatic.net/20200713_153/1594570465187wR6k6_JPEG/LgUJiSVN8Gh5AJf0QgXuc_Dy.jpeg.jpg"
+      },
+      {
+        "name": "쟈슨빌 스모크",
+        "price": "10000",
+        "image": "https://ldb-phinf.pstatic.net/20210414_292/16183710516461duwJ_JPEG/kjGnBBe8KW4PVzc4qzbdA4o4.jpeg.jpg"
+      },
+      {
+        "name": "치즈프라이즈",
+        "price": "7000",
+        "image": "https://ldb-phinf.pstatic.net/20200713_202/1594570522130LhKS4_JPEG/LHoOm61HonlRoOGuEH6e2zHH.jpeg.jpg"
+      }
+    ],
+    "microReview": "텍사스버거로 만나는 특별한 미식 여행",
+    "conveniences": [
+      "남/녀 화장실 구분",
+      "무선 인터넷",
+      "포장",
+      "배달"
+    ],
+    "roadGuide": "세이브존 근처,\n울산병원 맞은편 sk주유소 바로 뒤, 행복스튜디오 바로 옆으로 찾아오시면 됩니다.",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "울산 삼산동 수제햄버거 대표 맛집 “행루즈수제버거” 업스퀘어오픈/본점정보",
+        "url": "https://m.blog.naver.com/pink1859/224379570125",
+        "name": "안영양세요 ? !"
+      },
+      {
+        "title": "울산 삼산동 수제버거 맛집 행루즈버거, 정말 웨이팅할 만큼 맛있을까?",
+        "url": "https://m.blog.naver.com/travel__lol/224340073370",
+        "name": "찌롱이네 미니홈피"
+      },
+      {
+        "title": "울산 - 행루즈",
+        "url": "https://m.blog.naver.com/joohyung__/224339469528",
+        "name": "여행을 꿈꾸다"
+      }
+    ],
+    "reviewTotal": 1343,
+    "imageReviewCount": 568,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "메뉴",
+      "서비스",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "예전부터 방문해보고싶었는데 드디어 방문해봤어요 !\n매장분위기도 좋고 메뉴가 다양해서 다음에는 다른메뉴도 먹어봐야겠어요🫶🏻 특히 치킨버거 짱 맛",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjdfMTAx/MDAxNzg1MTQ1ODc4MzI1.m89R0yVY8UJSi0vsbipzKonLF9aBn2evNUhnh_3H-1og.mSuvN9UUDGAug3nCjcPLLRjjJj4ePwZUCV1jPaQWKrEg.JPEG/9447E156-48F9-4E1E-9D5D-22E4AD99CD16.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjdfMjAg/MDAxNzg1MTQ1ODc4MjA5.o-7dAF2uD0uCsrtkwu14u6FhHZd2dHIQ0i73RJAZXx8g.-7dieZ8GyrG4lPCLv1uViAZtm-_pkaRMAvuifjrMBawg.JPEG/2D0661E2-2C8F-4A44-A1E0-9879B20F8C7B.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "슈지닝74"
+      },
+      {
+        "body": "역시 울산수제버거는 행루즈!! 다음에 또 방문할께요!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMjE2/MDAxNzg2MjYyNzY1NjMy.Saq1RYfA4yDlASAKGFHyUVusQkDJWTzS2xJepJb7G1cg.GZTu4CPy1ie44P0tJLptzd6n4OeX9nxqBLYUKkOJF3Eg.JPEG/1786259508484.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfOTQg/MDAxNzg2MjYyNzY1NTQy.3-6mxONbVamVzXCL-c37uoui6Tefk6UGAYlAcP7PbJUg.LI4fECK3etIe2LydgeYeQB7mdJv488LRrfsP8qlNO88g.JPEG/1786259508602.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMTcg/MDAxNzg2MjYyNzY1NDg5.6WjrAJ_Nk8MYEC9EjoWIi4cHBvdv6RzsUqRUCEZ3XMEg.5yEBERDrZhogXBwr_Lr_lRlhl38mLKeBbLfG9T0kS98g.JPEG/1786259508550.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "P군"
+      },
+      {
+        "body": "감튀도 맛있고 햄버거도 수제버거라 그런지 맛있네요\n소고기 패티만 먹었는데 다른것도 맛있을듯해요\n오픈 하자 마자 가서 안기다리고 바로 들어갔는데 사람들 계속 오네요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MzBfMjc3/MDAxNzg1NDAzMjE2MzY1.AVm24ocixIM1FMgsOiIQcfNSs7PhuN8vEyLjWWAtFEcg.hxy8tNezfLzsCrBkSzraRegOLYXmquXLKXPj_CqAO9cg.JPEG/CC041C1F-8B66-4D5E-83FE-6EDE5FEFFD75.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "푸파후하"
+      },
+      {
+        "body": "진짜 예술입니다아 맛나다요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTFfMTQg/MDAxNzg2NDQ5ODc5Mzk5.P5mWP8kQR7QPEMM3zOY7lAuz9yhFsW05llZFQ4nuYSwg.1eyBPUtlziDh1Wwvyj9x198vVl7jX09OofwKbLpGM4Ug.JPEG/970F8D29-A073-450F-A840-BC676725C034.jpeg"
+        ],
+        "author": "로또우야"
+      },
+      {
+        "body": "행루즈버거🍔\n수제버거가 맛있습니다.😯\n음료🥤 및 사이드 메뉴는 특별한건 없습니다.\n햄버거집이니까 메인 메뉴인 햄버거🍔는\n종류도 다양하고 진심 맛있습니다.😋\n그만큼 생각나서 또 오게 됩니다.🤩\n울산에서 햄버거는 여기가 탑이지 않을까\n생각됩니다.✨",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAzMjJfMTEx/MDAxNzc0MTkwNTgxODY3.KvHOVqvVBiiH5s3DPQXlOuKGk999izhJiTAMNAtlPAAg.0avMgNf03AewGSMFf3Jg7VXgy_YL4j99OJfZ5ms5cQsg.JPEG/0A55E599-85EC-47CB-8C08-E224B0463DF9.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAzMjJfMTQ2/MDAxNzc0MTkwNTgxODM2.VMryyhGhkHZyqrgfBAFWFV18zZCHgnVOOB2z-VSQYH0g.qtgDn-4cR1BV_uViT2U-Fnxtwi0ipQm_xJzva5ESoMMg.JPEG/41FBB99C-7420-41FE-A70F-8E0AF392C3BA.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAzMjJfMjU3/MDAxNzc0MTkwNTgxOTMw._5Ys_HkRiobkQwsVm16Ogq8qAhRtmRyxQPdyNXsm8Cog.hFs5fMjEOnF_ELjrGYR7ahATPvTPbRPI4FCqclKBTBUg.JPEG/72C05D91-1E2E-4D88-9377-5A3596D34F8D.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "별다방0"
+      }
+    ],
+    "folderName": "맛집"
+  },
+  {
+    "id": "2032410399",
+    "name": "쿠시노아 광안리점",
+    "address": "부산 수영구 광안로61번길 73",
+    "roadAddress": "부산 수영구 광안로61번길 73 1층 쿠시노아 광안리점",
+    "region": "부산",
+    "district": "수영구",
+    "subRegion": "수영구",
+    "lat": 35.15601,
+    "lng": 129.12263,
+    "category": "술집",
+    "mcid": "BAR",
+    "naverCategory": "이자카야",
+    "phone": "",
+    "virtualPhone": "0507-1381-1342",
+    "hours": "18:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20250713_181/1752340031860Psy5m_JPEG/IMG_0561.jpeg",
+      "https://ldb-phinf.pstatic.net/20250713_112/17523400322846I9Lv_JPEG/IMG_0560.jpeg",
+      "https://ldb-phinf.pstatic.net/20250713_31/1752340031053rmXFh_JPEG/IMG_0559.jpeg",
+      "https://ldb-phinf.pstatic.net/20250713_78/1752340032000L50qs_JPEG/IMG_0558.jpeg",
+      "https://ldb-phinf.pstatic.net/20250508_181/1746678774901oSjAP_JPEG/%B8%DE%B4%BA%C6%C7%28no%B0%A1%B0%DD%29_02.jpg",
+      "https://ldb-phinf.pstatic.net/20250508_168/17466787710739wV1B_JPEG/%B8%DE%B4%BA%C6%C7%28no%B0%A1%B0%DD%29_01.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjhfMjAy%2FMDAxNzc3MzY5NTMwMDcx.krNQUstzxsIzpNXmYRWDFmdpEAl8DSiW4EgDmIITrrsg.sCPl2XqvTdWk8N9GUjZLbsD1rZyzcL4cfJxks4X2IbUg.JPEG%2Foutput%25A3%25DF167643924.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjhfMjA1%2FMDAxNzc3MzY5NTMyMTU1.82yiiR3MHRlHsXwY9snRYo6o3wUSw3YbBU3amZCJT3Ig.fnidLKqhmx8BGJfngxzCVaICT4On1yeMFYzTckCXFXcg.JPEG%2Foutput%25A3%25DF1505862354.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MTRfNjcg%2FMDAxNzc4NzE0NDYzMzgx._I_uqpc2osu-OriVdbvWjF_hhs6RN-KL91JRW-IQgH4g.Uwcaw0pIiTxyvLZcHBjaf8i2VluqsvlN0J58aq9Xf1Mg.JPEG%2Foutput%25A3%25DF726187470.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MTRfMjMw%2FMDAxNzc4NzE0NDgwMzk0.D0DIFV-4zXbeWlXpjWqg11mTAIMIXPr1xvCaCxrOCEAg.mQDv8Edl0D_iRtk33tKIUfYTUUXLbh8X7K2NOndZMakg.JPEG%2Foutput%25A3%25DF713848973.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjhfMjk0%2FMDAxNzc3MzY5NTI5NTk0.Lb7JA7ttFzwvXC_9alMP7s8qEtQ0XCujLBIzJG12Jvcg.Of6ro_mGudGHJoAqA51vLC9nwRo8CM-_nzt60tVSHEAg.JPEG%2Foutput%25A3%25DF1856341499.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjhfMTUw%2FMDAxNzc3MzY5NTMwNDY0.8Mafl1_qowkhEhTWQqTO2KtdN2OSdhTJYPs5ApAElsYg.-mI994IQaBanzFuAcRYzhEjEBHwexxrma6uyF3F3m-wg.JPEG%2Foutput%25A3%25DF686085539.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MTRfMzAw%2FMDAxNzc4NzE0NTczNjI4.bZ24b-cIh0EotHqqdagW9CD6vVp6dMGWq03gAMMrNKMg.yJVmmBVxJN_M17DZlZX3KXPpqwk-0HoPIjoL-iDY7UAg.JPEG%2Foutput%25A3%25DF3845560842.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MTdfMTk3%2FMDAxNzc4OTcxNTEwNjMx.XPH8ehkcdwPQWSNk61xeagakzOvU3vPZZOAFsQ5Y1gEg.ATX9pj740sCuSng5ujHp-N64JhVV4lJJjsMP55aqBGYg.JPEG%2Foutput%25A3%25DF2742266926.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA1MTdfMjAg%2FMDAxNzc4OTcxNTEwNTQx.zuY9BRQWT1bjRKTG4kYC4i52kifPUorvVf7qNinzUMEg.cTghwXl4vTD9HNh_b1Wrr_InMSeXTtwOtdhMr-C6P1Ag.JPEG%2Foutput%25A3%25DF3792977596.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20250713_181/1752340031860Psy5m_JPEG/IMG_0561.jpeg",
+    "reviews": "방문자 리뷰 288",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2032410399",
+    "instagramUrl": "https://www.instagram.com/kusinoa6638",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "수제꼬치5종",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_213/1746679972674zIHNR_JPEG/1.%BC%F6%C1%A6%B2%BF%C4%A15%C1%BE.jpg"
+      },
+      {
+        "name": "수제쌀어묵2인",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_111/1746679959595hSgws_JPEG/2.%BC%F6%C1%A6%BD%D2%BE%EE%B9%AC2%C0%CE.jpg"
+      },
+      {
+        "name": "수제꼬치3종+수제쌀어묵 세트",
+        "price": "21000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_231/1746679941894g4wFf_JPEG/4.%B2%BF%C4%A13%C1%BE%2B%BF%C0%B5%AD3%C1%BE.jpg"
+      },
+      {
+        "name": "수제꼬치3종+수제쌀어묵 세트+한우육회",
+        "price": "36000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_62/17466799218571yXbr_JPEG/5.%BC%F6%C1%A6%B2%BF%C4%A1_3%C1%BE_%2B_%28%BC%F6%C1%A6%BD%D2%BE%EE%B9%AC_3%C1%BE_%29_%2B_%C7%D1%BF%EC%C0%B0%C8%B8.jpg"
+      },
+      {
+        "name": "혼술참치(눈다랑어 뱃살)",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_89/1746679872707XnBnu_JPEG/3_%C8%A5%BC%FA%C2%FC%C4%A1_%B4%AB%B4%D9%B6%FB%BE%EE.jpg"
+      },
+      {
+        "name": "혼술참치(황새치 뱃살)",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_144/1746679858021cpKpS_JPEG/4%C8%A5%BC%FA%C2%FC%C4%A1_%C8%B2%BB%F5%C4%A1.jpg"
+      },
+      {
+        "name": "단새우 한판",
+        "price": "22000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_189/17466798423813FjJM_JPEG/%B4%DC%BB%F5%BF%EC%C7%D1%C6%C7.jpg"
+      },
+      {
+        "name": "참치사시미(황새치뱃살+눈다랑어뱃살)",
+        "price": "34000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_217/1746679823910BtMDb_JPEG/5_%C2%FC%C4%A1%BB%E7%BD%C3%B9%CC%28%C8%B2%BB%F5%C4%A1%2B%B4%AB%B4%D9%B6%FB%BE%EE%29.jpg"
+      },
+      {
+        "name": "우니 한판",
+        "price": "38000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_244/1746679806183FbLEv_JPEG/1_%BF%EC%B4%CF%C7%D1%C6%C7.jpg"
+      },
+      {
+        "name": "단새우+우니한판",
+        "price": "48000",
+        "image": "https://ldb-phinf.pstatic.net/20250508_215/1746679790383aLGzM_JPEG/2_%B4%DC%BB%F5%BF%EC%BF%EC%B4%CF%C7%D1%C6%C7.jpg"
+      }
+    ],
+    "microReview": "다양한 술과 함께 즐기는 광안리의 맛",
+    "conveniences": [
+      "무선 인터넷",
+      "간편결제",
+      "주차"
+    ],
+    "roadGuide": "새벽집 골목들어오셔서 세븐일레븐 건물입니다.\n주차는 앞골목 '형제주차장'에 하시면 한시간 무료 쿠폰 드리고 있습니다!",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "10명 이하"
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      },
+      {
+        "name": "테라스",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "입식",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "부산여행, 부산 광안리 맛집, 광안리 야키토리 맛집, 광안리 이자카야 “쿠시노아 광안리점” (닭염통,네기마,매운쯔쿠네)",
+        "url": "https://m.blog.naver.com/choi_gukhwa/224287864008",
+        "name": "초이의 특별한 일상들"
+      },
+      {
+        "title": "부산 광안리 이자카야 [쿠시노아 광안리점] 야키토리 오뎅바",
+        "url": "https://m.blog.naver.com/lindapark_/224334188478",
+        "name": "냐암"
+      },
+      {
+        "title": "부산 광안리 이자카야 추천, 야키토리 맛집 쿠시노아 광안리점",
+        "url": "https://m.blog.naver.com/inhe305/224270928277",
+        "name": "순간의 기록_ JOO로그"
+      }
+    ],
+    "reviewTotal": 288,
+    "imageReviewCount": 227,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "벌써 다섯번째 방문입니다 ㅎㅎ 맛있고 알차고 어묵 최고 그리고 꼬지는 진짜 맛있어용 다 맛잇어서 추천 앞에 주차 한시간 무료 광안리 이자까야는 여기가 최고",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTRfMjI4/MDAxNzg2NzEzMjU4MzU5.LpHcQai82n22m9vj85Y51Fc7XWD0xXy0dn9zRYWJI5Ig.UoC24XTQl4IiYLggk6myercqvPdGRQSCAC6u9aIjHOAg.JPEG/672F5F57-7837-4B3B-B9D1-ADCC23AC5ED8.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTRfMjY0/MDAxNzg2NzEzMjU3NTg0.lYgD69KKCgwftiUk_F3_HcJFqTkI6iu-ivG3IrHKjH8g.nEhIhRW35JaxEJjyUspUVKl4U8UywQ71Ty_HOX8zTKgg.JPEG/DC329AE6-E1B1-4E3F-B8A1-EE27310B8D95.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "이남미"
+      },
+      {
+        "body": "광안리에서 분위기 좋은 이자카야 찾다가 쿠시노아 다녀왔어요! 😊\n\n매장 분위기도 아늑하고 일본 감성이라 데이트하거나 친구랑 가볍게 술 한잔하기 좋았어요. 특히 야키토리가 생각보다 너무 맛있었고, 꼬치가 바로 구워져 나와서 따뜻하게 먹을 수 있어서 좋았습니다!\n\n광안리에서 분위기 좋은 이자카야 찾으시는 분들께 추천합니다! 💗",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTVfNTEg/MDAxNzg2Nzg3NjMyMzE3.eGP5cKSIhqQigvfoaRS3V85_l6ia-FXX_WeimPDoRVkg.thsar3Sjg9JUMMZBld5Ecs228v35vpuPtdUiLLl8iXMg.JPEG/FC4F874F-323F-4A2E-B7C8-412FC49BA6C1.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "이재연66"
+      },
+      {
+        "body": "닭껍질 정말맛있어요 진짜 어묵도 최고 벌써 두번째 방문입니다 조용하고 맛있고 너무 좋아요 다음에도 또와야지 번창하세영! 맛있어요 ㅋ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTZfMjE0/MDAxNzg0MjAxMDIwMDc3.WX2IWvwqBQakIluWFs3kXQZz_qWGwD9xsjhdpWsyUq0g.Fy9XnUSTwn4bbvH70NSz8OVvT8GY86NnP2MkRuxcg6Qg.JPEG/2DA50FEA-35FF-4570-AF52-81AFB53A664A.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTZfMTIz/MDAxNzg0MjAxMDIwMTg1.lju2cGIVP2hjAwpxg4MCQmkZn_-Jf_2fzDvrHeyrnUEg.5oW5IVh6j9Cpz1J8cJ0kOifkYW0jtO-NMVHxvZFUUS0g.JPEG/74E3BCA9-AE9D-4EFB-A7FB-1C2F8529FB99.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "이남미"
+      },
+      {
+        "body": "시원한 생맥주는 청량감이 좋아 오뎅 국물과 함께 즐기기 딱 좋았습니다.\n오뎅 꼬치는 국물이 깔끔하고 담백해 술안주로 부담 없이 먹기 좋았습니다.\n따뜻한 오뎅과 차가운 생맥주의 조합이 만족스러웠고 가볍게 한잔하기 좋은 곳이었습니다.\n간단하게 2차나 퇴근 후 들르기 좋은 분위기의 술집으로 추천합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjBfMTA1/MDAxNzg0NTUzNjc4MzI3.EJsiq_dgS_O75-iodQSia7DGkdA8cCTivAmPYJvPaikg.zYGkwxvIOlVKaF9lQthrRIU8aEqubEFmEltSAmMCvhsg.JPEG/321CBF7D-234B-414B-B117-BE3D101EDDAD.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "안녕해피코코"
+      },
+      {
+        "body": "4명이서 광안리에서 늦게 한잔하려고 방문했어요!\n네기마, 하쯔, 세세리, 모모니꼬 등 야키토리부터, 메뉴 하나하나 가격 부담이 적어서 여러 종류를 골고루 먹기 좋았습니다.\n\n기다리다가 12시 넘어서 입장했는데도 맛에 반했어요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTdfMTc3/MDAxNzg0MjE3Mzk1MjAy.ssJseZleAsVX9cLUwgBMZSZzF8ydogTSYmH23HcNlhMg.x5_g1-zck_--gD8MJCy3aYrNmPcn_A4Es59Z_3HZFG8g.JPEG/1000025297.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "김성수76"
+      }
+    ],
+    "folderName": "술집"
+  },
+  {
+    "id": "2008374668",
+    "name": "쿠시노아 전포점",
+    "address": "부산 부산진구 전포대로224번길 8",
+    "roadAddress": "부산 부산진구 전포대로224번길 8",
+    "region": "부산",
+    "district": "부산진구",
+    "subRegion": "부산진구",
+    "lat": 35.15647,
+    "lng": 129.06593,
+    "category": "술집",
+    "mcid": "BAR",
+    "naverCategory": "이자카야",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "18:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20250903_254/1756906228555T4ahF_JPEG/Screenshot_20250903_212654_Gallery.jpg",
+      "https://ldb-phinf.pstatic.net/20260329_183/1774787637423akkCK_JPEG/Screenshot_20260329_203010_Samsung_Internet.jpg",
+      "https://ldb-phinf.pstatic.net/20260329_130/1774787637364zXvvp_JPEG/Screenshot_20260329_202708_Samsung_Internet.jpg",
+      "https://ldb-phinf.pstatic.net/20250903_223/17569062045994fx7W_JPEG/Screenshot_20250903_215912_Samsung_Internet.jpg",
+      "https://ldb-phinf.pstatic.net/20250430_267/1745993156160WkWQy_JPEG/%B8%DE%B4%BA%C6%C7%28no%B0%A1%B0%DD%29_02.jpg",
+      "https://ldb-phinf.pstatic.net/20250430_296/1745993151693lmzjy_JPEG/%B8%DE%B4%BA%C6%C7%28no%B0%A1%B0%DD%29_01.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjUz%2FMDAxNzc3MDAzOTA4NTQy.NWxuwrWDu-wzx-t0CK3nLNg9hFX5bGrBBvEm7Zo1guog.ErFfIus4AHaWWp7FnjDFHo_t9yShlzwP0yZBLV04elMg.JPEG%2Foutput%25A3%25DF4212869102.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjgz%2FMDAxNzc3MDAzODQ5NTMy.JxFilYlrRw7FUx1cH97C0rhjuO0r3UYMtuI3TR4tViAg.vttP6DEDpUfSBOm0uzIWu1oBJ2_V0aNay_XojbtgU8Mg.JPEG%2FIMG%25A3%25DF2837.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMTIg%2FMDAxNzc3MDAzODU0MzYx.yiHW0IoIYUiXIhBV8sWy9mUawnCvP-qBxf8O9Xlfbqsg.WOCXRIc0DyPjh9Eh8Y3nMaZ1XSoK3gztKgzs1RdZnncg.JPEG%2FIMG%25A3%25DF2840.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjky%2FMDAxNzc3MDAzODU0ODAw.NXm52BwcbkjGEzh3qYUoMDAUfdNSoiJ8QUExQ1AyT3gg.4sbE9q4J0QEYKgyACEJulEDFPeQEDuPmQsvag3Dknlsg.JPEG%2FIMG%25A3%25DF2838.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjA1%2FMDAxNzc3MDAzODU0Mjgw.Hy96aH0NK9NNUeGm3rcWiDFTpSwkgqgWXlER3T9jrn8g._xIq6rV0yCXh2l3IaV2RwMrgTTWitPGeLqn8k2NSX3gg.JPEG%2FIMG%25A3%25DF2839.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjU4%2FMDAxNzc3MDAzODU0MzE0.s9rYj5i3BeuAMoLMefUjiLFZdYuyb_WelF2WGK_Kb_Yg.hXzzgfSmD9IMBTSXcMgz2NARllKvSjrRbKODW1wXqwYg.JPEG%2FIMG%25A3%25DF2841.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjUg%2FMDAxNzc3MDAzODUzOTk2.FxVC9fIc-HxjIwvVEHz6cBOpCJid_DDHaAJyVj8HDJIg.tMv8NK1JvkcyxGXUWh3USS8eLXTbz4902X6kwRYg3N8g.JPEG%2FIMG%25A3%25DF2842.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfMjA3%2FMDAxNzc3MDAzODU0Mjc0.MyAqECN3aMFEVLVPpUt_uqrynk-6X1aXzkaJoyL1Ar0g.xoMwAicnyF7vApOZABv3NEC3w7v_8q0ahuNcPOFjSjwg.JPEG%2FIMG%25A3%25DF2843.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA0MjRfNTcg%2FMDAxNzc3MDAzODUzNDk0.vYqKiUXOcyc4HoZvjBiD7ogXcxADiq6nRdBRaf5dB5og.4olSwVyUXk5WDnJ0MPJvxg-QW1F0txWffLqRpTxNH0Ag.JPEG%2FIMG%25A3%25DF2844.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20250903_254/1756906228555T4ahF_JPEG/Screenshot_20250903_212654_Gallery.jpg",
+    "reviews": "방문자 리뷰 393",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2008374668",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "수제꼬치5종",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_96/1745995144048qIs64_JPEG/1.%BC%F6%C1%A6%B2%BF%C4%A15%C1%BE.jpg"
+      },
+      {
+        "name": "수제쌀어묵2인",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_282/1745995129124r7wfL_JPEG/2.%BC%F6%C1%A6%BD%D2%BE%EE%B9%AC2%C0%CE.jpg"
+      },
+      {
+        "name": "수제꼬치3종+수제쌀어묵 세트",
+        "price": "21000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_271/1745995102014wAVJx_JPEG/4.%B2%BF%C4%A13%C1%BE%2B%BF%C0%B5%AD3%C1%BE.jpg"
+      },
+      {
+        "name": "혼술참치(눈다랑어 뱃살)",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_261/1745995035832MpyEs_JPEG/3_%C8%A5%BC%FA%C2%FC%C4%A1_%B4%AB%B4%D9%B6%FB%BE%EE.jpg"
+      },
+      {
+        "name": "혼술참치(황새치 뱃살)",
+        "price": "19000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_206/17459950142324A8k4_JPEG/4%C8%A5%BC%FA%C2%FC%C4%A1_%C8%B2%BB%F5%C4%A1.jpg"
+      },
+      {
+        "name": "단새우 한판",
+        "price": "24000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_164/1745994994687KuW3o_JPEG/%B4%DC%BB%F5%BF%EC%C7%D1%C6%C7.jpg"
+      },
+      {
+        "name": "참치사시미(황새치뱃살+눈다랑어뱃살)",
+        "price": "34000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_245/1745994971740UCO8z_JPEG/5_%C2%FC%C4%A1%BB%E7%BD%C3%B9%CC%28%C8%B2%BB%F5%C4%A1%2B%B4%AB%B4%D9%B6%FB%BE%EE%29.jpg"
+      },
+      {
+        "name": "우니 한판",
+        "price": "38000",
+        "image": "https://ldb-phinf.pstatic.net/20250430_163/1745994949926zAPaR_JPEG/1_%BF%EC%B4%CF%C7%D1%C6%C7.jpg"
+      },
+      {
+        "name": "메로 구이",
+        "price": "28000",
+        "image": "https://ldb-phinf.pstatic.net/20260422_22/1776783627857zs7dc_PNG/1776440364015.png"
+      },
+      {
+        "name": "한우육회 100g",
+        "price": "18000",
+        "image": "https://ldb-phinf.pstatic.net/20260501_282/17776294855117F4Nr_PNG/Gemini_Generated_Image_3gpw7k3gpw7k3gpw.png"
+      }
+    ],
+    "microReview": "아늑한 일본풍 이자카야의 정석",
+    "conveniences": [
+      "무선 인터넷",
+      "단체 이용 가능",
+      "예약",
+      "반려동물 동반"
+    ],
+    "roadGuide": "전포역 8번출구 직진 500m",
+    "nearestSubway": {
+      "name": "전포역",
+      "exit": "8",
+      "walkTime": 5
+    },
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "6명 이하"
+      },
+      {
+        "name": "좌식",
+        "description": ""
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "부산 전포동 이자카야 분위기좋은 술집 데이트 추천 | 쿠시노아",
+        "url": "https://m.blog.naver.com/queen9336/224263655552",
+        "name": "열심히 사는 워니의 일상❤️"
+      },
+      {
+        "title": "부산 전포 술집 전포동 이자카야 야키토리 쿠시노아 전포 후기",
+        "url": "https://m.blog.naver.com/goku1994/224358648121",
+        "name": "리게뷰"
+      },
+      {
+        "title": "전포야키토리 쿠시노아, 수제꼬치와 쌀어묵 즐기는 전포오뎅바",
+        "url": "https://m.blog.naver.com/alwayuz/224367150954",
+        "name": "아마도 즐거운 삶"
+      }
+    ],
+    "reviewTotal": 393,
+    "imageReviewCount": 305,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "간만에왔는데 역시 육수는 물론이고 꼬지랑 오뎅 둘다 넘 맛있고 좋아용❤️❤️",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTJfMjc5/MDAxNzg2NTM0MjA3ODkx.g4FBWOHtyC2aAgsXXAaLxoReSMBgpaHGKha9OYEn3_gg._4QjlRAwgARiqn9szFCXTocdlhBTxnDBdC_oU6R-iLMg.JPEG/20260812_201700.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTJfMTcg/MDAxNzg2NTM0MjA3ODkz.1AIFBcbdlIs46Acc-2Nsy9HPPMlq-jtGeU8lO45exQsg.FM24cI5vY4w1p_rDh4nwr7oBZNH-LyZ02_l3xKreiR0g.JPEG/20260812_201136.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "지니유896"
+      },
+      {
+        "body": "전포야키토리 맛집\n쿠시노아 전포\n오뎅\n야키토리, 튀김\n맥주\n혼술로 좋아\n\n쿠시노아만의 가성비 구성 맛은 언제나 만족",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MzBfNzkg/MDAxNzgyODA2Nzk4MTQw.cCc3LJMlHT0Jm5qQr6R3juIkF7aQpQJP7suCDHF_q2og.jCvfCVELkD0ghFyfwowO3w8Amrk62GTl8QIVUmiTwckg.JPEG/20260629_194327.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MzBfMTA4/MDAxNzgyODA2Nzk4MzM3.5dauh3ST9EQM2BwNK5WpolJfKFX5JUeRZwjHQ2D4kIcg.YoigqEL3owG56Y-BPO3HQxTnZh6uxDe2-ZiGFrKud8sg.JPEG/20260629_194815.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MzBfNzIg/MDAxNzgyODA2Nzk4NTc5.oo3FEq8hXUj6LcpyLWhoZqBT3IvXw7mq5908yuPVjLAg.DJ4isLO8PLLsAJFpLzFiDJQ5LVJSYdP-RIPgffxF9VYg.JPEG/20260629_194855.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "방콕맨"
+      },
+      {
+        "body": "분위기 너무 좋고 아담하니 술먹기 짱이네요 안주도 맛나고 추천합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDZfMjYw/MDAxNzg2MDE4OTE0ODg1.onmZko7ftYQVysyeqPloFn_G721JBRyLRgeHLA1_y9Ug.puDewfrbXLZa-8JYDxD4uvogNvp5A08ORrfuvhlYuLEg.JPEG/1000033744.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDZfNyAg/MDAxNzg2MDE4OTE0MDMx.kcKLvB2QULC35LfvfCl765GXOqq6jL_jL7KiXYGVIg0g.aQlMhzpKLmHdUBJwI-RiPJUewb882xFUurChdRykyOgg.JPEG/1000033745.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "mag****"
+      },
+      {
+        "body": "오뎅국물이 맛있어요! 대화하기 ㄴ좋아요\n클라우드 4000원",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjlfMjQ4/MDAxNzg1MzI5MTkxODg1.FoDUG2X3c7pZbQjZ4rxsimBSPTclPgstNFfs6sf6K0Ag.1FCTDkGQitCVi2A_fWdUOnZC8x-7nacWpqcCquMdMV0g.JPEG/B3BD81C6-493B-4BDB-B23C-310401098408.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjlfMTg3/MDAxNzg1MzI4MDA4NjQ3.uFO-BXhhaMcJYbCfUuYse0cc3_6DuQlQ7V53jIn8GrAg.UIoQLc6Y1JvUWsmcJau9z38NOT9E7Y4dp4rVVkpMCKcg.JPEG/0C9B83A8-58B2-4D72-84EA-77B85D7E46D6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjlfMjUg/MDAxNzg1MzI4MDA4NzE1.8xKWBjSgMd19SQay4XcSEAPC9zijrlJgUyjGij4lGI4g.y36z45bU5XBmQ8ZGvtvdZMgI9Sqb_X-MNdIXHR8eEMIg.JPEG/7718FEF0-0EC6-486B-84F6-40AA762C23F4.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "붓붓구구"
+      },
+      {
+        "body": "전포에서 간단히 2차하기 너무좋은 이자카야에요👍🏻👍🏻👍🏻👍🏻",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTBfOTQg/MDAxNzgzNjQ5MTQwNDQ0.3CAUNgnoAKzd-1rnlWk-Djdm5lRHQYtfJIRHGj69Vlog.f6VclGipjJR_GfHkzhhoTgTEy7FXPHsh-c1HWSEupQgg.JPEG/41365236-6F18-4399-8433-530EED1114DB.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTBfMzAg/MDAxNzgzNjQ5MTQwNDg5.Db3pydeLGAovy-luXX_CqGWHo21qlzNauLFDqI1JcO0g.r4w1aZgoRUhz8H9Rt7kzCKWRbOF5MZd96hCZrUsgI_wg.JPEG/8F003DC5-6977-4232-ACBA-89BCBADED549.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTBfMTQg/MDAxNzgzNjQ5MTQwNTI4.OC49PWA8wRaFeezk1M8ZsUDkLavJe7bGM98ExF2S9mcg.42vEMiEfi5AE0Xrx0remdgsKpT3TQTq3HKqTCiKe5Xkg.JPEG/5B2C131D-345B-4E7E-882D-186417011E36.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "JJEONGii"
+      }
+    ],
+    "folderName": "술집"
+  },
+  {
+    "id": "1104681231",
+    "name": "야키토리이치에 전포 본점",
+    "address": "부산 부산진구 서전로58번길 34-2",
+    "roadAddress": "부산 부산진구 서전로58번길 34-2 1층",
+    "region": "부산",
+    "district": "부산진구",
+    "subRegion": "부산진구",
+    "lat": 35.15627,
+    "lng": 129.06579,
+    "category": "술집",
+    "mcid": "BAR",
+    "naverCategory": "이자카야",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "17:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230420_115/1681962996962Cj390_JPEG/20230417_221240.jpg",
+      "https://ldb-phinf.pstatic.net/20230829_135/1693236923134hwFzY_JPEG/20230826_205844.jpg",
+      "https://ldb-phinf.pstatic.net/20230829_187/1693236967514io7zV_JPEG/20230828_142420.jpg",
+      "https://ldb-phinf.pstatic.net/20230829_48/1693236967016taeJX_JPEG/20230828_142409.jpg",
+      "https://ldb-phinf.pstatic.net/20251201_136/1764594220842COUYt_PNG/1764594063376.png",
+      "https://ldb-phinf.pstatic.net/20251201_96/1764594213138bzmFi_PNG/1764594064545.png",
+      "https://ldb-phinf.pstatic.net/20251201_171/17645942041714gegt_PNG/1764594065717.png",
+      "https://ldb-phinf.pstatic.net/20251201_128/1764594197022tyGYp_PNG/1764594068379.png",
+      "https://ldb-phinf.pstatic.net/20251201_98/1764594181519AWuuU_PNG/1764594073172.png",
+      "https://ldb-phinf.pstatic.net/20251201_224/1764594188675I52Rl_PNG/1764594069827.png",
+      "https://ldb-phinf.pstatic.net/20251201_161/176459417655023g8H_PNG/1764594071340.png",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTFfMTkg%2FMDAxNzYwMTg5NzMzNTAw.VRO22Z3OnbFe1utOaSP-3N-914D8HoPb5wO3ADZt-Y8g.ajFBWWRvi-l1rcz_OdvDF4gb9aVCehw9psRYQ7fPghkg.JPEG%2F900%25A3%25DF1760189733319.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTFfMzQg%2FMDAxNzYwMTg5NTA5Mzk4.s0EztJZWTvpJDLoIzxcb5l4DfiGG6XMnbSvbQJD4O1cg.Bmu5D7ORbaw2XAmMx64wpmkZQjQC3UcK8j1ya3dlcdYg.JPEG%2F900%25A3%25DF20251011%25A3%25DF181045.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTFfMjIg%2FMDAxNzYwMTg5NTA1OTEx.Aauhk7tWLdFbpJrK-nDodawR7GHV0TpY_ucoeqvZLxYg.NE5AnRFiXXImucpFkcoaOB_yf2cFDy_f7hFAri4s8t4g.JPEG%2F900%25A3%25DF20251011%25A3%25DF184509.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTFfMTAg%2FMDAxNzYwMTg5NTA1MTAx.5E4IsvrP6LIDxVid6AI8DL6BF-rNcPrPcfEwDovXwJAg.A6SmsBh0BY6lA0f-QDsZRZB2Xxnz5Q3zbK19pWd8AqQg.JPEG%2F900%25A3%25DF20251011%25A3%25DF181053.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20230420_115/1681962996962Cj390_JPEG/20230417_221240.jpg",
+    "reviews": "방문자 리뷰 837",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1104681231",
+    "instagramUrl": "https://www.instagram.com/yakitori_icie",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "3꼬치 코스",
+        "price": "12900",
+        "image": "https://ldb-phinf.pstatic.net/20251201_147/1764594286939rceus_PNG/1764594063376.png"
+      },
+      {
+        "name": "5꼬치 코스",
+        "price": "16900",
+        "image": "https://ldb-phinf.pstatic.net/20251201_59/176459429880373kkX_PNG/1764594063376.png"
+      },
+      {
+        "name": "7꼬치 코스",
+        "price": "21900",
+        "image": "https://ldb-phinf.pstatic.net/20251201_159/1764594310454fPAKu_PNG/1764594063376.png"
+      },
+      {
+        "name": "츠쿠네",
+        "price": "4400",
+        "image": "https://ldb-phinf.pstatic.net/20230423_6/1682251900590nRoVr_JPEG/20230421_193126.jpg"
+      },
+      {
+        "name": "우동",
+        "price": "8900",
+        "image": "https://ldb-phinf.pstatic.net/20241227_128/1735304901265fOAEf_JPEG/%BF%EC%B5%BF.jpg"
+      },
+      {
+        "name": "마제덮밥",
+        "price": "11900",
+        "image": "https://ldb-phinf.pstatic.net/20241227_206/1735304931740UXWKO_JPEG/%B8%B6%C1%A6%B5%A4%B9%E4.jpg"
+      },
+      {
+        "name": "야키토리덮밥",
+        "price": "7900",
+        "image": "https://ldb-phinf.pstatic.net/20250703_63/1751516375268OopXl_JPEG/IMG_8450.jpg"
+      },
+      {
+        "name": "메밀소바",
+        "price": "9900",
+        "image": "https://ldb-phinf.pstatic.net/20250703_78/175151644116670zdm_JPEG/%B8%DE%B9%D0%BC%D2%B9%D9.jpg"
+      },
+      {
+        "name": "목살튀김",
+        "price": "12900",
+        "image": "https://ldb-phinf.pstatic.net/20241227_31/1735304957276F6Ti4_JPEG/%B8%F1%BB%EC%C6%A2%B1%E8.jpg"
+      },
+      {
+        "name": "마제두부튀김",
+        "price": "9900",
+        "image": "https://ldb-phinf.pstatic.net/20250703_209/1751516418931WUNjG_JPEG/%B8%B6%C1%A6%B5%CE%BA%CE%C6%A2%B1%E8.jpg"
+      }
+    ],
+    "microReview": "츠쿠네로 느끼는 일본의 맛",
+    "conveniences": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "반려동물 동반",
+      "대기공간"
+    ],
+    "roadGuide": "전포 헬로비전 건물 맞은편쪽 사이골목에 위치해 있습니다\n편하게 확인 하실수있게 골목 앞에 간판 새워 놓겠습니다^^",
+    "nearestSubway": {
+      "name": "전포역",
+      "exit": "8",
+      "walkTime": 4
+    },
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "최소 3명 ~ 최대 20명"
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      },
+      {
+        "name": "테라스",
+        "description": ""
+      },
+      {
+        "name": "루프탑",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "좌식",
+        "description": ""
+      },
+      {
+        "name": "입식",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "[부산 전포 맛집] 야키토리이치에 전포 본점",
+        "url": "https://m.blog.naver.com/auna3128/224039300064",
+        "name": "호두로그"
+      },
+      {
+        "title": "전포에서 간단하게 한잔하기 좋은 이자카야 술집 야키토리 이치에 전포 본점",
+        "url": "https://m.blog.naver.com/yun9309/224316414752",
+        "name": "석희라이프"
+      },
+      {
+        "title": "부산 전포동 야키토리 이치에 전포 본점",
+        "url": "https://m.blog.naver.com/jsd5155/224312620597",
+        "name": "개코냐옹이 시즌 ②"
+      }
+    ],
+    "reviewTotal": 837,
+    "imageReviewCount": 635,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "야키토리이치에 얼마전에 먹어보고 너무너무너무x10000 맛있어서 친구들한테 꼭가보자하고 바로왔어요\n진짜 전포 미슐랭 맛집에 뒤지지 않을 정도로 맛있다생각하구  만간에 제 블로그 리뷰도 갑니다... 진짜 번창하시길🩷",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MThfODgg/MDAxNzg0MzcxNDYxMTI4.iF4W4JHn7M82emCZeu2SwYgC-KHCAY7CUAVcGMl5qsQg.NcvAj5Cze23FUAO9ianePtQk0j-PlBFQV98RkcML2ZEg.JPEG/20260718_192248.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MThfMjcy/MDAxNzg0MzcxNDYwOTIx.MjV_sGxjC2efD3x7P5vXFsyO_G8v8fZYWBWrmvlinnAg.kzWA8KpRCkeR0-0nlJwlFOdaUTX1e7gFcaEHTA2bbF8g.JPEG/20260718_191715.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "zone****"
+      },
+      {
+        "body": "꼬치 하나하나가 정성스럽게 구워져 불향이 정말 좋았습니다\n재료도 신선하고 간도 딱 맞아서 맛있게 먹었어요\n분위기와 직원분들 응대까지 만족스러워서 다시 방문하고 싶은 야끼토리집입니다🙂😊",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjFfMjcw/MDAxNzg0NjM4ODY5Mzc1.DpYVnaruryixVby_15Ww29Ux0ac55OjLIBQTXenDAgkg.0L0Jb8H24CKLqByQ7DLcOGu8pjvh2LiSvRHf0t-MGbkg.JPEG/29DA0AF5-AA4C-4692-9768-5C38072EF115.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjFfMTAg/MDAxNzg0NjM4ODYzOTAx.9J-o9eSfmMWyma-UjNvWcIAdPaOM_0cO7QPPqkcwZI0g.YEaFY2gEtkz3IthWv9yM4Xhl3GSxjB4Fo8o0a496dvIg.JPEG/5C8405E2-1810-4C81-933D-F75164181B1B.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "hya****"
+      },
+      {
+        "body": "남편이 야키토리를 좋아해서 먹으러왔어요 !\n식사메뉴나 요리, 사이드 등이 많아서 이것저것 다양하게 먹어보고싶은데 기본적으로 야키토리 1인1세트 고정인거는 조금 아쉽지만 야키토리류는 다 맛있게 잘 먹었어요 :)\n오차즈케는 어향이 많이나는 편인 것 같고, 여태까지 먹어본 스타일과는 색달라 매력있습니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfNTgg/MDAxNzgwNDc4NzQ0OTIy.F3XIhWrdQWvSB7LvLRDw3dBnz-xVvqTF9tEpluZlTUMg.yRwZnuVabSszlfbtnVTQgNQHMla1ZrvFGBIXf8WHPx0g.JPEG/BBF69B2C-0E04-40FD-9145-DA2542631458.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTQ0/MDAxNzgwNDc4NzQyOTMx.1NMkG5tVL_OWZdyjlxOTGuvVEUedpd5uQsdvb-yYVccg.ZGLmBlZalNuuz66snJ6o8CSOZP241X2ISrUTSAs8tocg.JPEG/77699349-C573-45CE-93AE-73CEBBCEC080.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfMTAz/MDAxNzgwNDc4NzQ0MTY5.OjJvRYGrxYn9EKvLL1nzhwpLcH1qtu7Y2gwT9NustOMg.X4pOabvZPGty_79jRHMFpg0Z-18X97d_WQJbvUyeQsIg.JPEG/8198817E-88AA-4851-B576-019852E0B8A0.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "빵과장"
+      },
+      {
+        "body": "전포에서 야키토리 먹고 싶어서 방문한 야키토리 이치에!\n\n매장 분위기부터 일본 느낌이 물씬 나서 좋았고, 전체적으로 조용하고 아늑한 분위기라 술 한잔하면서 이야기 나누기에도 좋았어요.\n\n야키토리는 코스로 주문했는데 하나씩 구워서 나와서 그런지 따뜻하게 먹을 수 있어서 좋았고, 꼬치마다 맛과 식감이 조금씩 달라서 먹는 재미도 있었어요. 특히 닭고기가 촉촉하고",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMjEw/MDAxNzg2MDk4OTg2ODIy.azd5EXqS3qiG2pepcA1V5RXFSiyjsZn-08YyYk4Opusg.hfKxxDNTw53-PU7Em7zErW5sbQCSgXP1JWNvQInp1d0g.JPEG/A47BE7FE-E797-4F5F-852D-64FECD5ED549.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "gus****"
+      },
+      {
+        "body": "평일 오후 웨이팅 없이 바로 입장했습니다.\n친구 생일 축하하러 왔는데 가게 내부가 예쁘고 분위기 있어서 좋았어요.\n츠쿠네 부드럽고 너무 맛있고 닭목살 날개살도 맛있었어요!\n야키토리 7종 메뉴 추천합니다!\n\n오꼬노미야끼와 고등어 솥밥도 먹었는데 맛있었어요. 요리류도 다양해서 좋았습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjhfODkg/MDAxNzc3Mzc1Njc5OTI0.hPTiUCVBXetibS5_6Fw5k0TS9nzTsleUlWeriJj0k-Qg.bGXYfII8WfRZ3oy7S9pqoPzhZuNKS6jLflQhCeTzWRAg.JPEG/297BA4BE-2EF3-47AC-8E01-5A8278835954.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjhfMjQ5/MDAxNzc3Mzc1Njc4MTMw.YRpMrzM-gYINB92vJ9HZR5mbZz33Af-JzutdKWWa7ucg.ZUS3nxURdQ1MR6Acou9bYtzoIA5V4z3l89EZH9XDTjUg.JPEG/A37AB3FF-7BB7-40F7-9B66-DAC5BC3ED466.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MjhfMTI3/MDAxNzc3Mzc1Njc5MDQ4.T3flacG_KRbkeuLt2o23CZhMRFdfnYlmR2SWVzDmW0og.DOVKTERZ5dJ2ZknjszYdkBHyYWMbU-y_bP7xJe0arVMg.JPEG/F6756DB2-2366-48A3-B9AE-2DFC69A2A22F.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "sj****"
+      }
+    ],
+    "folderName": "술집"
+  },
+  {
+    "id": "1589457295",
+    "name": "전포 숨은",
+    "address": "부산 부산진구 전포대로255번길 11",
+    "roadAddress": "부산 부산진구 전포대로255번길 11",
+    "region": "부산",
+    "district": "부산진구",
+    "subRegion": "부산진구",
+    "lat": 35.15928,
+    "lng": 129.0645,
+    "category": "술집",
+    "mcid": "BAR",
+    "naverCategory": "이자카야",
+    "phone": "",
+    "virtualPhone": "0507-1344-0619",
+    "hours": "17:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20251007_145/1759828278768hWhyM_GIF/%BC%FB%C0%BA.gif",
+      "https://ldb-phinf.pstatic.net/20240914_179/1726292626639cxFP3_JPEG/KakaoTalk_20240913_234209306.jpg",
+      "https://ldb-phinf.pstatic.net/20240914_79/1726292623245wTUpz_JPEG/KakaoTalk_20240913_234209306_01.jpg",
+      "https://ldb-phinf.pstatic.net/20240112_53/1705026313094vaSDo_JPEG/IMG_4181.jpeg",
+      "https://ldb-phinf.pstatic.net/20260715_154/1784074118385Wpc7W_JPEG/2026-07-15_09_03_44.jpg",
+      "https://ldb-phinf.pstatic.net/20260715_289/1784074115184hAxhm_JPEG/2026-07-15_09_04_15.jpg",
+      "https://ldb-phinf.pstatic.net/20260715_169/1784074112482teHuk_JPEG/2026-07-15_09_04_32.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfNzgg%2FMDAxNzY5OTU5NTk3NjYx.2xrRhlEgKUCp-bl6N-mqNkmzL7Hd2T4ZdFGmPHHNUJMg.jaQS9yGElmP0miQPkxpOy0EaiQiImiVJn-2UREnSTdAg.JPEG%2F900%25A3%25DF20241122%25A3%25DF202534.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMjM1%2FMDAxNzY5OTU5NzAwODA2.wXAY5pnqnk8wLjE6TetP_VbxV6QuzCEhqqLjXb_78msg.lid1-lDmXo9P_xe829bTH6sopU-yuw-dW9EWw1zsW70g.JPEG%2F900%25A3%25DF20241122%25A3%25DF203106.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMTQ1%2FMDAxNzY5OTU5NzEyMzMy.hZsnTEZY2MH1jCiGCmiLcuBDnNOpJjosB30oM_-1U5Ug.r53CBSE9GyOp0WUgKJkaTvh2l-1VbJG0-8CDc4il5U4g.JPEG%2F900%25A3%25DF20241122%25A3%25DF203555.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMTE4%2FMDAxNzY5OTU5NjkxOTI4.KWn8rjTf5mR0gon8I6rdhLFOwPm0UTL9-98OWREwVbsg.qIH61RRbm9Dmi7ystfzxJ24wF5vF-gGnolPyfO-PtB0g.JPEG%2F900%25A3%25DF20241122%25A3%25DF203601.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMjEx%2FMDAxNzY5OTYwNDU3MjM2.UeQTT0cO4GvjfJCN9hauY8ZzNSwt-5JAGHH7X528mBUg.Tv5dgCAEw1G4rmVImyh6SwX3NdwtiTAfPP2Ei8sTyKkg.JPEG%2F900%25A3%25DF20241122%25A3%25DF205926.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMzYg%2FMDAxNzY5OTYwNDQ2Mjky.aXXJXp-bn2uw0GkhJYUiXXyFTWgu8_AbRSBCdSOD238g.XmDDDL9uQYuLQ6ewcALMu9sBheboRyEnhJgwxLSNSDQg.JPEG%2F900%25A3%25DF20241122%25A3%25DF211010.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMTUx%2FMDAxNzY5OTYwNjEyMTc0.PtRpItCEFnBU6YSbLWJ3MkVO8B1lYOh13jRDGKZdGScg.uYOfnwGdWieSdbnJf2AunrFGZv4NtvZwFuhlznJaDx4g.JPEG%2F900%25A3%25DF20241122%25A3%25DF210445.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAyMDJfMTk1%2FMDAxNzY5OTYwNzY3MzEx.hvo7flk7rBo1YSlZ6SpZkw7vPUnbMsdJpRVqjHrc4vYg.NpZvZx892iAPgjvNodKnKibMTv_UiIyhHYfRueyrK_og.JPEG%2F900%25A3%25DF20241122%25A3%25DF211014.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20251007_145/1759828278768hWhyM_GIF/%BC%FB%C0%BA.gif",
+    "reviews": "방문자 리뷰 1,173",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1589457295",
+    "instagramUrl": "https://www.instagram.com/sumeun_92",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "(NEW) 갈릭목살로스",
+        "price": "21000",
+        "image": "https://ldb-phinf.pstatic.net/20260610_70/1781067387158FqksA_JPEG/KakaoTalk_20260610_135104264.jpg"
+      },
+      {
+        "name": "오코노미야키",
+        "price": "19000",
+        "image": "https://ldb-phinf.pstatic.net/20240112_166/1705027728442SNiyo_JPEG/IMG_4100.jpeg"
+      },
+      {
+        "name": "스키야끼",
+        "price": "27000",
+        "image": "https://ldb-phinf.pstatic.net/20250808_16/1754629936506BahhO_JPEG/IMG_0184.jpg"
+      },
+      {
+        "name": "꼬치오마카세6종 (선택가능)",
+        "price": "19000",
+        "image": "https://ldb-phinf.pstatic.net/20240112_159/17050277060674pcQz_JPEG/IMG_4093.jpeg"
+      },
+      {
+        "name": "(NEW) 죠스하이볼",
+        "price": "9000",
+        "image": "https://ldb-phinf.pstatic.net/20260610_209/1781067377486SERds_JPEG/KakaoTalk_20260610_135105110.jpg"
+      },
+      {
+        "name": "꼬치오마카세 4종 + 스키야끼",
+        "price": "36000",
+        "image": ""
+      },
+      {
+        "name": "꼬치오마카세 6종 + 오꼬노미야끼",
+        "price": "36000",
+        "image": ""
+      },
+      {
+        "name": "꼬치오마카세 6종 + 나베",
+        "price": "36000",
+        "image": ""
+      },
+      {
+        "name": "삼겹새우",
+        "price": "4500",
+        "image": ""
+      },
+      {
+        "name": "삼겹아스파라거스",
+        "price": "3500",
+        "image": ""
+      }
+    ],
+    "microReview": "분위기 좋은 이자카야의 정석",
+    "conveniences": [
+      "예약",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "단체 이용 가능"
+    ],
+    "roadGuide": "숨은 이자카야 찾아오는 길\n\n<자차 이용 시>\n주차 공간은 따로 마련되어 있지 않아 인근 공영주차장을 이용을 권해드립니다.\n\n<지하철 이용 시>\n부천역 부산1호선 2번출구에서 도보 5분 거리에 있습니다.\n\n<도보 이용 시>\n전포초등학교 하차 시 도보 3분 거리에 위치해 있습니다.\n지도상의 주소는 건물 앞쪽이고 숨은은 그 건물 뒤편에 위치하고 있습니다! 건물을 둘러서 뒤편으로 돌아오시면 됩니다 :)!\n\n아래 요약 정보 남겨드리고, 혹시 저희 전포동술집 찾기가 어려우시다면 언제든 문의 주세요!\n\n- 부산 전포초등학교에서 도보 3분거리\n 노루페인트 앞 공사장 오른쪽 골목\n\n-부산진소방서 도보 직진 5분거리\n  키튼커피 공사장 사이 골목위치",
+    "nearestSubway": {
+      "name": "부전역",
+      "exit": "2",
+      "walkTime": 6
+    },
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "12명 이하"
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "전포동 이자카야 숨은",
+        "url": "https://m.blog.naver.com/nuri060525/224168041366",
+        "name": "부산미식가"
+      },
+      {
+        "title": "부산 이자카야 맛집 [숨은]",
+        "url": "https://m.cafe.naver.com/directwedding/6552017?query=%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%20%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84",
+        "name": "다이렉트 결혼준비"
+      },
+      {
+        "title": "부산 전포동 술집 일본 감성 야장 숨은 이자카야",
+        "url": "https://m.blog.naver.com/sooji2610/224368968912",
+        "name": "—S00Ji—̳͟͞͞♡"
+      }
+    ],
+    "reviewTotal": 1173,
+    "imageReviewCount": 835,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "목적"
+    ],
+    "visitorReviews": [
+      {
+        "body": "일층은 ㄱ자 다지석과 함께 혼술 및 데이트하기도 좋고\n이층은 2인과 4인테이블이 많아서 소모임이나 단체모임하기 좋은데\n역시 최고는 전포 야장 술집으로 유명한 만큼\n낭만을 즐기며 야외에서 한 잔하는거죠 ㅎㅎ\n안주도 맛있는데 분위기가 더 좋으니까\n날 좀 선선해지면 개뿌수러 오겠습니다\n전포 숨은 이자카야 숨은! 추천!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDNfMTAg/MDAxNzg1NzY1Njg5NjU5.jc6c1rqrI28iK5qaMP-z0PGFI7FOZqoj7K9YlDxzqk4g.mwukTeLBAHJQ0xeAn1uhC51Vyy5YDYj_Hfxe79j6a24g.JPEG/IMG_8584.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDNfMTUg/MDAxNzg1NzY1Njg5MTc4.9gp6PeELKivUL0C6p8fDaXKS6-EIiwKdN8n-z06w-w0g.l0WZN3YH794YLbhQIfaf2bmlK9cfMC_J--7M6JzyrSEg.JPEG/E5103C95-F74E-430D-8AC5-43CA0CAB9509.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDNfMjY5/MDAxNzg1NzY1Njg5MjA0.Fxc3ERzwNyjbqf-YcN3xJGRrzz9qCn-pnMaR6wuDb9Yg.TT6d2aLc1nffmfYlgQcsQHmOZnJeb4TYMfVXc44mC-sg.JPEG/6FB85A1A-7244-4D11-A492-63960D98CAF7.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "don****"
+      },
+      {
+        "body": "N번째 방문인데 \n진짜 술이 술술 들어가요!...안주가 맛없는거\n고르는게 더 어려울거같아요ㅠㅠㅠㅠ\n빙어도 맛있고 그냥 여기가 일본이예요 여러분\n꼭 오세요!!\n여름엔 야장인거 아시죠\n야장자리도 느낌있어서 너무 좋아요!\n번창하세요ㅠㅠ❤️",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDRfODIg/MDAxNzgzMTYwNjc2MzI2.V2JBhk4LsXnLR7IeFOocZvJTjbZI9nB2J0scla_a_5Yg.TNMEanwoMFMbqw_jCMyJodLpv1mx0DVaPoAtJSoCZ34g.JPEG/8299E92E-24F2-473A-B468-2B595CB06674.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDRfMjg4/MDAxNzgzMTYwNjc2Mjkx.W0Mnenv_IvVR8sT_phEPEd1rHXCZvvmbMZ5pMl9hNo4g.bvJuzqq45ZNtTm-Y5S_ojibCGXaD_vIaDmGpIeoVO0Qg.JPEG/1722A171-AAD5-4C6F-926F-87337C418814.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDRfODAg/MDAxNzgzMTYwNjc2MzA0.OgbpPCYn0nGs_0_R3lzJskanSdxMcxFcAlns2btoHdIg.3bOV5y3Xaqx7NpzCSavZ82twJQt82ACKGZOxNuBaO0kg.JPEG/8F2012EE-201B-483E-A3A7-9F2C487B090F.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "갓파1"
+      },
+      {
+        "body": "다찌에서 꼬치 먹으면서 술 한잔하기에 분위기가 너무 좋습니다~ 직원분들도 친절하시고 꼬치도 너무 맛있네요😁👍🏻",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTZfMTg2/MDAxNzg2ODc5NzU3MTE3.qqEV3OZppFIP9ih7K4QsCKVHvNnOhxp32HSTCoTaZlcg.6oc7jPqWlmFH6PKRWpC8y5uOubKPNXodZz2DP1RIX8Mg.JPEG/E8BC3F4B-A23A-4B80-B55C-01A712BA6361.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTZfMjk5/MDAxNzg2ODc5NzU2MTI2.6Loo4UecOP3t23X-ohGFgF-BnNWxJHfWA1ZnpfscLHwg.4cKI819lJfoiAMwoxcz30-stQKfwmeiCVagFyQ3rbUMg.JPEG/FA094B79-9220-4953-86B1-2C4ED7EF5280.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTZfMTk1/MDAxNzg2ODc5NzU3NDcz.ziZo_iM5XjkLf4FkMq6y0UlJhQ7o_7RHWv0Kp2kBZDYg.1dF1Lkv6FPoY-pWoWGn2yo6uVoNfLHX1FOZiwJZftwgg.JPEG/67D2FA17-C273-4E72-8472-1120B9E4AA41.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "바르샤크"
+      },
+      {
+        "body": "남자친구 덕분에 알게 된 곳인뎅 ㅎㅎ 너무 맛잇고 친절하시고 음식도 너무너무 맛있어용👍🏻❤️ 매번 느끼지만 항상 배불리 먹고 가용 ㅎㅎㅎㅎ\n전포 서면 하면 숨은 입니당>< 완전 강추예영!!\n사장님랑 직원분들도 너무 좋으세용🩷\n또 방문 하겠습니당!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDVfMjE3/MDAxNzgzMjYyMTI4NTU2.sANSyN2NMjme8ZoKSijkyFW-FkwkIWijvUzL4cpzIl0g.JnVlSrbaHnJekEZ5vy-hrJpdgrLryPDPwOkNiCOnnIYg.JPEG/20EB6BAF-4857-44EB-9B37-F8114E2A4DF0.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDVfMjgg/MDAxNzgzMjYyMTI2MDM2.eOVnkY6lPxlWaVQCxGVHVP_rh3YEC14iCjpMT6GiF34g.rYjtXB2FVmG7SRtKUgl7iS7e7VynRXc3roQeuxfteQUg.JPEG/EE46F047-B79A-4883-9099-ECB859FCB28A.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "rla****"
+      },
+      {
+        "body": "소고기랑 채소가 완전 신선하고 육수도 달큰 짭조름하니 맛있었어요. 양도 푸짐해서 배부르게 잘 먹었네요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjA0/MDAxNzg2OTY0NDMwNjQ1.vHDdd7Fb-yXt4y4P1Jc5a-6-U9JDzYATVuyArjd8oqwg.3JtSJ8LNG-yxa8yT_bQuoX-AW82zLu8ahwpxvFRfORwg.JPEG/20260817_191714.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjYx/MDAxNzg2OTY0NDMwNjk1.w_jaT9qGFL5Sn4-02CZFWbtaQwzjCJi2NP0FB6JdHPkg.bD3YBt3zxSrhB40TIx3DXIdxY4VIFEDPLArc1hLZcuUg.JPEG/20260817_195316.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "분실물주인"
+      }
+    ],
+    "folderName": "술집"
   }
 ]
