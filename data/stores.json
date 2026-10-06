@@ -81100,5 +81100,164 @@
       }
     ],
     "folderName": "맛집"
+  },
+  {
+    "id": "1155037207",
+    "name": "애틱",
+    "address": "부산 연제구 중앙천로 33",
+    "roadAddress": "부산 연제구 중앙천로 33 2층",
+    "region": "부산",
+    "district": "연제구",
+    "subRegion": "연제구",
+    "lat": 35.17785,
+    "lng": 129.08275,
+    "category": "술집",
+    "mcid": "BAR",
+    "naverCategory": "바(BAR)",
+    "phone": "",
+    "virtualPhone": "0507-1372-7563",
+    "hours": "20:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20250525_57/1748178523476htqv5_JPEG/1000016078.jpg",
+      "https://ldb-phinf.pstatic.net/20250528_57/1748429451397GLVA1_JPEG/1000016188.jpg",
+      "https://ldb-phinf.pstatic.net/20240903_278/1725363808600pfMtM_JPEG/DSC04360.JPG",
+      "https://ldb-phinf.pstatic.net/20240903_282/17253638891268T5DU_JPEG/DSC04371.JPG",
+      "https://ldb-phinf.pstatic.net/20260325_40/1774443324809dBC20_JPEG/1000025500.jpg",
+      "https://ldb-phinf.pstatic.net/20260325_182/1774443364797uplxL_JPEG/1000026255.jpg",
+      "https://ldb-phinf.pstatic.net/20241205_69/17334060795107T0xv_JPEG/DSC04747.JPG",
+      "https://ldb-phinf.pstatic.net/20241205_116/17334059568827khBp_JPEG/DSC04730.JPG",
+      "https://ldb-phinf.pstatic.net/20241205_275/17334058608113Bggv_JPEG/DSC04706.JPG",
+      "https://ldb-phinf.pstatic.net/20260325_235/1774442564489eTbo0_PNG/%C7%C3%B7%A1%C5%CD_%B9%D7_%BE%C8%C1%D6.png",
+      "https://ldb-phinf.pstatic.net/20260325_160/1774442550168KCENI_PNG/new_%B8%DE%B4%BA%C6%C7_1.png",
+      "https://ldb-phinf.pstatic.net/20260325_107/1774442554456TRblq_PNG/new_%B8%DE%B4%BA%C6%C7_2.png",
+      "https://ldb-phinf.pstatic.net/20260325_92/1774442556913k204o_PNG/new_%B8%DE%B4%BA%C6%C7_3.png",
+      "https://ldb-phinf.pstatic.net/20260325_126/1774442559308e1B8O_PNG/new_%B8%DE%B4%BA%C6%C7_4.png",
+      "https://ldb-phinf.pstatic.net/20260325_72/1774442561533TgviM_PNG/%B0%A1%BC%BA%BA%F1_%C4%AC%C5%D7%C0%CF.png"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20250525_57/1748178523476htqv5_JPEG/1000016078.jpg",
+    "reviews": "방문자 리뷰 91",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1155037207",
+    "instagramUrl": "https://www.instagram.com/bar_attic",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "친절한 사장님과 함께하는 칵테일 타임",
+    "conveniences": [
+      "단체 이용 가능",
+      "포장",
+      "배달",
+      "예약",
+      "무선 인터넷",
+      "간편결제"
+    ],
+    "roadGuide": "물만골역 3번 출구로 나와서 연산초등학교 뒷편 벚꽃길에 위치해 있습니다 :)",
+    "nearestSubway": {
+      "name": "물만골역",
+      "exit": "3",
+      "walkTime": 5
+    },
+    "seatInfo": [
+      {
+        "name": "바테이블",
+        "description": ""
+      },
+      {
+        "name": "좌식",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "입식",
+        "description": ""
+      },
+      {
+        "name": "카운터석",
+        "description": ""
+      },
+      {
+        "name": "테라스",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      },
+      {
+        "name": "루프탑",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "연산동 애틱! 벚꽃뷰 가득한 부산 물만골역 근처 에그타르트 맛집",
+        "url": "https://m.blog.naver.com/born2stellar/224239993748",
+        "name": "StellaLogbook스텔라로그북 ✦ 현실 여행 기록장"
+      },
+      {
+        "title": "아지트 바 애틱Attic 에서 생긴 일",
+        "url": "https://m.blog.naver.com/ofo330/224112614206",
+        "name": "보글보글"
+      },
+      {
+        "title": "늦은 6월 일기 | 애틱, 호우섬, 첨벙, 장백지, 맛찬들 다녀옴! 뽈뽈",
+        "url": "https://m.blog.naver.com/vaebae/224055237574",
+        "name": "빵 헤는 밤"
+      }
+    ],
+    "reviewTotal": 91,
+    "imageReviewCount": 87,
+    "reviewThemes": [
+      "만족도",
+      "맛",
+      "서비스",
+      "분위기",
+      "위치"
+    ],
+    "visitorReviews": [
+      {
+        "body": "따뜻하고 아늑한 분위기 덕분에 마음이 편안해지는 곳이에요. 메뉴 하나하나 정성이 느껴지고, 특히 신선한 멜론과 브라운 치즈 조합이 정말 맛있었어요.\n \n 무엇보다 사장님이 정말 친절하시고, 손님 이야기도 편하게 잘 들어주셔서 혼자 가도 부담 없이 좋은 시간을 보낼 수 있어요~☺️\n\n 정갈한 안주부터 칵테일까지 어느 것 하나 대충 만든 느낌이 없고, 잔의 온",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjNfMTA3/MDAxNzg3NDIzMDc3NDY1.CPrxwZJpfLtzaYCTVnsMB3n4o1d_HopI5JN4U7NbpQAg.MspXur2GuOWgJJZdEelqYkpv7l7Rq6M3UeRnuxgqiXcg.JPEG/20260822_232759.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "pur****"
+      },
+      {
+        "body": "오래간만에 혼술하고 싶어서 왔네요 ㅎ\n한잔만 먹고 가야지하고 왔지만 절대적으로 한잔만 먹을수 없는 곳..!ㅋㅋ\n정성스레 만들어주신 칵테일과 사장님과의 즐거운 대화를 안주삼으며 재밌게! 맛있게 즐기다 갑니다!\n여기 휘낭시에랑 브라우니 진짜맛있는데 오늘은 칵테일위주!ㅋ 대신 서비스로 주신 브라운 치즈로 제대로 입가심합니당 ㅎㅎ\n여기있는 칵테일 다 먹어봐야하는데",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMTYw/MDAxNzgxMjgwNTk5ODg1.GOmNDZFXifn0MGzWgyHZ8c7Dc6PdD4t1uShOem3pbfUg.3dnB-6rjC5K69eRR-nyXtYep5nb2OJ-hundz_wA5XC8g.JPEG/1000019031.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfMTI4/MDAxNzgxMjgwNjExNzIy.9PLCKo-2PFnE3InIVYitInGbh0Koxu-Q25LhQLuwHaQg.XJIvMgFbxNvlYwqSlQZ2MF0Nz0GXwcMYI8eYpEuLuuQg.JPEG/1000019029.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MTNfNiAg/MDAxNzgxMjgwNTk4ODI4.agBwxMMTTtvs9BEVCU9Ek-yV6wuV966Jvbdwr6wsR4wg.TktupWHzp1BgprDQx9e9ppDI4zkHGiC2XEeZohB0jCcg.JPEG/1000019032.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "시수니"
+      },
+      {
+        "body": "에그타르트 맛집이라는 소문 듣고 갔는데 진짜.진짜! 맛있어요 타르트지 완전 바삭하고 에그필링 부드럽고 가득해요💛 다른곳에는 잘 없는 시나몬 에타도 있어서 좋고 코코넛 휘낭시에도 식감 미친맛이라 너무 잘먹었어요\n\n카페 내부가 편안한 분위기라 좋았는데 사장님도 친절하셔서 기분좋은 방문이었습니다. 재방문 할 동네맛집이예요👍",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTFfMjE1/MDAxNzc4NDcwNzg4NjY1.d4-3S6zY5Mh5Sb7DLb9lYLKijhnX1BYcWXETgl_VfCAg.TSvFJZ_QYBfxp3f9cQQKZdx6WntXnAUzaeXcaa3z-AQg.JPEG/57D1DFDE-4CFA-4908-B7B5-37B33ACF6307.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTFfMjAw/MDAxNzc4NDcwNzU1MjMz.-mhqLDoV1xIHP1BFlQw4JgksAeQmLpWjVM9znXZ4gF4g.Y41a9KqKpu19GX2QW8eE6Iafm7MZDK5HJc_P3eJ4WTQg.JPEG/5CD0D8F8-7244-46A6-8F9F-C691FE8B3FD0.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MTFfMTA4/MDAxNzc4NDcwNzgzOTMx.hTuprIl9MEjJW9sfAnEPokPe29__h_sulJmPYGwEp1Yg.gAucemAJmR5C5TWrM8V4z-hVYENVIW-cvC5K7UV_LHIg.JPEG/D467A913-5BE5-4F00-9C54-78142EEFA687.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "unununun"
+      },
+      {
+        "body": "사장님 위트 있으시고 칵테일 종류 다양해서 좋아요 ㅎㅎ 다음에 또 재방문할게요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfODcg/MDAxNzgwNDEyNDg1ODA5.DnCDIbW_QHhxaUUepnQsLYMtM_uevqDuXAd1c4rE1D4g.5GBdjOptIR3tNMXsCi_s9JOLWBimGbomDlNjexfvWbMg.JPEG/20260602_214759.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDNfODQg/MDAxNzgwNDEyNDk0MDM1.rDV53dFDy0dWYXty6AiPeI6TxJab8D1uY8hQLWgAwbkg.EVobdoHGr_yQ_ukxHfjm_QUGwKronJinjcyQHdoRQd0g.JPEG/20260602_224051.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "히야9784"
+      },
+      {
+        "body": "I will.be back\n\n단골바 창원갔다가 다시 시청복귀해서\n첫 술집은 애틱으로\n\n애틱 ♡",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDhfMjcg/MDAxNzgzNTIwNTAyOTc5.QzrpKMKbz0_Oilcy2aLsRHP7OiE47Eh_epbYGA-4ugUg.xJtfOX3ww3WBnc-zjJli1immTuChTn5_tPZRS6BTqj8g.JPEG/11333.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "블루버닝"
+      }
+    ],
+    "folderName": "술집"
   }
 ]
