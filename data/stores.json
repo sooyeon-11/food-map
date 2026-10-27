@@ -82138,5 +82138,130 @@
       }
     ],
     "folderName": "술집"
+  },
+  {
+    "id": "1530942162",
+    "name": "제주전복치킨 제주신화월드본점",
+    "address": "제주 서귀포시 녹차분재로 39",
+    "roadAddress": "제주 서귀포시 안덕면 녹차분재로 39 제주전복치킨",
+    "region": "제주",
+    "district": "서귀포시",
+    "subRegion": "서귀포시",
+    "lat": 33.2892218,
+    "lng": 126.3020338,
+    "category": "치킨",
+    "mcid": "DINING",
+    "naverCategory": "치킨,닭강정",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "매주 화요일 휴무",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220607_122/1654601641275Q0FKs_JPEG/20220512_163158.jpg",
+      "https://ldb-phinf.pstatic.net/20220607_274/1654601716767rrxln_JPEG/IMG_0325.jpg",
+      "https://ldb-phinf.pstatic.net/20220607_157/1654601718160j5hr6_JPEG/IMG_0486.jpg",
+      "https://ldb-phinf.pstatic.net/20220607_66/1654601719415qrXsf_JPEG/IMG_0567.jpg",
+      "https://ldb-phinf.pstatic.net/20260124_66/17692416401480VK6s_JPEG/20260124_165817.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMzAg%2FMDAxNzgxMzAzODQ5NTgz.dHxOblhUORfMonQvUy8JS3gkzKy_qYzJLuMOQbpolFAg.Nljr8mQAlYRJlO4T8kSaundIyXiCxgm7JM_S7ri1MIog.JPEG%2FKakaoTalk_20260610_131610071_27.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfOTQg%2FMDAxNzgxMzAzMDk0ODY4.MN-MaGWAOlqVtfvvZ5Ix5uqMqBp8AL4I03t94nTX6MUg.CchU57jj3BV0G8Ufdk9gBdMAl86X4nHRrfFz3U8zKJAg.JPEG%2FKakaoTalk_20260610_131610071_25.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfODIg%2FMDAxNzgxMzAzODQxMzYw.s7jcJg7FJA2M1X21UwL6EZWyBY1YQU44eWV1o4s7IXog.c7yQgATc7k1xTIp1WjXcRxJO324IXOs0azEj3Hfx_Lsg.JPEG%2FKakaoTalk_20260610_131610071_29.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTYz%2FMDAxNzgxMzAzODQ1Mzk5.9ya31C6KgIgXwzesqIT-a2w9b1lN6Teu7RFcIIcQdTcg.PVOmCMt6yufJCkvGBq0QTePd1tcVCPLf1y3VHxwy-vcg.JPEG%2FKakaoTalk_20260610_131610071_26.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTNfMTQ2%2FMDAxNzgxMzAzODU0NTIx.-DIR8PdG2olQht18GeRd8_Eqe45J-jsRqg6mWHClq5kg.LbO9uPOcmTs4JU8MINTRCxgQsFVF9a6OVAkILZFSz1wg.JPEG%2FKakaoTalk_20260610_131610071_28.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTRfNzYg%2FMDAxNzgxNDI4NjU1MzA4.Fgv058RMKgz3d62nV-bq7bRwZzEDygsM3fvj5mDRV0sg.Af6w0CA9O1X5sl4bZrFQrTuyZqz8lElbk9S8-UFexeAg.JPEG%2FKakaoTalk_20260614_092016395_27.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjEwMDlfMTIw%2FMDAxNzkxNTI3NTg0NDM2.sBzQ4W_9l6WIAwpUKRtzp_V3tb9l6mAPKN_od5k997Mg.qlTDSvZPYcS1hpmTfXGkY9clhQ-uG9Puwcjzcxi6Z0sg.JPEG%2Foutput%25A3%25DF2350123555.jpg",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjEwMDlfMjkg%2FMDAxNzkxNTI3MzIwNjY0.6GHybzO74g0aFCwWcLDxGH5UHW-RIRJ4SIMB-KGT7iQg.XveB1FgE2YpFkLWjVbdOsxWB6KA-PwtQbUrBtGpL-6Yg.JPEG%2FIMG%25A3%25DF7928.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjEwMDlfMTM4%2FMDAxNzkxNTI3MzIxNTg5.-4CNE_zXZ81Oh3iavweRQmPdsGb55ErutKXTUQn3o7Qg.r3tVKJlevMhPEplC04wYBphMQMXnUZwpncUhGEbWZvQg.JPEG%2FIMG%25A3%25DF7929.JPG",
+      "https://wsrv.nl/?url=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjEwMDlfMTkz%2FMDAxNzkxNTI3Njg5NzE2._ZnXv-CcfeHCRGish6YZbMeW6mQHcL4980Dd0zgUUhcg.9obWnseLNp_-zUIgXndN_zfUv9q7LE9FXAox0_f4704g.JPEG%2Foutput%25A3%25DF4013287701.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20220607_122/1654601641275Q0FKs_JPEG/20220512_163158.jpg",
+    "reviews": "방문자 리뷰 523",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1530942162",
+    "instagramUrl": "http://www.instagram.com/gong2902",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "신화월드에서 꼭 먹어야 할 메뉴",
+    "conveniences": [
+      "배달",
+      "포장",
+      "예약",
+      "주차",
+      "단체 이용 가능",
+      "무선 인터넷",
+      "반려동물 동반"
+    ],
+    "roadGuide": "서귀포 제주신화월드 5분거리, 오설록5분거리",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "신화월드 배달맛집 - 제주전복치킨",
+        "url": "https://m.blog.naver.com/endlessgreed/224314547815",
+        "name": "행복지수 = 재능x노력-욕심"
+      },
+      {
+        "title": "제주도가면 전복치킨 꼭드셔보세욥~",
+        "url": "https://m.cafe.naver.com/azulcielo/55858?query=%EC%9A%B8%EC%82%B0%20%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%3A%3A%20%EC%9A%B8%EB%AA%A8%EB%B8%94",
+        "name": "울산 모두의 블로그 :: 울모블"
+      },
+      {
+        "title": "[안덕면] 제주신화월드맛집 제주전복치킨 제주치킨맛집",
+        "url": "https://m.blog.naver.com/ormrbb/224438084371",
+        "name": "제주ON"
+      }
+    ],
+    "reviewTotal": 523,
+    "imageReviewCount": 262,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "음식량",
+      "배달"
+    ],
+    "visitorReviews": [
+      {
+        "body": "밥을 많이 먹고 왔는데 전복치킨 전부터 먹고싶었던거라 간단히 조금이라도 먹고오자 싶었는데 사장님 인심이🥹🥹🥹\n세상에…….정을 듬뿍 느끼고 갑니다🥹🫶🏻🫶🏻🫶🏻\n애기들 예쁘다고 서비스를 너무 많이 주셔서..아이들이 이 동네 살고싶대요😍ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n배달 챙기시는거 슬쩍 봤는데 원래도 인심이 아주 좋으신 분 같아요~~~ 치킨은 물론 바삭",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjVfMTE4/MDAxNzkwMzQwOTkxNDEy.-rhObBXwNR5GY47i5I-VACXWzSkw8ybFhJhoqkFt9zQg.srn1QnhNoBD81Y40zRWXhnwMKeDpxvL135-z4pX8T3cg.JPEG/73855738-AD99-4668-8AB3-A82A92A2E0DE.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjVfMTQ3/MDAxNzkwMzQwOTkxNzAy.s4Mi5gF05w96l9oWtVvk4V27kKitATLonNAo3iOFo8kg.f9sRYLBCDQoL1fQ3Np2bC5CMXGzcKHVCRaAfleMhjL4g.JPEG/F90DB0EE-F6B5-48C3-AFCA-F94339D53CB5.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjVfMTA5/MDAxNzkwMzQwOTkyNjcz.C_7-uFN7rCmARgFxu81XjZfOUO6OYwF1DUvEgg93u28g.yizUfmZijgE0Dr16orwstK3c54zzxtBUMGsH_2E1axIg.JPEG/48B0F9B9-5684-4646-8135-9D14E4D339F0.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "망고탄이꿀이"
+      },
+      {
+        "body": "정말 친절하시고 치킨이랑 한치 전복 숙회 무침 먹었는데 너무 잘어울려요 그리고 아이들과 갔는데 ㅠㅠ 전복죽도 맛있고 과자도 많이 주시고 배터질뻔 했는데요다음 제주 방문시에도 방문 예정입니다 ^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDJfNzUg/MDAxNzkwOTM1MzE0NDMw.zfHaGLFcIPX1tUX4zrwfWjsEivIjUXmqfnr2CarEd1Yg.beKDm_Yi-i72nvmPT6eEsB9j6PFQSAfpSogZUB7Ag10g.JPEG/IMG_3925.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDJfNTcg/MDAxNzkwOTM1MzEzNTEx.4jedHwcJl47A4DZPiwPkeZ19yYP1tEScwZMAx7pgEicg.nR1GHwQOHLK0b_yRdPPZuWe4iHd3rZhAPy6Dv7RTl2cg.JPEG/IMG_3926.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "뚱곰24"
+      },
+      {
+        "body": "2년전에 왔다가 너무 맛있어서 계속 잊지 못했어요\n역시나 사장님 친절하시고 치킨도 맛있고 또 가고 싶네요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMTdfODMg/MDAxNzkyMjEyNTY1NDc1.WogQLeNNu6_JihFO823IuoUgX0ok4GlN49NViISMC9Ig.SIJE8W0wRhjM8Y5MbRgsVUhNv0Ms72gHxc7i4N6IA6kg.JPEG/20261007_202804.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMTdfMTI3/MDAxNzkyMjEyNTY1NjI1.B_W645qRyLYZgExJn5O2I-aNt2zBsqzBtGWK7qTeLuIg.4ZnQJa-YgCX_rlGRKMIQO2rqAtP2pHRMEQKB2jmqzqMg.JPEG/20261007_202806.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMTdfODQg/MDAxNzkyMjEyNTY1NTQ3.3w4GAc06bZfGK2BuUfjyJSseZSLlH8UPgTygAKTwbh4g.wsv4n809VU1ql9DGBrtLDH4oqgpfFklXJMQJAhHU0Fog.JPEG/20261007_202821.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "you****"
+      },
+      {
+        "body": "치킨+전복튀김....색다른조합이라 궁금했는데\n튀김은 bbq가 생각나는 느낌에 맛도 좋다\n그리고 과자에 컵라면에 후식으로 바나나까지 주시는\n사장님 인심 -_-b 좋아요\n\n서귀포쪽으로 오면 꼭 다시오고싶은곳\n\n배달시키믄 간식을 한꾸러미로 줌",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTk2/MDAxNzgxNzgyMDY4OTQ0.rhbuxrE1jUb1zO7UngqNXxcFdnOWp4IXGVbJb3hbSyQg.jSRTwv2cps_Bh-oZoevboN_n0PGsEYlbsj7IVKdix-Ug.JPEG/5772.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMTcz/MDAxNzgxNzgyMDY4OTEw.c-ioo3-6RIwalTJqnBrjjCILdWtka-48yfMOjtvM58gg.169ZTv2JFOeJjavI9mdEs0JQFWNijWXVJPH1x7FWhesg.JPEG/5771.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MThfMzkg/MDAxNzgxNzgyMDY4ODg3.4kkalLwxEm1BHxug8TYXb1P46pRSzHuGzcVam34FdI8g.rffFsH1fYiiuXqZp6Ng7CU3QEnhdNsBago9e7umOewQg.JPEG/5769.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "바람의정령"
+      },
+      {
+        "body": "사장님이 너무 기분좋게 해주시고, 기본적으로 치킨이 정말 맛있습니다. 이것저것 많이 주시고 신화월드 오시는분들 특히 강추합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDRfMjEy/MDAxNzkxMTEzOTcyOTI2.FHcxaFUjqulQiFobjGgmaLFVNW8YDEYUixhpesptz9Eg.JO4jo5IkSB46mHro8MNP40b6tFX7O7GirednQEIn5hkg.JPEG/20261004_203801.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "독립정신"
+      }
+    ],
+    "folderName": "맛집"
   }
 ]
